@@ -136,3 +136,6 @@ config.py
 
 # Adding text file notes
 api_key_example.txt
+
+# Adding ipynb files
+football_data_gather.ipynb
