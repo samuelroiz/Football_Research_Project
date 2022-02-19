@@ -1,0 +1,30 @@
+match_start,stage_name,group_name,round_name,home_team_name,home_team_short_code,away_team_name,away_team_short_code,stats_home_score,stats_away_score,stats_halftime_score,stats_fulltime_score,venue_name,venue_capacity,venue_city
+6/26/2018 17:00,NaN,NaN,2,FC Santa Coloma,FCC,KF Drita,DRI,0,2,0-0,0-0,Victoria Stadium,5000,Gibraltar
+6/26/2018 21:00,NaN,NaN,2,SP La Fiorita,LAF,Lincoln Red Imps FC,LIN,0,2,0-1,0-2,Victoria Stadium,5000,Gibraltar
+6/29/2018 20:30,NaN,NaN,1,Lincoln Red Imps FC,LIN,KF Drita,DRI,1,4,0-1,1-Jan,Victoria Stadium,5000,Gibraltar
+7/10/2018 17:30,NaN,NaN,14,FC Flora Tallinn,FLO,Hapoel Beer Sheva FC,HBS,1,4,0-2,4-Jan,A. Le Coq Arena,15000,Tallinn
+7/10/2018 17:30,NaN,NaN,14,FC Torpedo 2008 Kutaisi,TKU,FC Sheriff Tiraspol,SHF,2,1,1-Jan,1-Feb,Ramaz Shengelia Stadium,12000,Kutaisi
+7/10/2018 18:00,NaN,NaN,14,Alashkert,ALA,Celtic Glasgow,CEL,0,3,0-1,0-3,Alashkert Stadium,6850,Yerevan
+7/10/2018 18:00,NaN,NaN,14,F91 Dudelange,F91,Fehervar FC,FEH,1,1,0-1,1-Jan,Stade Jos Nosbaum,2558,Dudelange
+7/10/2018 19:00,NaN,NaN,14,HJK Helsinki,HJK,Vikingur Gota,VIK,0,0,-,-,Helsinki Football Stadium,10770,Helsinki
+7/10/2018 20:00,NaN,NaN,14,Vikingur Gota,VIK,HJK Helsinki,HJK,1,2,0-2,2-Jan,Sarpugerdi Stadium,3000,Nordragota
+7/10/2018 20:15,NaN,NaN,14,FK Shkendija,SHK,The New Saints FC,TNS,5,0,Feb-00,May-00,Ecolog Arena,15000,Tetovo
+7/10/2018 20:45,NaN,NaN,14,KF Drita,DRI,Malmo FF,MAL,0,3,0-2,0-3,Gjilan City Stadium,15000,Gjilan
+7/10/2018 20:45,NaN,NaN,14,Cork City FC,COR,Legia Warsaw,LEG,0,1,0-0,0-1,Turners Cross,7365,Cork
+7/11/2018 16:00,NaN,NaN,14,FC Astana,FCA,FK Sutjeska,SUT,1,0,Jan-00,Jan-00,Astana Arena,30000,Nur-Sultan
+7/11/2018 18:00,NaN,NaN,14,FC Spartak Trnava,TRN,Hsk Zrinjski Mostar,ZRI,1,0,0-0,Jan-00,Stadion Antona Malatinskeho,19200,Trnava
+7/11/2018 18:00,NaN,NaN,14,FK Suduva Marijampole,SUD,Apoel Nicosia FC,APO,3,1,Mar-00,1-Mar,Arvi arena,6500,Marijampole
+7/11/2018 18:00,NaN,NaN,14,FK Spartaks Jurmala,SPA,FK Red Star Belgrade,CRZ,0,0,0-0,0-0,Slokas Stadions,2800,Jurmala
+7/11/2018 19:00,NaN,NaN,14,KS Kukesi,KUK,Valletta FC,VAL,0,0,0-0,0-0,Zeqir Ymeri Stadium,5500,Kukes
+7/11/2018 19:00,NaN,NaN,14,Ludogorets 1945 Razgrad,LUD,Crusaders FC,CRU,7,0,Feb-00,Jul-00,Ludogorets Arena,10422,Razgrad
+7/11/2018 20:00,NaN,NaN,14,NK Olimpija Ljubljana,OLI,Qarabag FK,QAR,0,1,0-0,0-1,Stozice Stadium,16038,Ljubljana
+7/11/2018 22:00,NaN,NaN,14,Valur Reykjavik,VAL,Rosenborg BK,RBK,1,0,0-0,Jan-00,HlÃ­darendi Reykjavik,2000,Reykjavik
+7/17/2018 18:00,NaN,NaN,14,HJK Helsinki,HJK,Vikingur Gota,VIK,3,1,1-Mar,1-Mar,Helsinki Football Stadium,10770,Helsinki
+7/17/2018 18:00,NaN,NaN,14,Valletta FC,VAL,KS Kukesi,KUK,1,1,0-0,1-Jan,NaN,NaN,NaN
+7/17/2018 19:00,NaN,NaN,14,Malmo FF,MAL,KF Drita,DRI,2,0,0-0,Feb-00,Stadion,22500,Malmo
+7/17/2018 19:00,NaN,NaN,14,Hapoel Beer Sheva FC,HBS,FC Flora Tallinn,FLO,3,1,Feb-00,1-Mar,Toto Turner Stadium,16126,Beersheba
+7/17/2018 19:00,NaN,NaN,14,Apoel Nicosia FC,APO,FK Suduva Marijampole,SUD,1,0,Jan-00,Jan-00,GSP Stadium,22859,Nicosia
+7/17/2018 20:00,NaN,NaN,14,The New Saints FC,TNS,FK Shkendija,SHK,4,0,Mar-00,Apr-00,Park Hall,2048,Oswestry
+7/17/2018 20:15,NaN,NaN,14,Fehervar FC,FEH,F91 Dudelange,F91,2,1,Jan-00,1-Feb,Pancho Arena,3500,Felcsut
+7/17/2018 20:30,NaN,NaN,14,FK Red Star Belgrade,CRZ,FK Spartaks Jurmala,SPA,2,0,0-0,Feb-00,Stadium Rajko Mitic,55538,Belgrade
+7/17/2018 21:00,NaN,NaN,14,Crusaders FC,CRU,Ludogorets 1945 Razgrad,LUD,0,2,0-1,0-2,Seaview,3383,Belfast
