@@ -13,7 +13,7 @@
     "venue_name": "Luzhniki Stadium",
     "venue_capacity": 78011,
     "venue_city": "Moscow",
-    "coordinates_lat_lng": "55.715786, 37.553703"
+    "coordinates": "55.715786, 37.553703"
   },
   {
     "match_start": "6/15/2018 12:00",
@@ -29,7 +29,7 @@
     "venue_name": "Central Stadium",
     "venue_capacity": 35061,
     "venue_city": "Ekaterinburg",
-    "coordinates_lat_lng": "46.38022, 48.05684"
+    "coordinates": "46.38022, 48.05684"
   },
   {
     "match_start": "6/15/2018 15:00",
@@ -45,7 +45,7 @@
     "venue_name": "Gazprom Arena",
     "venue_capacity": 70000,
     "venue_city": "Saint Petersburg",
-    "coordinates_lat_lng": "59.972733, 30.219210"
+    "coordinates": "59.972733, 30.219210"
   },
   {
     "match_start": "6/15/2018 18:00",
@@ -61,7 +61,7 @@
     "venue_name": "Fisht Olympic Stadium",
     "venue_capacity": 47659,
     "venue_city": "Sochi",
-    "coordinates_lat_lng": "43.402245, 39.956"
+    "coordinates": "43.402245, 39.956"
   },
   {
     "match_start": "6/16/2018 10:00",
@@ -77,7 +77,7 @@
     "venue_name": "Kazan Arena",
     "venue_capacity": 45093,
     "venue_city": "Kazan",
-    "coordinates_lat_lng": "55.818837,49.158497"
+    "coordinates": "55.818837,49.158497"
   },
   {
     "match_start": "6/16/2018 13:00",
@@ -93,7 +93,7 @@
     "venue_name": "Otkritie Arena",
     "venue_capacity": 45360,
     "venue_city": "Moscow",
-    "coordinates_lat_lng": "55.715786, 37.553703"
+    "coordinates": "55.715786, 37.553703"
   },
   {
     "match_start": "6/16/2018 16:00",
@@ -109,7 +109,7 @@
     "venue_name": "Mordovia Arena",
     "venue_capacity": 41685,
     "venue_city": "Saransk",
-    "coordinates_lat_lng": "54.1838, 45.1749"
+    "coordinates": "54.1838, 45.1749"
   },
   {
     "match_start": "6/16/2018 19:00",
@@ -125,7 +125,7 @@
     "venue_name": "Kaliningrad Stadium",
     "venue_capacity": 33973,
     "venue_city": "Kaliningrad",
-    "coordinates_lat_lng": "54.70649, 20.51095"
+    "coordinates": "54.70649, 20.51095"
   },
   {
     "match_start": "6/17/2018 12:00",
@@ -141,7 +141,7 @@
     "venue_name": "Samara Arena",
     "venue_capacity": 44918,
     "venue_city": "Samara",
-    "coordinates_lat_lng": "53.20007, 50.15"
+    "coordinates": "53.20007, 50.15"
   },
   {
     "match_start": "6/17/2018 15:00",
@@ -157,7 +157,7 @@
     "venue_name": "Luzhniki Stadium",
     "venue_capacity": 78011,
     "venue_city": "Moscow",
-    "coordinates_lat_lng": "55.715786, 37.553703"
+    "coordinates": "55.715786, 37.553703"
   },
   {
     "match_start": "6/17/2018 18:00",
@@ -173,7 +173,7 @@
     "venue_name": "Rostov Arena",
     "venue_capacity": 45000,
     "venue_city": "Rostov-on-Don",
-    "coordinates_lat_lng": "47.23135, 39.72328"
+    "coordinates": "47.23135, 39.72328"
   },
   {
     "match_start": "6/18/2018 12:00",
@@ -189,7 +189,7 @@
     "venue_name": "Nizhny Novgorod Stadium",
     "venue_capacity": 43319,
     "venue_city": "Nizhny Novgorod",
-    "coordinates_lat_lng": "56.3056504441,43.924006304"
+    "coordinates": "56.3056504441,43.924006304"
   },
   {
     "match_start": "6/18/2018 15:00",
@@ -205,7 +205,7 @@
     "venue_name": "Fisht Olympic Stadium",
     "venue_capacity": 47659,
     "venue_city": "Sochi",
-    "coordinates_lat_lng": "43.402245, 39.956"
+    "coordinates": "43.402245, 39.956"
   },
   {
     "match_start": "6/18/2018 18:00",
@@ -221,7 +221,7 @@
     "venue_name": "Volgograd Arena",
     "venue_capacity": 43713,
     "venue_city": "Volgograd",
-    "coordinates_lat_lng": "43.402245,39.956"
+    "coordinates": "43.402245,39.956"
   },
   {
     "match_start": "6/19/2018 12:00",
@@ -237,7 +237,7 @@
     "venue_name": "Mordovia Arena",
     "venue_capacity": 41685,
     "venue_city": "Saransk",
-    "coordinates_lat_lng": "54.1838, 45.1749"
+    "coordinates": "54.1838, 45.1749"
   },
   {
     "match_start": "6/19/2018 15:00",
@@ -253,7 +253,7 @@
     "venue_name": "Otkritie Arena",
     "venue_capacity": 45360,
     "venue_city": "Moscow",
-    "coordinates_lat_lng": "55.715786, 37.553703"
+    "coordinates": "55.715786, 37.553703"
   },
   {
     "match_start": "6/19/2018 18:00",
@@ -269,7 +269,7 @@
     "venue_name": "Gazprom Arena",
     "venue_capacity": 70000,
     "venue_city": "Saint Petersburg",
-    "coordinates_lat_lng": "59.972733, 30.219210"
+    "coordinates": "59.972733, 30.219210"
   },
   {
     "match_start": "6/20/2018 12:00",
@@ -285,7 +285,7 @@
     "venue_name": "Luzhniki Stadium",
     "venue_capacity": 78011,
     "venue_city": "Moscow",
-    "coordinates_lat_lng": "55.715786, 37.553703"
+    "coordinates": "55.715786, 37.553703"
   },
   {
     "match_start": "6/20/2018 15:00",
@@ -301,7 +301,7 @@
     "venue_name": "Rostov Arena",
     "venue_capacity": 45000,
     "venue_city": "Rostov-on-Don",
-    "coordinates_lat_lng": "47.23135, 39.72328"
+    "coordinates": "47.23135, 39.72328"
   },
   {
     "match_start": "6/20/2018 18:00",
@@ -317,7 +317,7 @@
     "venue_name": "Kazan Arena",
     "venue_capacity": 45093,
     "venue_city": "Kazan",
-    "coordinates_lat_lng": "55.818837,49.158497"
+    "coordinates": "55.818837,49.158497"
   },
   {
     "match_start": "6/21/2018 12:00",
@@ -333,7 +333,7 @@
     "venue_name": "Samara Arena",
     "venue_capacity": 44918,
     "venue_city": "Samara",
-    "coordinates_lat_lng": "53.20007, 50.15"
+    "coordinates": "53.20007, 50.15"
   },
   {
     "match_start": "6/21/2018 15:00",
@@ -349,7 +349,7 @@
     "venue_name": "Central Stadium",
     "venue_capacity": 35061,
     "venue_city": "Ekaterinburg",
-    "coordinates_lat_lng": "46.38022, 48.05684"
+    "coordinates": "46.38022, 48.05684"
   },
   {
     "match_start": "6/21/2018 18:00",
@@ -365,7 +365,7 @@
     "venue_name": "Nizhny Novgorod Stadium",
     "venue_capacity": 43319,
     "venue_city": "Nizhny Novgorod",
-    "coordinates_lat_lng": "56.3056504441,43.924006304"
+    "coordinates": "56.3056504441,43.924006304"
   },
   {
     "match_start": "6/22/2018 12:00",
@@ -381,7 +381,7 @@
     "venue_name": "Gazprom Arena",
     "venue_capacity": 70000,
     "venue_city": "Saint Petersburg",
-    "coordinates_lat_lng": "59.972733, 30.219210"
+    "coordinates": "59.972733, 30.219210"
   },
   {
     "match_start": "6/22/2018 15:00",
@@ -397,7 +397,7 @@
     "venue_name": "Volgograd Arena",
     "venue_capacity": 43713,
     "venue_city": "Volgograd",
-    "coordinates_lat_lng": "43.402245,39.956"
+    "coordinates": "43.402245,39.956"
   },
   {
     "match_start": "6/22/2018 18:00",
@@ -413,7 +413,7 @@
     "venue_name": "Kaliningrad Stadium",
     "venue_capacity": 33973,
     "venue_city": "Kaliningrad",
-    "coordinates_lat_lng": "54.70649, 20.51095"
+    "coordinates": "54.70649, 20.51095"
   },
   {
     "match_start": "6/23/2018 12:00",
@@ -429,7 +429,7 @@
     "venue_name": "Otkritie Arena",
     "venue_capacity": 45360,
     "venue_city": "Moscow",
-    "coordinates_lat_lng": "55.715786, 37.553703"
+    "coordinates": "55.715786, 37.553703"
   },
   {
     "match_start": "6/23/2018 15:00",
@@ -445,7 +445,7 @@
     "venue_name": "Rostov Arena",
     "venue_capacity": 45000,
     "venue_city": "Rostov-on-Don",
-    "coordinates_lat_lng": "47.23135, 39.72328"
+    "coordinates": "47.23135, 39.72328"
   },
   {
     "match_start": "6/23/2018 18:00",
@@ -461,7 +461,7 @@
     "venue_name": "Fisht Olympic Stadium",
     "venue_capacity": 47659,
     "venue_city": "Sochi",
-    "coordinates_lat_lng": "43.402245, 39.956"
+    "coordinates": "43.402245, 39.956"
   },
   {
     "match_start": "6/24/2018 12:00",
@@ -477,7 +477,7 @@
     "venue_name": "Nizhny Novgorod Stadium",
     "venue_capacity": 43319,
     "venue_city": "Nizhny Novgorod",
-    "coordinates_lat_lng": "56.3056504441,43.924006304"
+    "coordinates": "56.3056504441,43.924006304"
   },
   {
     "match_start": "6/24/2018 15:00",
@@ -493,7 +493,7 @@
     "venue_name": "Central Stadium",
     "venue_capacity": 35061,
     "venue_city": "Ekaterinburg",
-    "coordinates_lat_lng": "46.38022, 48.05684"
+    "coordinates": "46.38022, 48.05684"
   },
   {
     "match_start": "6/24/2018 18:00",
@@ -509,7 +509,7 @@
     "venue_name": "Kazan Arena",
     "venue_capacity": 45093,
     "venue_city": "Kazan",
-    "coordinates_lat_lng": "55.818837,49.158497"
+    "coordinates": "55.818837,49.158497"
   },
   {
     "match_start": "6/25/2018 14:00",
@@ -525,7 +525,7 @@
     "venue_name": "Samara Arena",
     "venue_capacity": 44918,
     "venue_city": "Samara",
-    "coordinates_lat_lng": "53.20007, 50.15"
+    "coordinates": "53.20007, 50.15"
   },
   {
     "match_start": "6/25/2018 14:00",
@@ -541,7 +541,7 @@
     "venue_name": "Volgograd Arena",
     "venue_capacity": 43713,
     "venue_city": "Volgograd",
-    "coordinates_lat_lng": "43.402245,39.956"
+    "coordinates": "43.402245,39.956"
   },
   {
     "match_start": "6/25/2018 18:00",
@@ -557,7 +557,7 @@
     "venue_name": "Kaliningrad Stadium",
     "venue_capacity": 33973,
     "venue_city": "Kaliningrad",
-    "coordinates_lat_lng": "54.70649, 20.51095"
+    "coordinates": "54.70649, 20.51095"
   },
   {
     "match_start": "6/25/2018 18:00",
@@ -573,7 +573,7 @@
     "venue_name": "Mordovia Arena",
     "venue_capacity": 41685,
     "venue_city": "Saransk",
-    "coordinates_lat_lng": "54.1838, 45.1749"
+    "coordinates": "54.1838, 45.1749"
   },
   {
     "match_start": "6/26/2018 14:00",
@@ -589,7 +589,7 @@
     "venue_name": "Fisht Olympic Stadium",
     "venue_capacity": 47659,
     "venue_city": "Sochi",
-    "coordinates_lat_lng": "43.402245, 39.956"
+    "coordinates": "43.402245, 39.956"
   },
   {
     "match_start": "6/26/2018 14:00",
@@ -605,7 +605,7 @@
     "venue_name": "Luzhniki Stadium",
     "venue_capacity": 78011,
     "venue_city": "Moscow",
-    "coordinates_lat_lng": "55.715786, 37.553703"
+    "coordinates": "55.715786, 37.553703"
   },
   {
     "match_start": "6/26/2018 18:00",
@@ -621,7 +621,7 @@
     "venue_name": "Gazprom Arena",
     "venue_capacity": 70000,
     "venue_city": "Saint Petersburg",
-    "coordinates_lat_lng": "59.972733, 30.219210"
+    "coordinates": "59.972733, 30.219210"
   },
   {
     "match_start": "6/26/2018 18:00",
@@ -637,7 +637,7 @@
     "venue_name": "Rostov Arena",
     "venue_capacity": 45000,
     "venue_city": "Rostov-on-Don",
-    "coordinates_lat_lng": "47.23135, 39.72328"
+    "coordinates": "47.23135, 39.72328"
   },
   {
     "match_start": "6/27/2018 14:00",
@@ -653,7 +653,7 @@
     "venue_name": "Kazan Arena",
     "venue_capacity": 45093,
     "venue_city": "Kazan",
-    "coordinates_lat_lng": "55.818837,49.158497"
+    "coordinates": "55.818837,49.158497"
   },
   {
     "match_start": "6/27/2018 14:00",
@@ -669,7 +669,7 @@
     "venue_name": "Central Stadium",
     "venue_capacity": 35061,
     "venue_city": "Ekaterinburg",
-    "coordinates_lat_lng": "46.38022, 48.05684"
+    "coordinates": "46.38022, 48.05684"
   },
   {
     "match_start": "6/27/2018 18:00",
@@ -685,7 +685,7 @@
     "venue_name": "Nizhny Novgorod Stadium",
     "venue_capacity": 43319,
     "venue_city": "Nizhny Novgorod",
-    "coordinates_lat_lng": "56.3056504441,43.924006304"
+    "coordinates": "56.3056504441,43.924006304"
   },
   {
     "match_start": "6/27/2018 18:00",
@@ -701,7 +701,7 @@
     "venue_name": "Otkritie Arena",
     "venue_capacity": 45360,
     "venue_city": "Moscow",
-    "coordinates_lat_lng": "55.715786, 37.553703"
+    "coordinates": "55.715786, 37.553703"
   },
   {
     "match_start": "6/28/2018 14:00",
@@ -717,7 +717,7 @@
     "venue_name": "Samara Arena",
     "venue_capacity": 44918,
     "venue_city": "Samara",
-    "coordinates_lat_lng": "53.20007, 50.15"
+    "coordinates": "53.20007, 50.15"
   },
   {
     "match_start": "6/28/2018 14:00",
@@ -733,7 +733,7 @@
     "venue_name": "Volgograd Arena",
     "venue_capacity": 43713,
     "venue_city": "Volgograd",
-    "coordinates_lat_lng": "43.402245,39.956"
+    "coordinates": "43.402245,39.956"
   },
   {
     "match_start": "6/28/2018 18:00",
@@ -749,7 +749,7 @@
     "venue_name": "Kaliningrad Stadium",
     "venue_capacity": 33973,
     "venue_city": "Kaliningrad",
-    "coordinates_lat_lng": "54.70649, 20.51095"
+    "coordinates": "54.70649, 20.51095"
   },
   {
     "match_start": "6/28/2018 18:00",
@@ -765,7 +765,7 @@
     "venue_name": "Mordovia Arena",
     "venue_capacity": 41685,
     "venue_city": "Saransk",
-    "coordinates_lat_lng": "54.1838, 45.1749"
+    "coordinates": "54.1838, 45.1749"
   },
   {
     "match_start": "6/30/2018 14:00",
@@ -781,7 +781,7 @@
     "venue_name": "Kazan Arena",
     "venue_capacity": 45093,
     "venue_city": "Kazan",
-    "coordinates_lat_lng": "55.818837,49.158497"
+    "coordinates": "55.818837,49.158497"
   },
   {
     "match_start": "6/30/2018 18:00",
@@ -797,7 +797,7 @@
     "venue_name": "Fisht Olympic Stadium",
     "venue_capacity": 47659,
     "venue_city": "Sochi",
-    "coordinates_lat_lng": "43.402245, 39.956"
+    "coordinates": "43.402245, 39.956"
   },
   {
     "match_start": "7/1/2018 14:00",
@@ -813,7 +813,7 @@
     "venue_name": "Luzhniki Stadium",
     "venue_capacity": 78011,
     "venue_city": "Moscow",
-    "coordinates_lat_lng": "55.715786, 37.553703"
+    "coordinates": "55.715786, 37.553703"
   },
   {
     "match_start": "7/1/2018 18:00",
@@ -829,7 +829,7 @@
     "venue_name": "Nizhny Novgorod Stadium",
     "venue_capacity": 43319,
     "venue_city": "Nizhny Novgorod",
-    "coordinates_lat_lng": "56.3056504441,43.924006304"
+    "coordinates": "56.3056504441,43.924006304"
   },
   {
     "match_start": "7/2/2018 14:00",
@@ -845,7 +845,7 @@
     "venue_name": "Samara Arena",
     "venue_capacity": 44918,
     "venue_city": "Samara",
-    "coordinates_lat_lng": "53.20007, 50.15"
+    "coordinates": "53.20007, 50.15"
   },
   {
     "match_start": "7/2/2018 18:00",
@@ -861,7 +861,7 @@
     "venue_name": "Rostov Arena",
     "venue_capacity": 45000,
     "venue_city": "Rostov-on-Don",
-    "coordinates_lat_lng": "47.23135, 39.72328"
+    "coordinates": "47.23135, 39.72328"
   },
   {
     "match_start": "7/3/2018 14:00",
@@ -877,7 +877,7 @@
     "venue_name": "Gazprom Arena",
     "venue_capacity": 70000,
     "venue_city": "Saint Petersburg",
-    "coordinates_lat_lng": "59.972733, 30.219210"
+    "coordinates": "59.972733, 30.219210"
   },
   {
     "match_start": "7/3/2018 18:00",
@@ -893,7 +893,7 @@
     "venue_name": "Otkritie Arena",
     "venue_capacity": 45360,
     "venue_city": "Moscow",
-    "coordinates_lat_lng": "55.715786, 37.553703"
+    "coordinates": "55.715786, 37.553703"
   },
   {
     "match_start": "7/6/2018 14:00",
@@ -909,7 +909,7 @@
     "venue_name": "Nizhny Novgorod Stadium",
     "venue_capacity": 43319,
     "venue_city": "Nizhny Novgorod",
-    "coordinates_lat_lng": "56.3056504441,43.924006304"
+    "coordinates": "56.3056504441,43.924006304"
   },
   {
     "match_start": "7/6/2018 18:00",
@@ -925,7 +925,7 @@
     "venue_name": "Kazan Arena",
     "venue_capacity": 45093,
     "venue_city": "Kazan",
-    "coordinates_lat_lng": "55.818837,49.158497"
+    "coordinates": "55.818837,49.158497"
   },
   {
     "match_start": "7/7/2018 14:00",
@@ -941,7 +941,7 @@
     "venue_name": "Samara Arena",
     "venue_capacity": 44918,
     "venue_city": "Samara",
-    "coordinates_lat_lng": "53.20007, 50.15"
+    "coordinates": "53.20007, 50.15"
   },
   {
     "match_start": "7/7/2018 18:00",
@@ -957,7 +957,7 @@
     "venue_name": "Fisht Olympic Stadium",
     "venue_capacity": 47659,
     "venue_city": "Sochi",
-    "coordinates_lat_lng": "43.402245, 39.956"
+    "coordinates": "43.402245, 39.956"
   },
   {
     "match_start": "7/10/2018 18:00",
@@ -973,7 +973,7 @@
     "venue_name": "Gazprom Arena",
     "venue_capacity": 70000,
     "venue_city": "Saint Petersburg",
-    "coordinates_lat_lng": "59.972733, 30.219210"
+    "coordinates": "59.972733, 30.219210"
   },
   {
     "match_start": "7/11/2018 18:00",
@@ -989,7 +989,7 @@
     "venue_name": "Luzhniki Stadium",
     "venue_capacity": 78011,
     "venue_city": "Moscow",
-    "coordinates_lat_lng": "55.715786, 37.553703"
+    "coordinates": "55.715786, 37.553703"
   },
   {
     "match_start": "7/14/2018 14:00",
@@ -1005,7 +1005,7 @@
     "venue_name": "Gazprom Arena",
     "venue_capacity": 70000,
     "venue_city": "Saint Petersburg",
-    "coordinates_lat_lng": "59.972733, 30.219210"
+    "coordinates": "59.972733, 30.219210"
   },
   {
     "match_start": "7/15/2018 15:00",
@@ -1021,6 +1021,6 @@
     "venue_name": "Luzhniki Stadium",
     "venue_capacity": 78011,
     "venue_city": "Moscow",
-    "coordinates_lat_lng": "55.715786, 37.553703"
+    "coordinates": "55.715786, 37.553703"
   }
 ]
