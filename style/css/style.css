@@ -3,24 +3,18 @@ body {
     height: 80%;
     width: 100%;
     background-color: #EDEDED;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Poppins';
     background-image: url("Instructions/background.jpg");
-}
-/* body {
-  height: 750px;
-  background-position: center;
-  background-repeat: repeat;
-  background-size: cover;
-  background-image: url("Instructions/background.jpg");
-} */
+} 
+
 /* Navbar */
-.navigation {
+/* .navigation {
     color: white;
     font-family: sans-serif;
     background-color: #23B5AE;
     font-weight: bold;
     padding: inherit;
-}
+} */
 /* .navigation .navbar-brand {
     color: white;
     font-family: Verdana;
@@ -30,35 +24,47 @@ body {
     margin-left: 30px;
     padding: 10px;
     box-sizing: border-box;
-} */
-/* .navbar {
-    max-height: 70px;
-    background-color: white;
-    font-size: 16px;
-} */
+}  */
+
+.navbar {
+  background: grey;
+  padding: 2rem 2rem;
+  height: 5rem;
+  min-height: 12vh;
+}
+.navbar-brand img {
+  padding: left 100px;
+  height:50px;
+}
+#spn {
+  -webkit-animation: rotation 3s infinite linear;
+}
+@-webkit-keyframes rotation {
+  from {
+    -webkit-transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(359deg);
+  }
+}
 .dropdown:hover .dropdown-menu {display: block;}
 .dropdown-item{
-    color: #6D8092; 
+    color: aqua; 
 }
 /* Show different color when hovering over items on the navbar */
 .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover{
     background-color:slateblue; 
 }
-.navigation .nav-link:hover{
-    background-color:#E7E7E7;
-   }
-.navigation .navbar-brand:hover{
-    color: rgb(200, 248, 246);
-}
-.container {
+
+/* .container {
     width: 100%;
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
-}
+}  */
 /* Images */
-img {
+.thumpnail {
     position: relative;
     width: 100%;
     height: 100%;
@@ -74,21 +80,21 @@ img {
 }
 
 /* Surrond imgage with text */
-.visualization{
+/* .visualization{
     width: 50%;
     height: 50%;
-}
+}  */
 .temp {
     width: 100%;
     height: 100%;
     background: #EDEDED;
     transition: background-color 2s ease-out 100ms;
-}
+} 
 .temp:hover{
     border-color: slateblue;
     border-style: solid;
     background-color: slateblue;
-}
+} 
 
 
 @-webkit-keyframes humidity-wobble {
@@ -162,37 +168,46 @@ img {
   }
   
 /* Title */
-.title {
+/* .title {
     color: #23B5AE;  
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bolder; 
     padding-top: 25px; 
-}
+} */
+
 /* Paragraph */
-p {
+/* p {
     color: #6D8092;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 18px; 
-}
+}  */
 /* Box */
-.box {
+/* .box {
     margin-top: 50px;
     margin-bottom: 40px;
     padding: 10px 20px 15px;
     color: black;
     background-color: white;
-}
+} */
 
 /* Table */
-.table-responsive {
+/* .table-responsive {
     font-family: Arial, Helvetica, sans-serif;
-}
+} */
+/* .table-responsive :hover{
+  color:#23B5AE;
+} */
+
+
 /* Footer */
 footer {
     background-color: #778899; 
     border-top-style: solid; 
     border-top-width: 3px; 
     border-top-color: #23B5AE;
+    border-bottom: #23B5AE;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
     color: white; 
     min-height: 55px; 
     font-family: Arial, Helvetica, sans-serif;
@@ -202,19 +217,35 @@ footer {
     padding-top: 15px; 
 }
 
-/* @media(max-width: 992px){
+
+  /* footer {
+    background-color: #778899; 
+    border-top-style: solid; 
+    border-top-width: 4px; 
+    border-top-color: darkblue;
+    border-bottom: darkblue;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
+    color: white; 
+    min-height: 55px; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px; 
+    text-align: center; 
+    width: 100%;
+    padding-top: 15px; 
+} */
+ /* @media(max-width: 992px){
 .navbar-brand {
     color: white;
     font-size: 30px;
     background-color: #23B5AE;
     padding: 10px;
-} */
-.navbar{
+}  */
+/* .navbar{
     max-height: 50px; 
     padding: inherit;
-}
+} */
 .container{
     background-color: white;
 }
-
-
+}
