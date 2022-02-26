@@ -1,21 +1,22 @@
 ﻿CREATE TABLE transfers (
+    index INT NOT NULL,
     name VARCHAR(60)   NOT NULL,
-    position VARCHAR(30)   NOT NULL,
+    position VARCHAR(40)   NOT NULL,
     age INT   NOT NULL,
-    team_from VARCHAR(30)   NOT NULL,
-    league_from VARCHAR(30)   NOT NULL,
-    team_to VARCHAR(30)   NOT NULL,
-    league_to VARCHAR(30)   NOT NULL,
-    season VARCHAR(30)   NOT NULL,
+    team_from VARCHAR(40)   NOT NULL,
+    league_from VARCHAR(40)   NOT NULL,
+    team_to VARCHAR(40)   NOT NULL,
+    league_to VARCHAR(40)   NOT NULL,
+    season VARCHAR(40)   NOT NULL,
     market_value INT   NOT NULL,
     transfer_fee INT   NOT NULL,
     CONSTRAINT pk_transfers PRIMARY KEY (
-        name
+        index
      )
 );
 
 CREATE TABLE league_countries (
-    league_name VARCHAR(30)   NOT NULL,
+    league_name VARCHAR(35)   NOT NULL,
     country VARCHAR(30)   NOT NULL,
     CONSTRAINT pk_league_countries PRIMARY KEY (
         league_name
@@ -23,7 +24,7 @@ CREATE TABLE league_countries (
 );
 
 CREATE TABLE locations (
-    country VARCHAR(30)   NOT NULL,
+    country VARCHAR(35)   NOT NULL,
     country_code VARCHAR(10)   NOT NULL,
     latitude VARCHAR(30)   NOT NULL,
     longitude VARCHAR(30)   NOT NULL,
