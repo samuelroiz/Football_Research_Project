@@ -1,96 +1,177 @@
-const queryUrl = "https://d2ad6b4ur7yvpq.cloudfront.net/naturalearth-3.3.0/ne_10m_rivers_europe.geojson";
-d3.json(queryUrl).then(function (data) {
-  createFeatures(data.features);
-});
+d3.json(url, function(data){
+  // circle relies on a list known as earthquakes
+console.log("features check", data.features)
+var games = []
+data.features.forEach(request => {
+  //  [1] is the latitude, [0] is the longtitude... the third number is the depth of the earth quake size
+  var latitude=request.geometry.coordinates[1];
+  var longtitude=request.geometry.coordinates[0];
 
-function createFeatures(venueData) {
-  function getRadius(venue_capacity){
-    return venue_capacity * 1.5
-  }
-  function getColor(feature){
-    let capacity = feature.geometry.coordinates[2];
-    let color = "#ed4928";
-    if      ( capacity > 90) { color = "#def03a" }
-    else if ( capacity > 70) { color = "#3af067"}
-    else if ( capacity > 50) { color = "#6eabf5" }
-    else if ( capacity > 30) { color = "#ae1fde" }
-    else if ( capacity > 10) { color = "#e619a2" }
-    return(color)
-  }
+  games.push(
+      L.marker([latitude, longtitude], {
+          // https://www.geeksforgeeks.org/p5-js-stroke-function/
+          // Stroke false will determine there is no stroke default size and color
+          stroke: false,
+          // http://bl.ocks.org/mapsam/6175692 ... Example of bindPopup and how it works
+          // What bindPopup does is show the marker or circle of its infomration when you click on it
+          // In this code, it will had a popup for the circles 
+                                                                      // https://dev.to/swarnaliroy94/the-keyword-new-in-javascript-fh6
+                                                                      // example of new... new is a way to avoid creating an empty dic. to pass a function
+      }).bindPopup(`<h3>${request.properties.place}</h3><hr><p>${request.properties.title}</p>`,{
+          maxWidth: 560
+      }
+      )
+      
+  );
 
-  function onEachFeature(feature, layer) {
-    layer.bindPopup(`<h3>${feature.venue_city}</h3><hr><p>${new Date(feature.match_start)}<br>Capacity: ${(feature.venue_capacity)}</p>`);
-  }
-
-  function pointToLayer (feature, latlng) {
-    return new L.CircleMarker ( latlng, 
-                                { radius      : getRadius(feature.venue_capacity),
-                                  color       : '#555',
-                                  fillColor   : getColor(feature),
-                                  fillOpacity : 1,
-                                  weight      : 1
-                                }
-                              );
-  }
-
-  const venues = L.geoJSON(venueData, {
-    pointToLayer : pointToLayer,
-    onEachFeature: onEachFeature
   });
 
-  createMap(venues);
-}
+  var games_layers = L.layerGroup(games);
 
-function createMap(venues) {
 
-  const darkMap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
 
-    attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
-    maxZoom: 18,
-    id: "dark-v10",
-    accessToken: API_KEY
-  
-});
-const blueMap = L.tileLayer("https://api.mapbox.com/styles/v1/kevinkvnpr/cl03byarz002e14mohq9xt99a.html?title=view&access_token=pk.eyJ1Ijoia2V2aW5rdm5wciIsImEiOiJja3pwMzE4emMyajl4MnBzOGFsdzFqMzFpIn0.O-GB2-Voj6EjnBqL9Kex8w&zoomwheel=true&fresh=true#10.64/27.6901/85.3358", {
 
-    attribution: "Map data &copy; <a href=\"https://www.openstreetmap.org/\">OpenStreetMap</a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"https://www.mapbox.com/\">Mapbox</a>",
-    maxZoom: 18,
-    id: "streets-v11",
-    accessToken: API_KEY
-  
-});
-  const baseMaps = {
-    "Dark" : darkMap,
-    "Blue" : blueMap
+
+
+  // The link below is the styles... this will determine what kind of layer you want to show. If you want outdoors, you do an outdoor-
+  // https://docs.mapbox.com/api/maps/styles/
+  // For an example... for style of mapbox streets: mapbox://styles/mapbox/streets-v11
+  var streetmap = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}",{
+      aatribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
+      tileSize: 510,
+      maxZoom: 17,
+      zoomOffset: -1,
+      id: "mapbox/streets-v11",
+      accessToken: API_KEY
+  });
+
+
+  var dark_map_layer = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
+      aatribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
+      tileSize: 510,
+      maxZoom: 17,
+      zoomOffset: -1,
+      id: "mapbox/dark-v10",
+      accessToken: API_KEY
+  });
+
+  var outmap = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
+      aatribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
+      tileSize: 510,
+      maxZoom: 17,
+      zoomOffset: -1,
+      id: "mapbox/outdoors-v10",
+      accessToken: API_KEY    
+  });
+
+  var satmap = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
+      aatribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
+      tileSize: 510,
+      maxZoom: 17,
+      zoomOffset: -1,
+      id: "mapbox/satellilite-v8",
+      accessToken: API_KEY    
+  });
+
+  // Define a baseMaps object to hold our base layers
+  // this will be the circle button legend
+  var baseMaps = {
+  "Dark Map": dark_map_layer,
+  "Outdoors Map": outmap,
+  "Satellite Map": satmap,
+  "Street Map": streetmap
   };
 
-  const overlayMaps = {
-    Venues: venues
+d3.json(url, function(data_2){
+  // url_2 will have information of plates
+  // var world_cup_coordinates_game = L.geoJson(data_2);
+  // var uefa_coordinates_game = L.geoJSON(data_3)
+
+  var baseURL = "https://raw.githubusercontent.com/samuelroiz/Football_Research_Project/sven/Sven_Football/data/json_data/wc_lat_lng.json";
+  // Get the data with d3.
+  d3.json(baseURL, function(response) {
+  
+  // Create a new marker cluster group.
+  var markers = L.markerClusterGroup();
+  
+  // Loop through the data.
+  for (var i = 0; i < response.length; i++) {
+  
+      // Set the data location property to a variable.
+      var location = response[i];
+  
+      // Check for the location property.
+      if (location) {
+  
+      // Add a new marker to the cluster group, and bind a popup.
+      markers.addLayer(L.marker([location.latitude, location.longitude])
+          .bindPopup(`<h3>${location.venue_name} in ${location.venue_city}</h3><hr>
+          <p> <b> ${location.home_team_name} </b> (${location.home_team_short_code}) vs. <b> ${location.away_team_name} </b> (${location.away_team_short_code}) </p>
+          <p> Score: ${location.stats_home_score} - ${location.stats_away_score} </p>
+          <p> Match Start: ${location.match_start} </p>
+          <p> Group Stage: ${location.group_name} </p>` ,{
+              maxWidth: 560
+          })
+          );
+      };
+  
   };
- //   Russia coordinates
-  const myMap = L.map("map", {
-    center: [ 61.5240, 105.3188], 
-    zoom: 3,
-    layers: [darkMap, venues]
+
+  var baseURL_2 = "https://raw.githubusercontent.com/samuelroiz/Football_Research_Project/sven/Sven_Football/data/json_data/uefa_MAIN_JSON.json"
+  d3.json(baseURL_2,function(response_2) {
+
+      
+  // Create a new marker cluster group.
+  var markers_2 = L.markerClusterGroup();
+
+  for (var i = 0; i < response_2.length; i++) {
+
+      // Set the data location property to a variable.
+      var location = response_2[i];
+
+      // Check for the location property.
+      if (location) {
+
+      // Add a new marker to the cluster group, and bind a popup.
+      markers_2.addLayer(L.marker([location.latitude, location.longitude])
+          .bindPopup(`<h3>${location.venue_name} in ${location.venue_city}</h3><hr>
+          <p> <b> ${location.home_team_name} </b> (${location.home_team_short_code}) vs. <b> ${location.away_team_name} </b> (${location.away_team_short_code}) </p>
+          <p> Score: ${location.stats_home_score} - ${location.stats_away_score} </p>
+          <p> Match Start: ${location.match_start} </p>
+          <p> Group Stage: ${location.group_name} </p>
+          <p> Maximum Capacity Seats: ${location.venue_capacity}</p> ` ,{
+              maxWidth: 560
+          })
+          );
+      };
+      // myMap.addLayer(markers_2);
+
+  };
+
+
+  var overlayMaps = {
+      "World Cup 2018": markers,
+      "UEFA Seasons": markers_2
+  };
+
+  var myMap = L.map("map", {
+      center:[55.78064753354458,37.662303884348291],
+      zoom: 4,
+      layers:[dark_map_layer]
   });
 
   L.control.layers(baseMaps, overlayMaps, {
-    collapsed: false
+
+      collapsed: false
+
   }).addTo(myMap);
 
-  const legend = L.control({ position: "bottomright" });
+  var info = L.control({
+      position: "topright"
 
-  legend.onAdd = function (map) {
-    const div = L.DomUtil.create("div", "legend");
-    div.innerHTML += "<b>capacity</b><br>";
-    div.innerHTML += '<i style="background: #ed4928"></i><span>&lt;10</span><br>';
-    div.innerHTML += '<i style="background: #def03a"></i><span>10-30</span><br>';
-    div.innerHTML += '<i style="background: #3af067"></i><span>30-50</span><br>';
-    div.innerHTML += '<i style="background: #6eabf5"></i><span>50-70</span><br>';
-    div.innerHTML += '<i style="background: #ae1fde"></i><span>70-90</span><br>';
-    div.innerHTML += '<i style="background: #990668"></i><span>&gt;90</span><br>';
-    return div;
-  };
+  });
 
-  legend.addTo(myMap);
-}
+});
+});
+});    
+});
