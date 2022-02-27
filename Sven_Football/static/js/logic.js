@@ -28,32 +28,8 @@ data.features.forEach(request => {
 
     var games_layers = L.layerGroup(games);
 
-    var base_url = "https://raw.githubusercontent.com/samuelroiz/Football_Research_Project/sven/Sven_Football/data/json_data/wc_lat_lng.json";
-    d3.json(base_url, function(response) {
 
-        // Create a new marker cluster group.
-        var markers = L.markerClusterGroup();
-        
-        // Loop through the data.
-        for (var i = 0; i < response.length; i++) {
-        
-            // Set the data location property to a variable.
-            var location = response[i].venue_city;
-        
-            // Check for the location property.
-            if (location) {
-        
-            // Add a new marker to the cluster group, and bind a popup.
-            markers.addLayer(L.marker([response.latitude, location.longtitude])
-                .bindPopup(response[i].match_start));
-            };
-        
-        };
-        
-        // Add our marker cluster layer to the map.
-        myMap.addLayer(markers);
-        
-        });
+
 
 
 
@@ -106,21 +82,51 @@ data.features.forEach(request => {
     "Street Map": streetmap
     };
 
-d3.json(base_url, function(data_2){
+d3.json(url, function(data_2){
     // url_2 will have information of plates
-    var world_cup_coordinates_game = L.geoJson(data_2);
+    // var world_cup_coordinates_game = L.geoJson(data_2);
     // var uefa_coordinates_game = L.geoJSON(data_3)
 
+    var baseURL = "https://raw.githubusercontent.com/samuelroiz/Football_Research_Project/sven/Sven_Football/data/json_data/wc_lat_lng.json";
+    // Get the data with d3.
+    d3.json(baseURL, function(response) {
+    
+    // Create a new marker cluster group.
+    var markers = L.markerClusterGroup();
+    
+    // Loop through the data.
+    for (var i = 0; i < response.length; i++) {
+    
+        // Set the data location property to a variable.
+        var location = response[i];
+    
+        // Check for the location property.
+        if (location) {
+    
+        // Add a new marker to the cluster group, and bind a popup.
+        markers.addLayer(L.marker([location.latitude, location.longitude])
+            .bindPopup(`<h3>${location.venue_name} in ${location.venue_city}</h3><hr>
+            <p> <b> ${location.home_team_name} </b> (${location.home_team_short_code}) vs. <b> ${location.away_team_name} </b> (${location.away_team_short_code}) </p>
+            <p> Score: ${location.stats_home_score} - ${location.stats_away_score} </p>
+            <p> Match Start: ${location.match_start} </p>
+            <p> Group Stage: ${location.group_name} </p>` ,{
+                maxWidth: 560
+            })
+            );
+        };
+    
+    };
+
+
     var overlayMaps = {
-        "World Cup 2018": games_layers,
-        "Test": world_cup_coordinates_game
+        "World Cup 2018": markers,
         // "UEFA Seasons": uefa_coordinates_game
     };
 
     var myMap = L.map("map", {
         center:[55.78064753354458,37.662303884348291],
         zoom: 4,
-        layers:[dark_map_layer, world_cup_coordinates_game]
+        layers:[dark_map_layer]
     });
 
     L.control.layers(baseMaps, overlayMaps, {
@@ -133,5 +139,6 @@ d3.json(base_url, function(data_2){
         position: "topright"
 
     });
+});
 });    
 });
