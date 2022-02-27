@@ -117,10 +117,41 @@ d3.json(url, function(data_2){
     
     };
 
+    var baseURL_2 = "https://raw.githubusercontent.com/samuelroiz/Football_Research_Project/sven/Sven_Football/data/json_data/uefa_MAIN_JSON.json"
+    d3.json(baseURL_2,function(response_2) {
+
+        
+    // Create a new marker cluster group.
+    var markers_2 = L.markerClusterGroup();
+
+    for (var i = 0; i < response_2.length; i++) {
+
+        // Set the data location property to a variable.
+        var location = response_2[i];
+
+        // Check for the location property.
+        if (location) {
+
+        // Add a new marker to the cluster group, and bind a popup.
+        markers_2.addLayer(L.marker([location.latitude, location.longitude])
+            .bindPopup(`<h3>${location.venue_name} in ${location.venue_city}</h3><hr>
+            <p> <b> ${location.home_team_name} </b> (${location.home_team_short_code}) vs. <b> ${location.away_team_name} </b> (${location.away_team_short_code}) </p>
+            <p> Score: ${location.stats_home_score} - ${location.stats_away_score} </p>
+            <p> Match Start: ${location.match_start} </p>
+            <p> Group Stage: ${location.group_name} </p>
+            <p> Maximum Capacity Seats: ${location.venue_capacity}</p> ` ,{
+                maxWidth: 560
+            })
+            );
+        };
+        // myMap.addLayer(markers_2);
+
+    };
+
 
     var overlayMaps = {
         "World Cup 2018": markers,
-        // "UEFA Seasons": uefa_coordinates_game
+        "UEFA Seasons": markers_2
     };
 
     var myMap = L.map("map", {
@@ -139,6 +170,8 @@ d3.json(url, function(data_2){
         position: "topright"
 
     });
+
+});
 });
 });    
 });
