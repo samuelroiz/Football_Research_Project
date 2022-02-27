@@ -155,8 +155,8 @@ d3.json(url, function(data_2){
   };
 
   var myMap = L.map("map", {
-      center:[55.78064753354458,37.662303884348291],
-      zoom: 4,
+      center:[ 61.5240, 105.3188],
+      zoom: 3,
       layers:[dark_map_layer]
   });
 
