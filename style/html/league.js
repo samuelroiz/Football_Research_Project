@@ -1,3 +1,3 @@
 $( function() {
-    $( ".joueur" ).draggable();
+    $( ".player" ).draggable();
   } );

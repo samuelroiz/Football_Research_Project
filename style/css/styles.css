@@ -53,7 +53,7 @@ header{
 .navigation .navbar-brand:hover{
   color: rgb(200, 248, 246);
 }
-.bench{ 
+.position{ 
  
   margin-left: 100px;
   margin-top: 140px;
@@ -61,7 +61,7 @@ header{
   z-index: 20;
 }
 
-.pitch{
+.field{
   position:relative;
   background-image: url(http://www.conceptdraw.com/How-To-Guide/picture/soccer-football-field-templates/End-Zone-View-Soccer-Football-Field.png);
   opacity: 0.9;
@@ -76,7 +76,7 @@ header{
 }
 
 
-.joueur{
+.player{
   
   display: flex;
   flex-direction: column-reverse;
@@ -85,8 +85,8 @@ header{
   
 }
 
-.joueur.titulaire{
-  position: relative;
+.player.main{
+  position: absolute;
   height: 150px;
   width: 8%;
   border-radius: 5px;
@@ -95,7 +95,7 @@ header{
   
 }
 
-.joueur.one{
+.player.one{
   position: absolute;
   height: 250px;
   width: 28%;
@@ -104,7 +104,7 @@ header{
   text-align: center;
 }
 
-.joueur.banc{
+.player.banc{
   
   margin: 20px;
   height: 150px;
@@ -112,7 +112,7 @@ header{
   text-decoration: none;
 }
 
-.coach{
+.manager{
   margin:20px;
   height: 150px;
   width: 100%;
@@ -212,7 +212,7 @@ header{
   left: 46%;
   top: 7%;
 }
-.textebas{
+.name{
   display:flex;
   flex-direction: row;
   background-color: rgba(36, 255, 180, 1);
