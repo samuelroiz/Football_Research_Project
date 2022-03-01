@@ -1,0 +1,224 @@
+@import url('https://fonts.googleapis.com/css?family=Kumar+One');
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+*{
+  box-sizing:border-box;
+}
+/* .navbar {
+  background: grey;
+  padding: 2rem 2rem;
+  height: 5rem;
+  min-height: 12vh; */
+}
+#spn {
+  -webkit-animation: rotation 3s infinite linear;
+}
+@-webkit-keyframes rotation {
+  from {
+    -webkit-transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(359deg);
+  }
+}
+body{
+  background-image: url(https://static.pexels.com/photos/399187/pexels-photo-399187.jpeg);
+  background-size: cover;
+  background-position: center;
+}
+main{
+  display: flex;
+  justify-content: flex-start;
+}
+header{
+  height: 600px;
+  margin-top: 200px;
+  background-image: url("https://media3.giphy.com/media/l3vQWvLXw74jemGoU/200w.webp?cid=ecf05e47ds2ws3dilgbvt28g36cn2hf2v579k8do9kqn0s8r&rid=200w.webp&ct=g");
+  background-position: center;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  
+}
+.dropdown:hover .dropdown-menu {display: block;}
+.dropdown-item{
+    color: #6D8092; 
+}
+/* Show different color when hovering over items on the navbar */
+.dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover{
+    background-color:slateblue; 
+}
+.navigation .nav-link:hover{
+  background-color:#E7E7E7;
+ }
+.navigation .navbar-brand:hover{
+  color: rgb(200, 248, 246);
+}
+.position{ 
+ 
+  margin-left: 100px;
+  margin-top: 140px;
+  list-style: none;
+  z-index: 20;
+}
+
+.field{
+  position:relative;
+  background-image: url(http://www.conceptdraw.com/How-To-Guide/picture/soccer-football-field-templates/End-Zone-View-Soccer-Football-Field.png);
+  opacity: 0.9;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* background-size: 70%; */
+  width: 80%;
+  margin-left: 100px;
+  margin-top: 50px;
+  list-style: none;
+  
+}
+
+
+.player{
+  
+  display: flex;
+  flex-direction: column-reverse;
+  background-size: cover;
+  background-position: center;
+  
+}
+
+.player.main{
+  position: absolute;
+  height: 150px;
+  width: 8%;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
+  
+}
+
+.player.one{
+  position: absolute;
+  height: 250px;
+  width: 28%;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.player.banc{
+  
+  margin: 20px;
+  height: 150px;
+  width: 100%;
+  text-decoration: none;
+}
+
+.manager{
+  margin:20px;
+  height: 150px;
+  width: 100%;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column-reverse;
+  background-size: cover;
+  background-position: center;
+}
+
+#messi{
+ background-image: url("https://cdn.images.express.co.uk/img/dynamic/67/590x/secondary/Lionel-Messi-694616.jpg");
+  
+}
+
+
+#ronaldo{
+  background-image: url( "https://cdn.images.express.co.uk/img/dynamic/67/590x/secondary/Ronaldo-694617.jpg")
+}
+
+#ronaldo_{
+  background-image: url( "https://cdn.images.express.co.uk/img/dynamic/67/590x/724444_1.jpg")
+}
+
+#ronaldo_messi{
+  background-image: url( "https://cdn.images.express.co.uk/img/dynamic/67/590x/secondary/Sergio-Aguero-Lionel-Messi-702312.jpg")
+}
+
+
+
+#coach{
+  background-image: url( "http://www.squawka.com/news/wp-content/uploads/2016/10/Antonio-Conte.jpg")
+}
+
+#courtois{
+  background-image: url( "https://cdn.images.express.co.uk/img/dynamic/67/590x/724501_1.jpg");
+  left: 46%;
+  bottom: 12%;
+}
+
+#neymar{
+  background-image: url( "https://cdn.images.express.co.uk/img/dynamic/67/590x/723893_1.jpg");
+  right: 25%;
+  bottom: 35%;
+}
+
+#mbappe{
+  background-image: url( "https://cdn.images.express.co.uk/img/dynamic/67/590x/716496_1.jpg");
+  left: 40%;
+  bottom: 30%;
+}
+
+#matip{
+  background-image: url( "http://www.edennewspaper.net/wp-content/uploads/2016/02/57147_2_201273015563143.jpg");
+  right: 40%;
+  bottom: 30%;
+}
+
+#lewandowski{
+  background-image: url( "https://cdn.images.express.co.uk/img/dynamic/67/590x/secondary/Lewandowski-676225.jpg");
+  left: 25%;
+  bottom: 35%;
+}
+
+#bruyne{
+  background-image: url( "https://cdn.images.express.co.uk/img/dynamic/67/590x/720975_1.jpg");
+  left: 56%;
+  top: 36%;
+}
+
+#pogba{
+  background-image: url( "http://www.sofoot.com/IMG/img-pogba-sa-coupe-de-cheveux-et-ses-fans-1472396000_580_380_center_articles-261378.jpg");
+  left: 36%;
+   top: 36%;
+}
+
+#hazard{
+  background-image: url( "https://static.independent.co.uk/s3fs-public/styles/article_small/public/thumbnails/image/2016/12/26/16/eden-hazard.jpg");
+  left: 30%;
+  top: 15%;
+}
+
+#alli{
+  background-image: url( "https://www.thesun.co.uk/wp-content/uploads/2016/10/dele-alli-7.jpg?w=620&strip=all");
+    left: 46%;
+    top: 24%;
+}
+
+#oblak{
+  background-image: url( "https://cdn.images.express.co.uk/img/dynamic/67/590x/719201_1.jpg");
+  right: 30%;
+  top: 15%;
+}
+
+#lukaku{
+  background-image: url( "http://www.africatopsports.com/wp-content/uploads/2015/12/lukaku.jpg");
+  left: 46%;
+  top: 7%;
+}
+.name{
+  display:flex;
+  flex-direction: row;
+  background-color: rgba(36, 255, 180, 1);
+  justify-content: center;
+  color: rgba(90, 59, 180, 1);
+  border-radius: 3px;
+  padding: 1.9px;
+  font-family: 'Merriweather', serif;
+}

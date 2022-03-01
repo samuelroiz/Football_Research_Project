@@ -30,7 +30,7 @@ d3.json("./static/data/samples.json").then((importedData) => {
 
   // Apply the group bar mode to the layout.
   var layout = {
-    title: "10 Most Expensive Transfers of that Season",
+    title: "Most Expensive Transfers of that Season",
     margin: {
       l: 100,
       r: 100,

@@ -48,25 +48,43 @@ class Locations(Base):
 
 
 
-# @app.route("/")
-# def home():
-#     return render_template("index.html")
-# @app.route('/input', methods=['GET', 'POST'])
+
+
+@app.route("/")
+def index():
+    return render_template('index.html')
+
+@app.route("/about")
+def about():
+    return render_template('about.html')
+
+@app.route("/authors")
+def authors():
+    return render_template('authors.html')
+
+@app.route("/league")
+def league():
+    return render_template('league.html')
+
+@app.route("/mr")
+def mr():
+    return render_template('messi_ronaldo.html')
+
+@app.route("/shootouts")
+def shootouts():
+    return render_template('shootouts.html')
+
+# @app.route("/shootouts2")
 # def index():
-# user_input = input("What season do you want to check? ")
-#     return("/transfer")
+#     return render_template('shootouts2.html')
 
-# @app.route("/")
-# def index():
-#     return render_template('index.html')
-
-# @app.route("/input", methods=['GET'])
-# def input():
-#     Colours=engine.execute("SELECT season FROM transfers order by season")
-#     return render_template("index.html",Colours=Colours )
+@app.route("/world-cup")
+def worldCup():
+    return render_template('world_cup.html')
 
 
-@app.route('/', methods =["GET", "POST"])
+
+@app.route('/transfers', methods =["GET", "POST"])
 def from_coordinates():
     
     if request.method == 'POST':
@@ -94,8 +112,8 @@ def from_coordinates():
         # json_json = open("samples.json", "w")
         # json.dump(res, json_json, indent=6)
         trans_json.close()
-        return render_template('index.html')
-    return render_template('index.html')
+        return render_template('transfers.html')
+    return render_template('transfers.html')
     
 
 
