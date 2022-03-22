@@ -1,0 +1,65 @@
+match_start,group_name,home_team_name,home_team_short_code,away_team_name,away_team_short_code,stats_home_score,stats_away_score,stats_halftime_score,stats_fulltime_score,venue_name,venue_capacity,venue_city
+2018-06-14 15:00:00,A,Russia,RUS,Saudi Arabia,KSA,5,0,2-0,5-0,Luzhniki Stadium,78011,Moscow
+2018-06-15 12:00:00,A,Egypt,EGY,Uruguay,URU,0,1,0-0,0-1,Central Stadium,35061,Ekaterinburg
+2018-06-15 15:00:00,B,Morocco,MAR,Iran,IRI,0,1,0-0,0-1,Gazprom Arena,70000,Saint Petersburg
+2018-06-15 18:00:00,B,Portugal,POR,Spain,ESP,3,3,2-1,3-3,Fisht Olympic Stadium,47659,Sochi
+2018-06-16 10:00:00,C,France,FRA,Australia,AUS,2,1,0-0,2-1,Kazan Arena,45093,Kazan
+2018-06-16 13:00:00,D,Argentina,ARG,Iceland,ISL,1,1,1-1,1-1,Otkritie Arena,45360,Moscow
+2018-06-16 16:00:00,C,Peru,PER,Denmark,DEN,0,1,0-0,0-1,Mordovia Arena,41685,Saransk
+2018-06-16 19:00:00,D,Croatia,CRO,Nigeria,NGR,2,0,1-0,2-0,Kaliningrad Stadium,33973,Kaliningrad
+2018-06-17 12:00:00,E,Costa Rica,CRC,Serbia,SRB,0,1,0-0,0-1,Samara Arena,44918,Samara
+2018-06-17 15:00:00,F,Germany,GER,Mexico,MEX,0,1,0-1,0-1,Luzhniki Stadium,78011,Moscow
+2018-06-17 18:00:00,E,Brazil,BRA,Switzerland,SUI,1,1,1-0,1-1,Rostov Arena,45000,Rostov-on-Don
+2018-06-18 12:00:00,F,Sweden,SWE,Republic of Korea,KOR,1,0,0-0,1-0,Nizhny Novgorod Stadium,43319,Nizhny Novgorod
+2018-06-18 15:00:00,G,Belgium,BEL,Panama,PAN,3,0,0-0,3-0,Fisht Olympic Stadium,47659,Sochi
+2018-06-18 18:00:00,G,Tunisia,TUN,England,ENG,1,2,1-1,1-2,Volgograd Arena,43713,Volgograd
+2018-06-19 12:00:00,H,Colombia,COL,Japan,JPN,1,2,1-1,1-2,Mordovia Arena,41685,Saransk
+2018-06-19 15:00:00,H,Poland,POL,Senegal,SEN,1,2,0-1,1-2,Otkritie Arena,45360,Moscow
+2018-06-19 18:00:00,A,Russia,RUS,Egypt,EGY,3,1,0-0,3-1,Gazprom Arena,70000,Saint Petersburg
+2018-06-20 12:00:00,B,Portugal,POR,Morocco,MAR,1,0,1-0,1-0,Luzhniki Stadium,78011,Moscow
+2018-06-20 15:00:00,A,Uruguay,URU,Saudi Arabia,KSA,1,0,1-0,1-0,Rostov Arena,45000,Rostov-on-Don
+2018-06-20 18:00:00,B,Iran,IRI,Spain,ESP,0,1,0-0,0-1,Kazan Arena,45093,Kazan
+2018-06-21 12:00:00,C,Denmark,DEN,Australia,AUS,1,1,1-1,1-1,Samara Arena,44918,Samara
+2018-06-21 15:00:00,C,France,FRA,Peru,PER,1,0,1-0,1-0,Central Stadium,35061,Ekaterinburg
+2018-06-21 18:00:00,D,Argentina,ARG,Croatia,CRO,0,3,0-0,0-3,Nizhny Novgorod Stadium,43319,Nizhny Novgorod
+2018-06-22 12:00:00,E,Brazil,BRA,Costa Rica,CRC,2,0,0-0,2-0,Gazprom Arena,70000,Saint Petersburg
+2018-06-22 15:00:00,D,Nigeria,NGR,Iceland,ISL,2,0,0-0,2-0,Volgograd Arena,43713,Volgograd
+2018-06-22 18:00:00,E,Serbia,SRB,Switzerland,SUI,1,2,1-0,1-2,Kaliningrad Stadium,33973,Kaliningrad
+2018-06-23 12:00:00,G,Belgium,BEL,Tunisia,TUN,5,2,3-1,5-2,Otkritie Arena,45360,Moscow
+2018-06-23 15:00:00,F,Republic of Korea,KOR,Mexico,MEX,1,2,0-1,1-2,Rostov Arena,45000,Rostov-on-Don
+2018-06-23 18:00:00,F,Germany,GER,Sweden,SWE,2,1,0-1,2-1,Fisht Olympic Stadium,47659,Sochi
+2018-06-24 12:00:00,G,England,ENG,Panama,PAN,6,1,5-0,6-1,Nizhny Novgorod Stadium,43319,Nizhny Novgorod
+2018-06-24 15:00:00,H,Japan,JPN,Senegal,SEN,2,2,1-1,2-2,Central Stadium,35061,Ekaterinburg
+2018-06-24 18:00:00,H,Poland,POL,Colombia,COL,0,3,0-1,0-3,Kazan Arena,45093,Kazan
+2018-06-25 14:00:00,A,Uruguay,URU,Russia,RUS,3,0,2-0,3-0,Samara Arena,44918,Samara
+2018-06-25 14:00:00,A,Saudi Arabia,KSA,Egypt,EGY,2,1,1-1,2-1,Volgograd Arena,43713,Volgograd
+2018-06-25 18:00:00,B,Spain,ESP,Morocco,MAR,2,2,1-1,2-2,Kaliningrad Stadium,33973,Kaliningrad
+2018-06-25 18:00:00,B,Iran,IRI,Portugal,POR,1,1,0-1,1-1,Mordovia Arena,41685,Saransk
+2018-06-26 14:00:00,C,Australia,AUS,Peru,PER,0,2,0-1,0-2,Fisht Olympic Stadium,47659,Sochi
+2018-06-26 14:00:00,C,Denmark,DEN,France,FRA,0,0,0-0,0-0,Luzhniki Stadium,78011,Moscow
+2018-06-26 18:00:00,D,Nigeria,NGR,Argentina,ARG,1,2,0-1,1-2,Gazprom Arena,70000,Saint Petersburg
+2018-06-26 18:00:00,D,Iceland,ISL,Croatia,CRO,1,2,0-0,1-2,Rostov Arena,45000,Rostov-on-Don
+2018-06-27 14:00:00,F,Republic of Korea,KOR,Germany,GER,2,0,0-0,2-0,Kazan Arena,45093,Kazan
+2018-06-27 14:00:00,F,Mexico,MEX,Sweden,SWE,0,3,0-0,0-3,Central Stadium,35061,Ekaterinburg
+2018-06-27 18:00:00,E,Switzerland,SUI,Costa Rica,CRC,2,2,1-0,2-2,Nizhny Novgorod Stadium,43319,Nizhny Novgorod
+2018-06-27 18:00:00,E,Serbia,SRB,Brazil,BRA,0,2,0-1,0-2,Otkritie Arena,45360,Moscow
+2018-06-28 14:00:00,H,Senegal,SEN,Colombia,COL,0,1,0-0,0-1,Samara Arena,44918,Samara
+2018-06-28 14:00:00,H,Japan,JPN,Poland,POL,0,1,0-0,0-1,Volgograd Arena,43713,Volgograd
+2018-06-28 18:00:00,G,England,ENG,Belgium,BEL,0,1,0-0,0-1,Kaliningrad Stadium,33973,Kaliningrad
+2018-06-28 18:00:00,G,Panama,PAN,Tunisia,TUN,1,2,1-0,1-2,Mordovia Arena,41685,Saransk
+2018-06-30 14:00:00,Knockout stage,France,FRA,Argentina,ARG,4,3,1-1,4-3,Kazan Arena,45093,Kazan
+2018-06-30 18:00:00,Knockout stage,Uruguay,URU,Portugal,POR,2,1,1-0,2-1,Fisht Olympic Stadium,47659,Sochi
+2018-07-01 14:00:00,Knockout stage,Spain,ESP,Russia,RUS,4,5,1-1,1-1,Luzhniki Stadium,78011,Moscow
+2018-07-01 18:00:00,Knockout stage,Croatia,CRO,Denmark,DEN,4,3,1-1,1-1,Nizhny Novgorod Stadium,43319,Nizhny Novgorod
+2018-07-02 14:00:00,Knockout stage,Brazil,BRA,Mexico,MEX,2,0,0-0,2-0,Samara Arena,44918,Samara
+2018-07-02 18:00:00,Knockout stage,Belgium,BEL,Japan,JPN,3,2,0-0,3-2,Rostov Arena,45000,Rostov-on-Don
+2018-07-03 14:00:00,Knockout stage,Sweden,SWE,Switzerland,SUI,1,0,0-0,1-0,Gazprom Arena,70000,Saint Petersburg
+2018-07-03 18:00:00,Knockout stage,Colombia,COL,England,ENG,4,5,0-0,1-1,Otkritie Arena,45360,Moscow
+2018-07-06 14:00:00,Knockout stage,Uruguay,URU,France,FRA,0,2,0-1,0-2,Nizhny Novgorod Stadium,43319,Nizhny Novgorod
+2018-07-06 18:00:00,Knockout stage,Brazil,BRA,Belgium,BEL,1,2,0-2,1-2,Kazan Arena,45093,Kazan
+2018-07-07 14:00:00,Knockout stage,Sweden,SWE,England,ENG,0,2,0-1,0-2,Samara Arena,44918,Samara
+2018-07-07 18:00:00,Knockout stage,Russia,RUS,Croatia,CRO,5,6,1-1,1-1,Fisht Olympic Stadium,47659,Sochi
+2018-07-10 18:00:00,Knockout stage,France,FRA,Belgium,BEL,1,0,0-0,1-0,Gazprom Arena,70000,Saint Petersburg
+2018-07-11 18:00:00,Knockout stage,Croatia,CRO,England,ENG,2,1,0-1,1-1,Luzhniki Stadium,78011,Moscow
+2018-07-14 14:00:00,Knockout stage,Belgium,BEL,England,ENG,2,0,1-0,2-0,Gazprom Arena,70000,Saint Petersburg
+2018-07-15 15:00:00,Knockout stage,France,FRA,Croatia,CRO,4,2,2-1,4-2,Luzhniki Stadium,78011,Moscow

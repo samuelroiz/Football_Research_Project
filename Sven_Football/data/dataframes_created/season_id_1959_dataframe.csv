@@ -1,0 +1,206 @@
+match_start,stage_name,group_name,round_name,home_team_name,home_team_short_code,away_team_name,away_team_short_code,stats_home_score,stats_away_score,stats_halftime_score,stats_fulltime_score,venue_name,venue_capacity,venue_city
+6/22/2021 18:00,Qualification,"UEFA Champions League 21/22, Preliminary Round",Semi-finals,SS Folgore Falciano Calcio,FFC,FC Prishtina,PRI,0,2,0-0,0-2,NaN,NaN,NaN
+6/22/2021 18:00,Qualification,"UEFA Champions League 21/22, Preliminary Round",Semi-finals,HB Torshavn,HB,Inter Club de Escaldes,ESC,0,1,0-0,0-1,Gundadalur,5000,Torshavn
+7/7/2021 16:30,Qualification,Qualification,Qualification Round 1,SK Slovan Bratislava,SLB,Shamrock Rovers FC,SHA,2,0,Jan-00,Feb-00,Tehelne Pole Stadion,22500,Bratislava
+7/7/2021 16:00,Qualification,Qualification,Qualification Round 1,Bodo/Glimt,BOG,Legia Warsaw,LEG,2,3,2-Jan,3-Feb,Aspmyra Stadion,7354,Bodo
+7/7/2021 18:00,Qualification,Qualification,Qualification Round 1,ConnahÂ´s Quay Nomads FC,CQN,Alashkert,ALA,2,2,2-Jan,2-Feb,NaN,NaN,NaN
+7/7/2021 17:00,Qualification,Qualification,Qualification Round 1,Malmo FF,MAL,"Riga FC	",RFC,1,0,0-0,Jan-00,Stadion,22500,Malmo
+7/7/2021 17:00,Qualification,Qualification,Qualification Round 1,Maccabi Haifa FC,MAH,FC Kairat Almaty,ALM,1,1,Jan-00,1-Jan,Sammy Ofer Stadium,30874,Haifa
+7/7/2021 17:00,Qualification,Qualification,Qualification Round 1,Ludogorets 1945 Razgrad,LUD,FC Shakhter Soligorsk,SHS,1,0,0-0,Jan-00,Ludogorets Arena,10422,Razgrad
+7/7/2021 17:00,Qualification,Qualification,Qualification Round 1,KF Teuta,TEU,FC Sheriff Tiraspol,SHF,0,4,0-2,0-4,Niko Dovana Stadium,12040,Durres
+7/7/2021 17:00,Qualification,Qualification,Qualification Round 1,GNK Dinamo Zagreb,DIN,Valur Reykjavik,VAL,3,2,Feb-00,2-Mar,Maksimir,35423,Zagreb
+7/6/2021 17:30,Qualification,Qualification,Qualification Round 1,CS Fola Esch,FES,Lincoln Red Imps FC,LIN,2,2,0-1,2-Feb,Stade Emile Mayrisch,3900,Esch-sur-Alzette
+7/6/2021 16:00,Qualification,Qualification,Qualification Round 1,FC Flora Tallinn,FLO,Hibernians FC,HIB,2,0,0-0,Feb-00,A. Le Coq Arena,15000,Tallinn
+7/6/2021 16:00,Qualification,Qualification,Qualification Round 1,HJK Helsinki,HJK,FK Buducnost,BUD,3,1,1-Mar,1-Mar,Helsinki Football Stadium,10770,Helsinki
+7/6/2021 18:00,Qualification,Qualification,Qualification Round 1,FK Shkendija,SHK,NS Mura,MUR,0,1,0-1,0-1,Ecolog Arena,15000,Tetovo
+7/6/2021 17:00,Qualification,Qualification,Qualification Round 1,Zalgiris Vilnius,ZAL,Linfield FC,LIN,3,1,Feb-00,1-Mar,LFF Stadium,5400,Vilnius
+7/6/2021 17:00,Qualification,Qualification,Qualification Round 1,FC CFR 1907 Cluj,CFR,FK Borac Banja Luka,BBL,3,1,1-Feb,1-Mar,Dr. Constantin Radulescu,23500,Cluj Napoca
+7/7/2021 16:00,Qualification,Qualification,Qualification Round 1,FC Dinamo Tbilisi,TBI,FK Neftchi Baku,NEB,1,2,1-Jan,2-Jan,Boris Paichadze Dinamo Arena,54549,Tbilisi
+7/13/2021 20:00,Qualification,Qualification,Qualification Round 1,Valur Reykjavik,VAL,GNK Dinamo Zagreb,DIN,0,2,0-1,0-2,HlÃ­darendi Reykjavik,2000,Reykjavik
+7/13/2021 19:30,Qualification,Qualification,Qualification Round 1,FC Shakhter Soligorsk,SHS,Ludogorets 1945 Razgrad,LUD,0,1,0-0,0-1,Stroitel Stadium,4200,Soligorsk
+7/13/2021 18:00,Qualification,Qualification,Qualification Round 1,NS Mura,MUR,FK Shkendija,SHK,5,0,Feb-00,May-00,Mesti Stadion Fazanerija,5000,Murska Sobota
+7/13/2021 16:00,Qualification,Qualification,Qualification Round 1,Lincoln Red Imps FC,LIN,CS Fola Esch,FES,5,0,Feb-00,May-00,Victoria Stadium,5000,Gibraltar
+7/13/2021 17:00,Qualification,Qualification,Qualification Round 1,FC Sheriff Tiraspol,SHF,KF Teuta,TEU,1,0,Jan-00,Jan-00,Sheriff Stadium,14000,Tiraspol
+7/13/2021 16:00,Qualification,Qualification,Qualification Round 1,"Riga FC	",RFC,Malmo FF,MAL,1,1,0-1,1-Jan,Skonto,9500,Riga
+7/14/2021 18:00,Qualification,Qualification,Qualification Round 1,Legia Warsaw,LEG,Bodo/Glimt,BOG,2,0,Jan-00,Feb-00,Municipal Stadium of Marshal Jozef Pilsudski,15016,
+7/13/2021 18:45,Qualification,Qualification,Qualification Round 1,Linfield FC,LIN,Zalgiris Vilnius,ZAL,1,2,0-2,2-Jan,Windsor Park,24734,Belfast
+7/13/2021 16:00,Qualification,Qualification,Qualification Round 1,Hibernians FC,HIB,FC Flora Tallinn,FLO,0,3,0-2,0-3,Hibernians Ground,8000,Paola
+7/14/2021 14:00,Qualification,Qualification,Qualification Round 1,FC Kairat Almaty,ALM,Maccabi Haifa FC,MAH,2,0,Jan-00,Feb-00,Central Stadium,25057,Almaty
+7/14/2021 17:00,Qualification,Qualification,Qualification Round 1,FK Neftchi Baku,NEB,FC Dinamo Tbilisi,TBI,2,1,0-0,1-Feb,Bakcell Arena,11000,Baku
+7/13/2021 18:30,Qualification,Qualification,Qualification Round 1,FK Buducnost,BUD,HJK Helsinki,HJK,0,4,0-3,0-4,Podgorica City Stadium,17000,Podgorica
+7/14/2021 15:00,Qualification,Qualification,Qualification Round 1,Alashkert,ALA,ConnahÂ´s Quay Nomads FC,CQN,0,0,0-0,0-0,Alashkert Stadium,6850,Yerevan
+7/13/2021 19:00,Qualification,Qualification,Qualification Round 1,Shamrock Rovers FC,SHA,SK Slovan Bratislava,SLB,2,1,Jan-00,1-Feb,Tallaght Stadium,5947,Dublin
+7/13/2021 18:00,Qualification,Qualification,Qualification Round 1,FK Borac Banja Luka,BBL,FC CFR 1907 Cluj,CFR,2,0,0-0,Feb-00,Banja Luka City Stadium,9730,Banja Luka
+7/20/2021 18:30,Qualification,Qualification,Qualification Round 2,SK Rapid Wien,SCR,AC Sparta Prague,SPA,2,1,0-1,1-Feb,Allianz Stadion,28345,Vienna
+7/20/2021 18:45,Qualification,Qualification,Qualification Round 2,Celtic Glasgow,CEL,FC Midtjylland,MJY,1,1,Jan-00,1-Jan,Celtic Park,60411,Glasgow
+7/21/2021 19:00,Qualification,Qualification,Qualification Round 2,PSV Eindhoven,PSV,Galatasaray,GAL,5,1,1-Feb,1-May,Philips Stadion,35000,Eindhoven
+7/28/2021 18:00,Qualification,Qualification,Qualification Round 2,Galatasaray,GAL,PSV Eindhoven,PSV,1,2,0-1,2-Jan,Ali Sami Yen Spor Kompleksi Turk Telekom Stadium,52223,Istanbul
+7/28/2021 17:45,Qualification,Qualification,Qualification Round 2,FC Midtjylland,MJY,Celtic Glasgow,CEL,1,1,0-0,1-Jan,MCH Arena,11809,Herning
+7/28/2021 18:30,Qualification,Qualification,Qualification Round 2,AC Sparta Prague,SPA,SK Rapid Wien,SCR,2,0,Jan-00,Feb-00,Generali Arena,19784,Prague
+6/25/2021 18:00,Qualification,"UEFA Champions League 21/22, Preliminary Round",Final,FC Prishtina,PRI,Inter Club de Escaldes,ESC,2,0,Jan-00,Feb-00,NaN,NaN,NaN
+7/6/2021 16:00,Qualification,Qualification,Qualification Round 1,Ferencvarosi TC,FTC,FC Prishtina,PRI,3,0,0-0,Mar-00,Groupama Arena,22000,Budapest
+7/13/2021 18:00,Qualification,Qualification,Qualification Round 1,FC Prishtina,PRI,Ferencvarosi TC,FTC,1,3,0-0,3-Jan,Fadil Vokrri Stadium,16200,Pristina
+7/20/2021 15:00,Qualification,Qualification,Qualification Round 2,Alashkert,ALA,FC Sheriff Tiraspol,SHF,0,1,0-0,0-1,Alashkert Stadium,6850,Yerevan
+7/21/2021 19:00,Qualification,Qualification,Qualification Round 2,Olympiacos FC,OLY,FK Neftchi Baku,NEB,1,0,Jan-00,Jan-00,Georgios Karaiskakis,32115,Piraeus
+7/20/2021 16:00,Qualification,Qualification,Qualification Round 2,Lincoln Red Imps FC,LIN,FC CFR 1907 Cluj,CFR,1,2,Jan-00,2-Jan,Victoria Stadium,5000,Gibraltar
+7/20/2021 18:00,Qualification,Qualification,Qualification Round 2,Ferencvarosi TC,FTC,Zalgiris Vilnius,ZAL,2,0,Feb-00,Feb-00,Groupama Arena,22000,Budapest
+7/20/2021 18:00,Qualification,Qualification,Qualification Round 2,GNK Dinamo Zagreb,DIN,AC Omonia Nicosia,OMO,2,0,0-0,Feb-00,Maksimir,35423,Zagreb
+7/21/2021 14:00,Qualification,Qualification,Qualification Round 2,FC Kairat Almaty,ALM,FK Red Star Belgrade,CRZ,2,1,Jan-00,1-Feb,Central Stadium,25057,Almaty
+7/21/2021 17:00,Qualification,Qualification,Qualification Round 2,Malmo FF,MAL,HJK Helsinki,HJK,2,1,Jan-00,1-Feb,Stadion,22500,Malmo
+7/21/2021 18:00,Qualification,Qualification,Qualification Round 2,NS Mura,MUR,Ludogorets 1945 Razgrad,LUD,0,0,0-0,0-0,Mesti Stadion Fazanerija,5000,Murska Sobota
+7/21/2021 18:30,Qualification,Qualification,Qualification Round 2,SK Slovan Bratislava,SLB,BSC Young Boys,YB,0,0,0-0,0-0,Tehelne Pole Stadion,22500,Bratislava
+7/21/2021 19:00,Qualification,Qualification,Qualification Round 2,Legia Warsaw,LEG,FC Flora Tallinn,FLO,2,1,Jan-00,1-Feb,Municipal Stadium of Marshal Jozef Pilsudski,15016,
+7/28/2021 18:30,Qualification,Qualification,Qualification Round 2,FK Red Star Belgrade,CRZ,FC Kairat Almaty,ALM,5,0,Mar-00,May-00,Stadium Rajko Mitic,55538,Belgrade
+7/27/2021 16:00,Qualification,Qualification,Qualification Round 2,FC Flora Tallinn,FLO,Legia Warsaw,LEG,0,1,0-0,0-1,A. Le Coq Arena,15000,Tallinn
+7/27/2021 16:00,Qualification,Qualification,Qualification Round 2,HJK Helsinki,HJK,Malmo FF,MAL,2,2,1-Jan,2-Feb,Helsinki Football Stadium,10770,Helsinki
+7/28/2021 18:15,Qualification,Qualification,Qualification Round 2,BSC Young Boys,YB,SK Slovan Bratislava,SLB,3,2,Feb-00,2-Mar,Stade de Suisse,31789,Bern
+7/28/2021 17:00,Qualification,Qualification,Qualification Round 2,FC Sheriff Tiraspol,SHF,Alashkert,ALA,3,1,1-Feb,1-Mar,Sheriff Stadium,14000,Tiraspol
+7/27/2021 16:00,Qualification,Qualification,Qualification Round 2,AC Omonia Nicosia,OMO,GNK Dinamo Zagreb,DIN,0,1,0-0,0-1,GSP Stadium,22859,Nicosia
+7/27/2021 17:00,Qualification,Qualification,Qualification Round 2,Zalgiris Vilnius,ZAL,Ferencvarosi TC,FTC,1,3,0-1,3-Jan,LFF Stadium,5400,Vilnius
+7/28/2021 17:00,Qualification,Qualification,Qualification Round 2,FK Neftchi Baku,NEB,Olympiacos FC,OLY,0,1,0-1,0-1,Bakcell Arena,11000,Baku
+7/28/2021 17:30,Qualification,Qualification,Qualification Round 2,FC CFR 1907 Cluj,CFR,Lincoln Red Imps FC,LIN,2,0,Jan-00,Feb-00,Dr. Constantin Radulescu,23500,Cluj Napoca
+7/28/2021 18:00,Qualification,Qualification,Qualification Round 2,Ludogorets 1945 Razgrad,LUD,NS Mura,MUR,3,1,Jan-00,1-Mar,Ludogorets Arena,10422,Razgrad
+8/3/2021 18:00,Qualification,Qualification,Qualification Round 3,KRC Genk,GEN,FC Shakhtar Donetsk,SHA,1,2,Jan-00,2-Jan,Luminus Arena,24956,Genk
+8/4/2021 17:00,Qualification,Qualification,Qualification Round 3,FC Spartak Moscow,SPA,Sl Benfica,BEN,0,2,0-0,0-2,Otkritie Arena,45360,Moscow
+8/10/2021 19:00,Qualification,Qualification,Qualification Round 3,Sl Benfica,BEN,FC Spartak Moscow,SPA,2,0,0-0,Feb-00,Estadio do Sport Lisboa e Benfica,64642,Lisbon
+8/10/2021 17:30,Qualification,Qualification,Qualification Round 3,FC Shakhtar Donetsk,SHA,KRC Genk,GEN,2,1,Jan-00,1-Feb,Olimpiysky National Sports Complex,70050,Kiev
+8/3/2021 17:00,Qualification,Qualification,Qualification Round 3,Malmo FF,MAL,Rangers FC,RNG,2,1,0-0,1-Feb,Stadion,22500,Malmo
+8/3/2021 18:00,Qualification,Qualification,Qualification Round 3,FC CFR 1907 Cluj,CFR,BSC Young Boys,YB,1,1,Jan-00,1-Jan,Dr. Constantin Radulescu,23500,Cluj Napoca
+8/3/2021 18:00,Qualification,Qualification,Qualification Round 3,PSV Eindhoven,PSV,FC Midtjylland,MJY,3,0,Mar-00,Mar-00,Philips Stadion,35000,Eindhoven
+8/3/2021 19:00,Qualification,Qualification,Qualification Round 3,Olympiacos FC,OLY,Ludogorets 1945 Razgrad,LUD,1,1,0-0,1-Jan,Georgios Karaiskakis,32115,Piraeus
+8/4/2021 18:00,Qualification,Qualification,Qualification Round 3,GNK Dinamo Zagreb,DIN,Legia Warsaw,LEG,1,1,0-0,1-Jan,Maksimir,35423,Zagreb
+8/4/2021 18:00,Qualification,Qualification,Qualification Round 3,Ferencvarosi TC,FTC,SK Slavia Prague,SLA,2,0,Jan-00,Feb-00,Groupama Arena,22000,Budapest
+8/10/2021 17:00,Qualification,Qualification,Qualification Round 3,SK Slavia Prague,SLA,Ferencvarosi TC,FTC,1,0,Jan-00,Jan-00,Sinobo Stadium,21000,Prague
+8/10/2021 18:00,Qualification,Qualification,Qualification Round 3,FC Midtjylland,MJY,PSV Eindhoven,PSV,0,1,0-0,0-1,MCH Arena,11809,Herning
+8/10/2021 18:00,Qualification,Qualification,Qualification Round 3,Ludogorets 1945 Razgrad,LUD,Olympiacos FC,OLY,6,3,0-1,2-Feb,Ludogorets Arena,10422,Razgrad
+8/10/2021 18:30,Qualification,Qualification,Qualification Round 3,BSC Young Boys,YB,FC CFR 1907 Cluj,CFR,3,1,1-Mar,1-Mar,Stade de Suisse,31789,Bern
+8/10/2021 19:00,Qualification,Qualification,Qualification Round 3,Rangers FC,RNG,Malmo FF,MAL,1,2,Jan-00,2-Jan,Ibrox,50817,Glasgow
+8/10/2021 19:00,Qualification,Qualification,Qualification Round 3,Legia Warsaw,LEG,GNK Dinamo Zagreb,DIN,0,1,0-1,0-1,Municipal Stadium of Marshal Jozef Pilsudski,15016,
+8/3/2021 17:00,Qualification,Qualification,Qualification Round 3,AC Sparta Prague,SPA,AS Monaco,ASM,0,2,0-1,0-2,Generali Arena,19784,Prague
+8/3/2021 19:00,Qualification,Qualification,Qualification Round 3,FK Red Star Belgrade,CRZ,FC Sheriff Tiraspol,SHF,1,1,1-Jan,1-Jan,Stadium Rajko Mitic,55538,Belgrade
+8/10/2021 17:00,Qualification,Qualification,Qualification Round 3,FC Sheriff Tiraspol,SHF,FK Red Star Belgrade,CRZ,1,0,Jan-00,Jan-00,Sheriff Stadium,14000,Tiraspol
+8/10/2021 18:00,Qualification,Qualification,Qualification Round 3,AS Monaco,ASM,AC Sparta Prague,SPA,3,1,0-0,1-Mar,Stade Louis II,18523,Fontvieille
+8/17/2021 19:00,Qualification,Qualification,Qualification Round 4,FC Salzburg,SAL,Broendby IF,BRO,2,1,0-1,1-Feb,Red Bull Arena,30188,Salzburg
+8/25/2021 19:00,Qualification,Qualification,Qualification Round 4,Broendby IF,BRO,FC Salzburg,SAL,1,2,0-2,2-Jan,BrÃ¸ndby Stadium,29000,Copenhagen
+8/18/2021 19:00,Qualification,Qualification,Qualification Round 4,Sl Benfica,BEN,PSV Eindhoven,PSV,2,1,Feb-00,1-Feb,Estadio do Sport Lisboa e Benfica,64642,Lisbon
+8/17/2021 19:00,Qualification,Qualification,Qualification Round 4,AS Monaco,ASM,FC Shakhtar Donetsk,SHA,0,1,0-1,0-1,Stade Louis II,18523,Fontvieille
+8/18/2021 19:00,Qualification,Qualification,Qualification Round 4,BSC Young Boys,YB,Ferencvarosi TC,FTC,3,2,1-Feb,2-Mar,Stade de Suisse,31789,Bern
+8/18/2021 19:00,Qualification,Qualification,Qualification Round 4,Malmo FF,MAL,Ludogorets 1945 Razgrad,LUD,2,0,Jan-00,Feb-00,Stadion,22500,Malmo
+8/24/2021 19:00,Qualification,Qualification,Qualification Round 4,Ferencvarosi TC,FTC,BSC Young Boys,YB,2,3,1-Feb,3-Feb,Groupama Arena,22000,Budapest
+8/25/2021 19:00,Qualification,Qualification,Qualification Round 4,FC Shakhtar Donetsk,SHA,AS Monaco,ASM,1,2,0-2,2-Jan,Olimpiysky National Sports Complex,70050,Kiev
+8/24/2021 19:00,Qualification,Qualification,Qualification Round 4,PSV Eindhoven,PSV,Sl Benfica,BEN,0,0,0-0,0-0,Philips Stadion,35000,Eindhoven
+8/24/2021 19:00,Qualification,Qualification,Qualification Round 4,Ludogorets 1945 Razgrad,LUD,Malmo FF,MAL,2,1,1-Jan,1-Feb,Ludogorets Arena,10422,Razgrad
+8/17/2021 19:00,Qualification,Qualification,Qualification Round 4,FC Sheriff Tiraspol,SHF,GNK Dinamo Zagreb,DIN,3,0,Jan-00,Mar-00,Sheriff Stadium,14000,Tiraspol
+8/25/2021 19:00,Qualification,Qualification,Qualification Round 4,GNK Dinamo Zagreb,DIN,FC Sheriff Tiraspol,SHF,0,0,0-0,0-0,Maksimir,35423,Zagreb
+9/14/2021 16:45,NaN,NaN,1,BSC Young Boys,YB,Manchester United,MNU,2,1,0-1,1-Feb,Stade de Suisse,31789,Bern
+9/14/2021 16:45,NaN,NaN,1,FC Sevilla,SEV,FC Salzburg,SAL,1,1,1-Jan,1-Jan,Ramon Sanchez Pizjuan,45500,Seville
+9/14/2021 19:00,NaN,NaN,1,CF Villarreal,VIL,Atalanta Bergamasca Calcio,ATA,2,2,1-Jan,2-Feb,Estadio de la Ceramica,23500,Villarreal
+9/14/2021 19:00,NaN,NaN,1,LOSC Lille,LIL,VfL Wolfsburg,WOB,0,0,0-0,0-0,Stade Pierre Mauroy,50186,Lille
+9/14/2021 19:00,NaN,NaN,1,FC Dynamo Kiev,DYK,Sl Benfica,BEN,0,0,0-0,0-0,Olimpiysky National Sports Complex,70050,Kiev
+9/14/2021 19:00,NaN,NaN,1,Malmo FF,MAL,Juventus Turin,JUV,0,3,0-3,0-3,Stadion,22500,Malmo
+9/14/2021 19:00,NaN,NaN,1,Chelsea FC,CFC,FC Zenit St Petersburg,ZEN,1,0,0-0,Jan-00,Stamford Bridge,41798,London
+9/14/2021 19:00,NaN,NaN,1,FC Barcelona,FCB,FC Bayern Munich,FCB,0,3,0-1,0-3,Camp Nou,98787,Barcelona
+9/15/2021 16:45,NaN,NaN,1,FC Sheriff Tiraspol,SHF,FC Shakhtar Donetsk,SHA,2,0,Jan-00,Feb-00,Sheriff Stadium,14000,Tiraspol
+9/15/2021 16:45,NaN,NaN,1,Besiktas,BES,Borussia Dortmund,BVB,1,2,0-2,2-Jan,Vodafone Park,41188,Istanbul
+9/15/2021 19:00,NaN,NaN,1,Sporting CP,SPO,Ajax Amsterdam,AJA,1,5,3-Jan,5-Jan,Jose Alvalade,50044,Lisbon
+9/15/2021 19:00,Group stage,A,1,Manchester City,MNC,RB Leipzig,RBL,6,3,1-Mar,3-Jun,Etihad Stadium,46708,Manchester
+9/15/2021 19:00,NaN,NaN,1,Liverpool FC,LFC,AC Milan,ACM,3,2,2-Jan,2-Mar,Anfield,54074,Liverpool
+9/15/2021 19:00,NaN,NaN,1,Inter Milano,INT,Real Madrid,RMA,0,1,0-0,0-1,Giuseppe Meazza,80018,Milan
+9/15/2021 19:00,NaN,NaN,1,Atletico Madrid,ATM,FC Porto,FCP,0,0,0-0,0-0,Wanda Metropolitano,67942,Madrid
+9/15/2021 19:00,Group stage,A,1,Club Brugge,BRU,Paris Saint-Germain,PSG,1,1,1-Jan,1-Jan,Jan Breydel Stadium,29975,Bruges
+9/28/2021 16:45,Group stage,C,2,Ajax Amsterdam,AJA,Besiktas,BES,2,0,Feb-00,Feb-00,Johan Cruijff Arena,54990,Amsterdam
+9/28/2021 16:45,Group stage,D,2,FC Shakhtar Donetsk,SHA,Inter Milano,INT,0,0,0-0,0-0,Olimpiysky National Sports Complex,70050,Kiev
+9/28/2021 19:00,Group stage,D,2,Real Madrid,RMA,FC Sheriff Tiraspol,SHF,1,2,0-1,2-Jan,Santiago Bernabeu,81044,Madrid
+9/28/2021 19:00,Group stage,A,2,Paris Saint-Germain,PSG,Manchester City,MNC,2,0,Jan-00,Feb-00,Parc des Princes,47929,Paris
+9/28/2021 19:00,Group stage,A,2,RB Leipzig,RBL,Club Brugge,BRU,1,2,2-Jan,2-Jan,Red Bull Arena,42558,Leipzig
+9/28/2021 19:00,Group stage,C,2,Borussia Dortmund,BVB,Sporting CP,SPO,1,0,Jan-00,Jan-00,Signal Iduna Park,81365,Dortmund
+9/28/2021 19:00,Group stage,B,2,AC Milan,ACM,Atletico Madrid,ATM,1,2,Jan-00,2-Jan,Giuseppe Meazza,80018,Milan
+9/28/2021 19:00,Group stage,B,2,FC Porto,FCP,Liverpool FC,LFC,1,5,0-2,5-Jan,Estadio do Dragao,52033,Porto
+9/29/2021 16:45,Group stage,H,2,FC Zenit St Petersburg,ZEN,Malmo FF,MAL,4,0,Jan-00,Apr-00,Gazprom Arena,70000,Saint Petersburg
+9/29/2021 16:45,Group stage,F,2,Atalanta Bergamasca Calcio,ATA,BSC Young Boys,YB,1,0,0-0,Jan-00,Gewiss Stadium,26393,Bergamo
+9/29/2021 19:00,Group stage,E,2,FC Bayern Munich,FCB,FC Dynamo Kiev,DYK,5,0,Feb-00,May-00,Allianz Arena,75000,Munich
+9/29/2021 19:00,Group stage,H,2,Juventus Turin,JUV,Chelsea FC,CFC,1,0,0-0,Jan-00,Allianz Stadium,41507,Turin
+9/29/2021 19:00,Group stage,G,2,FC Salzburg,SAL,LOSC Lille,LIL,2,1,Jan-00,1-Feb,Red Bull Arena,30188,Salzburg
+9/29/2021 19:00,Group stage,G,2,VfL Wolfsburg,WOB,FC Sevilla,SEV,1,1,0-0,1-Jan,Volkswagen Arena,30000,Wolfsburg
+9/29/2021 19:00,Group stage,F,2,Manchester United,MNU,CF Villarreal,VIL,2,1,0-0,1-Feb,Old Trafford,75635,Manchester
+9/29/2021 19:00,Group stage,E,2,Sl Benfica,BEN,FC Barcelona,FCB,3,0,Jan-00,Mar-00,Estadio do Sport Lisboa e Benfica,64642,Lisbon
+10/19/2021 16:45,Group stage,C,3,Besiktas,BES,Sporting CP,SPO,1,4,3-Jan,4-Jan,Vodafone Park,41188,Istanbul
+10/19/2021 16:45,Group stage,A,3,Club Brugge,BRU,Manchester City,MNC,1,5,0-2,5-Jan,Jan Breydel Stadium,29975,Bruges
+10/19/2021 19:00,Group stage,D,3,FC Shakhtar Donetsk,SHA,Real Madrid,RMA,0,5,0-1,0-5,Olimpiysky National Sports Complex,70050,Kiev
+10/19/2021 19:00,Group stage,B,3,FC Porto,FCP,AC Milan,ACM,1,0,0-0,Jan-00,Estadio do Dragao,52033,Porto
+10/19/2021 19:00,Group stage,A,3,Paris Saint-Germain,PSG,RB Leipzig,RBL,3,2,1-Jan,2-Mar,Parc des Princes,47929,Paris
+10/19/2021 19:00,Group stage,D,3,Inter Milano,INT,FC Sheriff Tiraspol,SHF,3,1,Jan-00,1-Mar,Giuseppe Meazza,80018,Milan
+10/19/2021 19:00,Group stage,B,3,Atletico Madrid,ATM,Liverpool FC,LFC,2,3,2-Feb,3-Feb,Wanda Metropolitano,67942,Madrid
+10/19/2021 19:00,Group stage,C,3,Ajax Amsterdam,AJA,Borussia Dortmund,BVB,4,0,Feb-00,Apr-00,Johan Cruijff Arena,54990,Amsterdam
+10/20/2021 16:45,Group stage,G,3,FC Salzburg,SAL,VfL Wolfsburg,WOB,3,1,1-Jan,1-Mar,Red Bull Arena,30188,Salzburg
+10/20/2021 16:45,Group stage,E,3,FC Barcelona,FCB,FC Dynamo Kiev,DYK,1,0,Jan-00,Jan-00,Camp Nou,98787,Barcelona
+10/20/2021 19:00,Group stage,F,3,Manchester United,MNU,Atalanta Bergamasca Calcio,ATA,3,2,0-2,2-Mar,Old Trafford,75635,Manchester
+10/20/2021 19:00,Group stage,G,3,LOSC Lille,LIL,FC Sevilla,SEV,0,0,0-0,0-0,Stade Pierre Mauroy,50186,Lille
+10/20/2021 19:00,Group stage,F,3,BSC Young Boys,YB,CF Villarreal,VIL,1,4,0-2,4-Jan,Stade de Suisse,31789,Bern
+10/20/2021 19:00,Group stage,H,3,Chelsea FC,CFC,Malmo FF,MAL,4,0,Feb-00,Apr-00,Stamford Bridge,41798,London
+10/20/2021 19:00,Group stage,H,3,FC Zenit St Petersburg,ZEN,Juventus Turin,JUV,0,1,0-0,0-1,Gazprom Arena,70000,Saint Petersburg
+10/20/2021 19:00,Group stage,E,3,Sl Benfica,BEN,FC Bayern Munich,FCB,0,4,0-0,0-4,Estadio do Sport Lisboa e Benfica,64642,Lisbon
+11/2/2021 17:45,Group stage,G,4,VfL Wolfsburg,WOB,FC Salzburg,SAL,2,1,1-Jan,1-Feb,Volkswagen Arena,30000,Wolfsburg
+11/2/2021 17:45,Group stage,H,4,Malmo FF,MAL,Chelsea FC,CFC,0,1,0-0,0-1,Stadion,22500,Malmo
+11/2/2021 20:00,Group stage,E,4,FC Dynamo Kiev,DYK,FC Barcelona,FCB,0,1,0-0,0-1,Olimpiysky National Sports Complex,70050,Kiev
+11/2/2021 20:00,Group stage,E,4,FC Bayern Munich,FCB,Sl Benfica,BEN,5,2,1-Feb,2-May,Allianz Arena,75000,Munich
+11/2/2021 20:00,Group stage,H,4,Juventus Turin,JUV,FC Zenit St Petersburg,ZEN,4,2,1-Jan,2-Apr,Allianz Stadium,41507,Turin
+11/2/2021 20:00,Group stage,G,4,FC Sevilla,SEV,LOSC Lille,LIL,1,2,1-Jan,2-Jan,Ramon Sanchez Pizjuan,45500,Seville
+11/2/2021 20:00,Group stage,F,4,Atalanta Bergamasca Calcio,ATA,Manchester United,MNU,2,2,1-Jan,2-Feb,Gewiss Stadium,26393,Bergamo
+11/2/2021 20:00,Group stage,F,4,CF Villarreal,VIL,BSC Young Boys,YB,2,0,Jan-00,Feb-00,Estadio de la Ceramica,23500,Villarreal
+11/3/2021 17:45,Group stage,D,4,Real Madrid,RMA,FC Shakhtar Donetsk,SHA,2,1,1-Jan,1-Feb,Santiago Bernabeu,81044,Madrid
+11/3/2021 17:45,Group stage,B,4,AC Milan,ACM,FC Porto,FCP,1,1,0-1,1-Jan,Giuseppe Meazza,80018,Milan
+11/3/2021 20:00,Group stage,A,4,RB Leipzig,RBL,Paris Saint-Germain,PSG,2,2,2-Jan,2-Feb,Red Bull Arena,42558,Leipzig
+11/3/2021 20:00,Group stage,D,4,FC Sheriff Tiraspol,SHF,Inter Milano,INT,1,3,0-0,3-Jan,Sheriff Stadium,14000,Tiraspol
+11/3/2021 20:00,Group stage,C,4,Borussia Dortmund,BVB,Ajax Amsterdam,AJA,1,3,Jan-00,3-Jan,Signal Iduna Park,81365,Dortmund
+11/3/2021 20:00,Group stage,B,4,Liverpool FC,LFC,Atletico Madrid,ATM,2,0,Feb-00,Feb-00,Anfield,54074,Liverpool
+11/3/2021 20:00,Group stage,A,4,Manchester City,MNC,Club Brugge,BRU,4,1,1-Jan,1-Apr,Etihad Stadium,46708,Manchester
+11/3/2021 20:00,Group stage,C,4,Sporting CP,SPO,Besiktas,BES,4,0,Mar-00,Apr-00,Jose Alvalade,50044,Lisbon
+11/23/2021 17:45,Group stage,E,5,FC Dynamo Kiev,DYK,FC Bayern Munich,FCB,1,2,0-2,2-Jan,Olimpiysky National Sports Complex,70050,Kiev
+11/23/2021 17:45,Group stage,F,5,CF Villarreal,VIL,Manchester United,MNU,0,2,0-0,0-2,Estadio de la Ceramica,23500,Villarreal
+11/23/2021 20:00,Group stage,G,5,FC Sevilla,SEV,VfL Wolfsburg,WOB,2,0,Jan-00,Feb-00,Ramon Sanchez Pizjuan,45500,Seville
+11/23/2021 20:00,Group stage,H,5,Chelsea FC,CFC,Juventus Turin,JUV,4,0,Jan-00,Apr-00,Stamford Bridge,41798,London
+11/23/2021 20:00,Group stage,F,5,BSC Young Boys,YB,Atalanta Bergamasca Calcio,ATA,3,3,1-Jan,3-Mar,Stade de Suisse,31789,Bern
+11/23/2021 20:00,Group stage,G,5,LOSC Lille,LIL,FC Salzburg,SAL,1,0,Jan-00,Jan-00,Stade Pierre Mauroy,50186,Lille
+11/23/2021 20:00,Group stage,E,5,FC Barcelona,FCB,Sl Benfica,BEN,0,0,0-0,0-0,Camp Nou,98787,Barcelona
+11/23/2021 20:00,Group stage,H,5,Malmo FF,MAL,FC Zenit St Petersburg,ZEN,1,1,Jan-00,1-Jan,Stadion,22500,Malmo
+11/24/2021 17:45,Group stage,C,5,Besiktas,BES,Ajax Amsterdam,AJA,1,2,Jan-00,2-Jan,Vodafone Park,41188,Istanbul
+11/24/2021 17:45,Group stage,D,5,Inter Milano,INT,FC Shakhtar Donetsk,SHA,2,0,0-0,Feb-00,Giuseppe Meazza,80018,Milan
+11/24/2021 20:00,Group stage,C,5,Sporting CP,SPO,Borussia Dortmund,BVB,3,1,Feb-00,1-Mar,Jose Alvalade,50044,Lisbon
+11/24/2021 20:00,Group stage,A,5,Club Brugge,BRU,RB Leipzig,RBL,0,5,0-4,0-5,Jan Breydel Stadium,29975,Bruges
+11/24/2021 20:00,Group stage,D,5,FC Sheriff Tiraspol,SHF,Real Madrid,RMA,0,3,0-2,0-3,Sheriff Stadium,14000,Tiraspol
+11/24/2021 20:00,Group stage,B,5,Liverpool FC,LFC,FC Porto,FCP,2,0,0-0,Feb-00,Anfield,54074,Liverpool
+11/24/2021 20:00,Group stage,B,5,Atletico Madrid,ATM,AC Milan,ACM,0,1,0-0,0-1,Wanda Metropolitano,67942,Madrid
+11/24/2021 20:00,Group stage,A,5,Manchester City,MNC,Paris Saint-Germain,PSG,2,1,0-0,1-Feb,Etihad Stadium,46708,Manchester
+12/7/2021 17:45,Group stage,A,6,Paris Saint-Germain,PSG,Club Brugge,BRU,4,1,Mar-00,1-Apr,Parc des Princes,47929,Paris
+12/7/2021 17:45,Group stage,A,6,RB Leipzig,RBL,Manchester City,MNC,2,1,Jan-00,1-Feb,Red Bull Arena,42558,Leipzig
+12/7/2021 20:00,Group stage,C,6,Borussia Dortmund,BVB,Besiktas,BES,5,0,Feb-00,May-00,Signal Iduna Park,81365,Dortmund
+12/7/2021 20:00,Group stage,D,6,FC Shakhtar Donetsk,SHA,FC Sheriff Tiraspol,SHF,1,1,Jan-00,1-Jan,Olimpiysky National Sports Complex,70050,Kiev
+12/7/2021 20:00,Group stage,C,6,Ajax Amsterdam,AJA,Sporting CP,SPO,4,2,1-Feb,2-Apr,Johan Cruijff Arena,54990,Amsterdam
+12/7/2021 20:00,Group stage,B,6,AC Milan,ACM,Liverpool FC,LFC,1,2,1-Jan,2-Jan,Giuseppe Meazza,80018,Milan
+12/7/2021 20:00,Group stage,D,6,Real Madrid,RMA,Inter Milano,INT,2,0,Jan-00,Feb-00,Santiago Bernabeu,81044,Madrid
+12/7/2021 20:00,Group stage,B,6,FC Porto,FCP,Atletico Madrid,ATM,1,3,0-0,3-Jan,Estadio do Dragao,52033,Porto
+12/8/2021 17:45,Group stage,H,6,Juventus Turin,JUV,Malmo FF,MAL,1,0,Jan-00,Jan-00,Allianz Stadium,41507,Turin
+12/8/2021 17:45,Group stage,H,6,FC Zenit St Petersburg,ZEN,Chelsea FC,CFC,3,3,1-Feb,3-Mar,Gazprom Arena,70000,Saint Petersburg
+12/8/2021 20:00,Group stage,"UEFA Champions League 21/22, G",6,FC Salzburg,SAL,FC Sevilla,SEV,1,0,0-0,Jan-00,Red Bull Arena,30188,Salzburg
+12/8/2021 20:00,Group stage,"UEFA Champions League 21/22, G",6,VfL Wolfsburg,WOB,LOSC Lille,LIL,1,3,0-1,3-Jan,Volkswagen Arena,30000,Wolfsburg
+12/8/2021 20:00,Group stage,"UEFA Champions League 21/22, F",6,Manchester United,MNU,BSC Young Boys,YB,1,1,1-Jan,1-Jan,Old Trafford,75635,Manchester
+12/8/2021 20:00,Group stage,"UEFA Champions League 21/22, E",6,FC Bayern Munich,FCB,FC Barcelona,FCB,3,0,Feb-00,Mar-00,Allianz Arena,75000,Munich
+12/8/2021 20:00,Group stage,"UEFA Champions League 21/22, E",6,Sl Benfica,BEN,FC Dynamo Kiev,DYK,2,0,Feb-00,Feb-00,Estadio do Sport Lisboa e Benfica,64642,Lisbon
+12/9/2021 18:00,Group stage,F,6,Atalanta Bergamasca Calcio,ATA,CF Villarreal,VIL,2,3,0-2,3-Feb,Gewiss Stadium,26393,Bergamo
+2/15/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Paris Saint-Germain,PSG,Real Madrid,RMA,1,0,0-0,Jan-00,Parc des Princes,47929,Paris
+2/15/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Sporting CP,SPO,Manchester City,MNC,0,5,0-4,0-5,Jose Alvalade,50044,Lisbon
+2/16/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Inter Milano,INT,Liverpool FC,LFC,0,2,0-0,0-2,Giuseppe Meazza,80018,Milan
+2/16/2022 20:00,Playoffs,Knockout stage,1/8 - finals,FC Salzburg,SAL,FC Bayern Munich,FCB,1,1,Jan-00,1-Jan,Red Bull Arena,30188,Salzburg
+2/22/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Chelsea FC,CFC,LOSC Lille,LIL,0,0,,,Stamford Bridge,41798,London
+2/22/2022 20:00,Playoffs,Knockout stage,1/8 - finals,CF Villarreal,VIL,Juventus Turin,JUV,0,0,,,Estadio de la Ceramica,23500,Villarreal
+2/23/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Sl Benfica,BEN,Ajax Amsterdam,AJA,0,0,,,Estadio do Sport Lisboa e Benfica,64642,Lisbon
+2/23/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Atletico Madrid,ATM,Manchester United,MNU,0,0,,,Wanda Metropolitano,67942,Madrid
+3/8/2022 20:00,Playoffs,Knockout stage,1/8 - finals,FC Bayern Munich,FCB,FC Salzburg,SAL,0,0,,,Allianz Arena,75000,Munich
+3/8/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Liverpool FC,LFC,Inter Milano,INT,0,0,,,Anfield,54074,Liverpool
+3/9/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Manchester City,MNC,Sporting CP,SPO,0,0,,,Etihad Stadium,46708,Manchester
+3/9/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Real Madrid,RMA,Paris Saint-Germain,PSG,0,0,,,Santiago Bernabeu,81044,Madrid
+3/15/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Manchester United,MNU,Atletico Madrid,ATM,0,0,,,Old Trafford,75635,Manchester
+3/15/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Ajax Amsterdam,AJA,Sl Benfica,BEN,0,0,,,Johan Cruijff Arena,54990,Amsterdam
+3/16/2022 20:00,Playoffs,Knockout stage,1/8 - finals,LOSC Lille,LIL,Chelsea FC,CFC,0,0,,,Stade Pierre Mauroy,50186,Lille
+3/16/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Juventus Turin,JUV,CF Villarreal,VIL,0,0,,,Allianz Stadium,41507,Turin

@@ -1,0 +1,65 @@
+match_start,group_name,home_team_name,home_team_short_code,away_team_name,away_team_short_code,stats_home_score,stats_away_score,stats_halftime_score,stats_fulltime_score,venue_name,venue_capacity,venue_city,latitude,longitude
+6/14/2018 15:00,A,Russia,RUS,Saudi Arabia,KSA,5,0,Feb-00,May-00,Luzhniki Stadium,78011,Moscow,55.715786,37.553703
+6/15/2018 12:00,A,Egypt,EGY,Uruguay,URU,0,1,0-0,0-1,Central Stadium,35061,Ekaterinburg,46.38022,48.05684
+6/15/2018 15:00,B,Morocco,MAR,Iran,IRI,0,1,0-0,0-1,Gazprom Arena,70000,Saint Petersburg,59.972733,30.21921
+6/15/2018 18:00,B,Portugal,POR,Spain,ESP,3,3,1-Feb,3-Mar,Fisht Olympic Stadium,47659,Sochi,43.402245,39.956
+6/16/2018 10:00,C,France,FRA,Australia,AUS,2,1,0-0,1-Feb,Kazan Arena,45093,Kazan,55.818837,49.158497
+6/16/2018 13:00,D,Argentina,ARG,Iceland,ISL,1,1,1-Jan,1-Jan,Otkritie Arena,45360,Moscow,55.715786,37.553703
+6/16/2018 16:00,C,Peru,PER,Denmark,DEN,0,1,0-0,0-1,Mordovia Arena,41685,Saransk,54.1838,45.1749
+6/16/2018 19:00,D,Croatia,CRO,Nigeria,NGR,2,0,Jan-00,Feb-00,Kaliningrad Stadium,33973,Kaliningrad,54.70649,20.51095
+6/17/2018 12:00,E,Costa Rica,CRC,Serbia,SRB,0,1,0-0,0-1,Samara Arena,44918,Samara,53.20007,50.15
+6/17/2018 15:00,F,Germany,GER,Mexico,MEX,0,1,0-1,0-1,Luzhniki Stadium,78011,Moscow,55.715786,37.553703
+6/17/2018 18:00,E,Brazil,BRA,Switzerland,SUI,1,1,Jan-00,1-Jan,Rostov Arena,45000,Rostov-on-Don,47.23135,39.72328
+6/18/2018 12:00,F,Sweden,SWE,Republic of Korea,KOR,1,0,0-0,Jan-00,Nizhny Novgorod Stadium,43319,Nizhny Novgorod,56.30565044,43.9240063
+6/18/2018 15:00,G,Belgium,BEL,Panama,PAN,3,0,0-0,Mar-00,Fisht Olympic Stadium,47659,Sochi,43.402245,39.956
+6/18/2018 18:00,G,Tunisia,TUN,England,ENG,1,2,1-Jan,2-Jan,Volgograd Arena,43713,Volgograd,43.402245,39.956
+6/19/2018 12:00,H,Colombia,COL,Japan,JPN,1,2,1-Jan,2-Jan,Mordovia Arena,41685,Saransk,54.1838,45.1749
+6/19/2018 15:00,H,Poland,POL,Senegal,SEN,1,2,0-1,2-Jan,Otkritie Arena,45360,Moscow,55.715786,37.553703
+6/19/2018 18:00,A,Russia,RUS,Egypt,EGY,3,1,0-0,1-Mar,Gazprom Arena,70000,Saint Petersburg,59.972733,30.21921
+6/20/2018 12:00,B,Portugal,POR,Morocco,MAR,1,0,Jan-00,Jan-00,Luzhniki Stadium,78011,Moscow,55.715786,37.553703
+6/20/2018 15:00,A,Uruguay,URU,Saudi Arabia,KSA,1,0,Jan-00,Jan-00,Rostov Arena,45000,Rostov-on-Don,47.23135,39.72328
+6/20/2018 18:00,B,Iran,IRI,Spain,ESP,0,1,0-0,0-1,Kazan Arena,45093,Kazan,55.818837,49.158497
+6/21/2018 12:00,C,Denmark,DEN,Australia,AUS,1,1,1-Jan,1-Jan,Samara Arena,44918,Samara,53.20007,50.15
+6/21/2018 15:00,C,France,FRA,Peru,PER,1,0,Jan-00,Jan-00,Central Stadium,35061,Ekaterinburg,46.38022,48.05684
+6/21/2018 18:00,D,Argentina,ARG,Croatia,CRO,0,3,0-0,0-3,Nizhny Novgorod Stadium,43319,Nizhny Novgorod,56.30565044,43.9240063
+6/22/2018 12:00,E,Brazil,BRA,Costa Rica,CRC,2,0,0-0,Feb-00,Gazprom Arena,70000,Saint Petersburg,59.972733,30.21921
+6/22/2018 15:00,D,Nigeria,NGR,Iceland,ISL,2,0,0-0,Feb-00,Volgograd Arena,43713,Volgograd,43.402245,39.956
+6/22/2018 18:00,E,Serbia,SRB,Switzerland,SUI,1,2,Jan-00,2-Jan,Kaliningrad Stadium,33973,Kaliningrad,54.70649,20.51095
+6/23/2018 12:00,G,Belgium,BEL,Tunisia,TUN,5,2,1-Mar,2-May,Otkritie Arena,45360,Moscow,55.715786,37.553703
+6/23/2018 15:00,F,Republic of Korea,KOR,Mexico,MEX,1,2,0-1,2-Jan,Rostov Arena,45000,Rostov-on-Don,47.23135,39.72328
+6/23/2018 18:00,F,Germany,GER,Sweden,SWE,2,1,0-1,1-Feb,Fisht Olympic Stadium,47659,Sochi,43.402245,39.956
+6/24/2018 12:00,G,England,ENG,Panama,PAN,6,1,May-00,1-Jun,Nizhny Novgorod Stadium,43319,Nizhny Novgorod,56.30565044,43.9240063
+6/24/2018 15:00,H,Japan,JPN,Senegal,SEN,2,2,1-Jan,2-Feb,Central Stadium,35061,Ekaterinburg,46.38022,48.05684
+6/24/2018 18:00,H,Poland,POL,Colombia,COL,0,3,0-1,0-3,Kazan Arena,45093,Kazan,55.818837,49.158497
+6/25/2018 14:00,A,Uruguay,URU,Russia,RUS,3,0,Feb-00,Mar-00,Samara Arena,44918,Samara,53.20007,50.15
+6/25/2018 14:00,A,Saudi Arabia,KSA,Egypt,EGY,2,1,1-Jan,1-Feb,Volgograd Arena,43713,Volgograd,43.402245,39.956
+6/25/2018 18:00,B,Spain,ESP,Morocco,MAR,2,2,1-Jan,2-Feb,Kaliningrad Stadium,33973,Kaliningrad,54.70649,20.51095
+6/25/2018 18:00,B,Iran,IRI,Portugal,POR,1,1,0-1,1-Jan,Mordovia Arena,41685,Saransk,54.1838,45.1749
+6/26/2018 14:00,C,Australia,AUS,Peru,PER,0,2,0-1,0-2,Fisht Olympic Stadium,47659,Sochi,43.402245,39.956
+6/26/2018 14:00,C,Denmark,DEN,France,FRA,0,0,0-0,0-0,Luzhniki Stadium,78011,Moscow,55.715786,37.553703
+6/26/2018 18:00,D,Nigeria,NGR,Argentina,ARG,1,2,0-1,2-Jan,Gazprom Arena,70000,Saint Petersburg,59.972733,30.21921
+6/26/2018 18:00,D,Iceland,ISL,Croatia,CRO,1,2,0-0,2-Jan,Rostov Arena,45000,Rostov-on-Don,47.23135,39.72328
+6/27/2018 14:00,F,Republic of Korea,KOR,Germany,GER,2,0,0-0,Feb-00,Kazan Arena,45093,Kazan,55.818837,49.158497
+6/27/2018 14:00,F,Mexico,MEX,Sweden,SWE,0,3,0-0,0-3,Central Stadium,35061,Ekaterinburg,46.38022,48.05684
+6/27/2018 18:00,E,Switzerland,SUI,Costa Rica,CRC,2,2,Jan-00,2-Feb,Nizhny Novgorod Stadium,43319,Nizhny Novgorod,56.30565044,43.9240063
+6/27/2018 18:00,E,Serbia,SRB,Brazil,BRA,0,2,0-1,0-2,Otkritie Arena,45360,Moscow,55.715786,37.553703
+6/28/2018 14:00,H,Senegal,SEN,Colombia,COL,0,1,0-0,0-1,Samara Arena,44918,Samara,53.20007,50.15
+6/28/2018 14:00,H,Japan,JPN,Poland,POL,0,1,0-0,0-1,Volgograd Arena,43713,Volgograd,43.402245,39.956
+6/28/2018 18:00,G,England,ENG,Belgium,BEL,0,1,0-0,0-1,Kaliningrad Stadium,33973,Kaliningrad,54.70649,20.51095
+6/28/2018 18:00,G,Panama,PAN,Tunisia,TUN,1,2,Jan-00,2-Jan,Mordovia Arena,41685,Saransk,54.1838,45.1749
+6/30/2018 14:00,Knockout stage,France,FRA,Argentina,ARG,4,3,1-Jan,3-Apr,Kazan Arena,45093,Kazan,55.818837,49.158497
+6/30/2018 18:00,Knockout stage,Uruguay,URU,Portugal,POR,2,1,Jan-00,1-Feb,Fisht Olympic Stadium,47659,Sochi,43.402245,39.956
+7/1/2018 14:00,Knockout stage,Spain,ESP,Russia,RUS,4,5,1-Jan,1-Jan,Luzhniki Stadium,78011,Moscow,55.715786,37.553703
+7/1/2018 18:00,Knockout stage,Croatia,CRO,Denmark,DEN,4,3,1-Jan,1-Jan,Nizhny Novgorod Stadium,43319,Nizhny Novgorod,56.30565044,43.9240063
+7/2/2018 14:00,Knockout stage,Brazil,BRA,Mexico,MEX,2,0,0-0,Feb-00,Samara Arena,44918,Samara,53.20007,50.15
+7/2/2018 18:00,Knockout stage,Belgium,BEL,Japan,JPN,3,2,0-0,2-Mar,Rostov Arena,45000,Rostov-on-Don,47.23135,39.72328
+7/3/2018 14:00,Knockout stage,Sweden,SWE,Switzerland,SUI,1,0,0-0,Jan-00,Gazprom Arena,70000,Saint Petersburg,59.972733,30.21921
+7/3/2018 18:00,Knockout stage,Colombia,COL,England,ENG,4,5,0-0,1-Jan,Otkritie Arena,45360,Moscow,55.715786,37.553703
+7/6/2018 14:00,Knockout stage,Uruguay,URU,France,FRA,0,2,0-1,0-2,Nizhny Novgorod Stadium,43319,Nizhny Novgorod,56.30565044,43.9240063
+7/6/2018 18:00,Knockout stage,Brazil,BRA,Belgium,BEL,1,2,0-2,2-Jan,Kazan Arena,45093,Kazan,55.818837,49.158497
+7/7/2018 14:00,Knockout stage,Sweden,SWE,England,ENG,0,2,0-1,0-2,Samara Arena,44918,Samara,53.20007,50.15
+7/7/2018 18:00,Knockout stage,Russia,RUS,Croatia,CRO,5,6,1-Jan,1-Jan,Fisht Olympic Stadium,47659,Sochi,43.402245,39.956
+7/10/2018 18:00,Knockout stage,France,FRA,Belgium,BEL,1,0,0-0,Jan-00,Gazprom Arena,70000,Saint Petersburg,59.972733,30.21921
+7/11/2018 18:00,Knockout stage,Croatia,CRO,England,ENG,2,1,0-1,1-Jan,Luzhniki Stadium,78011,Moscow,55.715786,37.553703
+7/14/2018 14:00,Knockout stage,Belgium,BEL,England,ENG,2,0,Jan-00,Feb-00,Gazprom Arena,70000,Saint Petersburg,59.972733,30.21921
+7/15/2018 15:00,Knockout stage,France,FRA,Croatia,CRO,4,2,1-Feb,2-Apr,Luzhniki Stadium,78011,Moscow,55.715786,37.553703

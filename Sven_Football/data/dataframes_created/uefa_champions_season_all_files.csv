@@ -1,0 +1,628 @@
+match_start,stage_name,group_name,round_name,home_team_name,home_team_short_code,away_team_name,away_team_short_code,stats_home_score,stats_away_score,stats_halftime_score,stats_fulltime_score,venue_name,venue_capacity,venue_city,latitude,longitude
+6/22/2021 18:00,Qualification,"UEFA Champions League 21/22, Preliminary Round",Semi-finals,SS Folgore Falciano Calcio,FFC,FC Prishtina,PRI,0,2,0-0,0-2,Elbasan Arena,12800,Albania,41.10952456,20.08852798
+6/22/2021 18:00,Qualification,"UEFA Champions League 21/22, Preliminary Round",Semi-finals,HB Torshavn,HB,Inter Club de Escaldes,ESC,0,1,0-0,0-1,Gundadalur,5000,Torshavn,62.01929,-6.781303
+7/7/2021 16:30,Qualification,Qualification,Qualification Round 1,SK Slovan Bratislava,SLB,Shamrock Rovers FC,SHA,2,0,Jan-00,Feb-00,Tehelne Pole Stadion,22500,Bratislava,48.15813437,17.13544612
+7/7/2021 16:00,Qualification,Qualification,Qualification Round 1,Bodo/Glimt,BOG,Legia Warsaw,LEG,2,3,2-Jan,3-Feb,Aspmyra Stadium,7354,Bodo,67.28,14.40501
+7/7/2021 18:00,Qualification,Qualification,Qualification Round 1,ConnahÃ‚Â´s Quay Nomads FC,CQN,Alashkert,ALA,2,2,2-Jan,2-Feb,Alashkert Stadium,6850,Yerevan,40.154605,44.475231
+7/7/2021 17:00,Qualification,Qualification,Qualification Round 1,Malmo FF,MAL,"Riga FC	",RFC,1,0,0-0,Jan-00,Stadion,22500,Malmo,52.51461,13.239665
+7/7/2021 17:00,Qualification,Qualification,Qualification Round 1,Maccabi Haifa FC,MAH,FC Kairat Almaty,ALM,1,1,Jan-00,1-Jan,Sammy Ofer Stadium,30874,Haifa,32.783356,34.966765
+7/7/2021 17:00,Qualification,Qualification,Qualification Round 1,Ludogorets 1945 Razgrad,LUD,FC Shakhter Soligorsk,SHS,1,0,0-0,Jan-00,Ludogorets Arena,10422,Razgrad,43.814912,27.137877
+7/7/2021 17:00,Qualification,Qualification,Qualification Round 1,KF Teuta,TEU,FC Sheriff Tiraspol,SHF,0,4,0-2,0-4,Niko Dovana Stadium,12040,Durres,41.32231371,19.44324489
+7/7/2021 17:00,Qualification,Qualification,Qualification Round 1,GNK Dinamo Zagreb,DIN,Valur Reykjavik,VAL,3,2,Feb-00,2-Mar,Maksimir,35423,Zagreb,45.81797839,16.01751326
+7/6/2021 17:30,Qualification,Qualification,Qualification Round 1,CS Fola Esch,FES,Lincoln Red Imps FC,LIN,2,2,0-1,2-Feb,Stade Emile Mayrisch,3900,Esch-sur-Alzette,49.48866471,5.987162718
+7/6/2021 16:00,Qualification,Qualification,Qualification Round 1,FC Flora Tallinn,FLO,Hibernians FC,HIB,2,0,0-0,Feb-00,A. Le Coq Arena,15000,Tallinn,59.421307,24.732178
+7/6/2021 16:00,Qualification,Qualification,Qualification Round 1,HJK Helsinki,HJK,FK Buducnost,BUD,3,1,1-Mar,1-Mar,Helsinki Football Stadium,10770,Helsinki,60.18583259,24.92016299
+7/6/2021 18:00,Qualification,Qualification,Qualification Round 1,FK Shkendija,SHK,NS Mura,MUR,0,1,0-1,0-1,Ecolog Arena,15000,Tetovo,48.218967,11.623746
+7/6/2021 17:00,Qualification,Qualification,Qualification Round 1,Zalgiris Vilnius,ZAL,Linfield FC,LIN,3,1,Feb-00,1-Mar,LFF Stadium,5400,Vilnius,54.66783066,25.28999884
+7/6/2021 17:00,Qualification,Qualification,Qualification Round 1,FC CFR 1907 Cluj,CFR,FK Borac Banja Luka,BBL,3,1,1-Feb,1-Mar,Dr. Constantin Radulescu,23500,Cluj Napoca,46.76667,23.6
+7/7/2021 16:00,Qualification,Qualification,Qualification Round 1,FC Dinamo Tbilisi,TBI,FK Neftchi Baku,NEB,1,2,1-Jan,2-Jan,Boris Paichadze Dinamo Arena,54549,Tbilisi,41.72046878,44.78718685
+7/13/2021 20:00,Qualification,Qualification,Qualification Round 1,Valur Reykjavik,VAL,GNK Dinamo Zagreb,DIN,0,2,0-1,0-2,HlÃƒÂ­darendi Reykjavik,2000,Reykjavik,64.128288,-21.827774
+7/13/2021 19:30,Qualification,Qualification,Qualification Round 1,FC Shakhter Soligorsk,SHS,Ludogorets 1945 Razgrad,LUD,0,1,0-0,0-1,Stroitel Stadium,4200,Soligorsk,52.79833,27.53833
+7/13/2021 18:00,Qualification,Qualification,Qualification Round 1,NS Mura,MUR,FK Shkendija,SHK,5,0,Feb-00,May-00,Mesti Stadion Fazanerija,5000,Murska Sobota,46.66823523,16.15692207
+7/13/2021 16:00,Qualification,Qualification,Qualification Round 1,Lincoln Red Imps FC,LIN,CS Fola Esch,FES,5,0,Feb-00,May-00,Victoria Stadium,5000,Gibraltar,36.14294609,-5.350203599
+7/13/2021 17:00,Qualification,Qualification,Qualification Round 1,FC Sheriff Tiraspol,SHF,KF Teuta,TEU,1,0,Jan-00,Jan-00,Sheriff Stadium,14000,Tiraspol,46.83649665,29.55433112
+7/13/2021 16:00,Qualification,Qualification,Qualification Round 1,"Riga FC	",RFC,Malmo FF,MAL,1,1,0-1,1-Jan,Skonto,9500,Riga,56.946,24.10589
+7/14/2021 18:00,Qualification,Qualification,Qualification Round 1,Legia Warsaw,LEG,Bodo/Glimt,BOG,2,0,Jan-00,Feb-00,Municipal Stadium of Marshal Jozef Pilsudski,15016,Krakow,50.05477811,19.91881132
+7/13/2021 18:45,Qualification,Qualification,Qualification Round 1,Linfield FC,LIN,Zalgiris Vilnius,ZAL,1,2,0-2,2-Jan,Windsor Park,24734,Belfast,54.57623936,-5.953109521
+7/13/2021 16:00,Qualification,Qualification,Qualification Round 1,Hibernians FC,HIB,FC Flora Tallinn,FLO,0,3,0-2,0-3,Hibernians Ground,8000,Paola,35.87482983,14.50766464
+7/14/2021 14:00,Qualification,Qualification,Qualification Round 1,FC Kairat Almaty,ALM,Maccabi Haifa FC,MAH,2,0,Jan-00,Feb-00,Central Stadium,25057,Almaty,55.79149683,49.0926663
+7/14/2021 17:00,Qualification,Qualification,Qualification Round 1,FK Neftchi Baku,NEB,FC Dinamo Tbilisi,TBI,2,1,0-0,1-Feb,Bakcell Arena,11000,Baku,40.409264,49.867092
+7/13/2021 18:30,Qualification,Qualification,Qualification Round 1,FK Buducnost,BUD,HJK Helsinki,HJK,0,4,0-3,0-4,Podgorica City Stadium,17000,Podgorica,42.44016824,19.25862563
+7/14/2021 15:00,Qualification,Qualification,Qualification Round 1,Alashkert,ALA,ConnahÃ‚Â´s Quay Nomads FC,CQN,0,0,0-0,0-0,Alashkert Stadium,6850,Yerevan,40.18111,44.51361
+7/13/2021 19:00,Qualification,Qualification,Qualification Round 1,Shamrock Rovers FC,SHA,SK Slovan Bratislava,SLB,2,1,Jan-00,1-Feb,Tallaght Stadium,5947,Dublin,53.283517,-6.373744
+7/13/2021 18:00,Qualification,Qualification,Qualification Round 1,FK Borac Banja Luka,BBL,FC CFR 1907 Cluj,CFR,2,0,0-0,Feb-00,Banja Luka City Stadium,9730,Banja Luka,44.776169,17.199569
+7/20/2021 18:30,Qualification,Qualification,Qualification Round 2,SK Rapid Wien,SCR,AC Sparta Prague,SPA,2,1,0-1,1-Feb,Allianz Stadium,28345,Vienna,48.218967,11.623746
+7/20/2021 18:45,Qualification,Qualification,Qualification Round 2,Celtic Glasgow,CEL,FC Midtjylland,MJY,1,1,Jan-00,1-Jan,Celtic Park,60411,Glasgow,55.84515,-4.195349
+7/21/2021 19:00,Qualification,Qualification,Qualification Round 2,PSV Eindhoven,PSV,Galatasaray,GAL,5,1,1-Feb,1-May,Philips Stadion,35000,Eindhoven,51.43839991,5.467129798
+7/28/2021 18:00,Qualification,Qualification,Qualification Round 2,Galatasaray,GAL,PSV Eindhoven,PSV,1,2,0-1,2-Jan,Ali Sami Yen Spor Kompleksi Turk Telekom Stadium,52223,Istanbul,41.05926976,28.99270936
+7/28/2021 17:45,Qualification,Qualification,Qualification Round 2,FC Midtjylland,MJY,Celtic Glasgow,CEL,1,1,0-0,1-Jan,MCH Arena,11809,Herning,56.116868,8.951669
+7/28/2021 18:30,Qualification,Qualification,Qualification Round 2,AC Sparta Prague,SPA,SK Rapid Wien,SCR,2,0,Jan-00,Feb-00,Generali Arena,19784,Prague,50.09321463,14.40954503
+6/25/2021 18:00,Qualification,"UEFA Champions League 21/22, Preliminary Round",Final,FC Prishtina,PRI,Inter Club de Escaldes,ESC,2,0,Jan-00,Feb-00,Elbasan Arena,12800,Albania,41.10952456,20.08852798
+7/6/2021 16:00,Qualification,Qualification,Qualification Round 1,Ferencvarosi TC,FTC,FC Prishtina,PRI,3,0,0-0,Mar-00,Groupama Arena,22000,Budapest,47.475357,19.095238
+7/13/2021 18:00,Qualification,Qualification,Qualification Round 1,FC Prishtina,PRI,Ferencvarosi TC,FTC,1,3,0-0,3-Jan,Fadil Vokrri Stadium,13500,Pristina,42.66263669,21.1571219
+7/20/2021 15:00,Qualification,Qualification,Qualification Round 2,Alashkert,ALA,FC Sheriff Tiraspol,SHF,0,1,0-0,0-1,Alashkert Stadium,6850,Yerevan,40.18111,44.51361
+7/21/2021 19:00,Qualification,Qualification,Qualification Round 2,Olympiacos FC,OLY,FK Neftchi Baku,NEB,1,0,Jan-00,Jan-00,Georgios Karaiskakis,32115,Piraeus,37.94103124,23.65871903
+7/20/2021 16:00,Qualification,Qualification,Qualification Round 2,Lincoln Red Imps FC,LIN,FC CFR 1907 Cluj,CFR,1,2,Jan-00,2-Jan,Victoria Stadium,5000,Gibraltar,36.14294609,-5.350203599
+7/20/2021 18:00,Qualification,Qualification,Qualification Round 2,Ferencvarosi TC,FTC,Zalgiris Vilnius,ZAL,2,0,Feb-00,Feb-00,Groupama Arena,22000,Budapest,47.475357,19.095238
+7/20/2021 18:00,Qualification,Qualification,Qualification Round 2,GNK Dinamo Zagreb,DIN,AC Omonia Nicosia,OMO,2,0,0-0,Feb-00,Maksimir,35423,Zagreb,45.81797839,16.01751326
+7/21/2021 14:00,Qualification,Qualification,Qualification Round 2,FC Kairat Almaty,ALM,FK Red Star Belgrade,CRZ,2,1,Jan-00,1-Feb,Central Stadium,25057,Almaty,55.79149683,49.0926663
+7/21/2021 17:00,Qualification,Qualification,Qualification Round 2,Malmo FF,MAL,HJK Helsinki,HJK,2,1,Jan-00,1-Feb,Stadion,22500,Malmo,52.51461,13.239665
+7/21/2021 18:00,Qualification,Qualification,Qualification Round 2,NS Mura,MUR,Ludogorets 1945 Razgrad,LUD,0,0,0-0,0-0,Mesti Stadion Fazanerija,5000,Murska Sobota,46.66823523,16.15692207
+7/21/2021 18:30,Qualification,Qualification,Qualification Round 2,SK Slovan Bratislava,SLB,BSC Young Boys,YB,0,0,0-0,0-0,Tehelne Pole Stadion,22500,Bratislava,48.15813437,17.13544612
+7/21/2021 19:00,Qualification,Qualification,Qualification Round 2,Legia Warsaw,LEG,FC Flora Tallinn,FLO,2,1,Jan-00,1-Feb,Municipal Stadium of Marshal Jozef Pilsudski,15016,Krakow,50.05477811,19.91881132
+7/28/2021 18:30,Qualification,Qualification,Qualification Round 2,FK Red Star Belgrade,CRZ,FC Kairat Almaty,ALM,5,0,Mar-00,May-00,Stadium Rajko Mitic,55538,Belgrade,44.77658356,20.4589465
+7/27/2021 16:00,Qualification,Qualification,Qualification Round 2,FC Flora Tallinn,FLO,Legia Warsaw,LEG,0,1,0-0,0-1,A. Le Coq Arena,15000,Tallinn,59.421307,24.732178
+7/27/2021 16:00,Qualification,Qualification,Qualification Round 2,HJK Helsinki,HJK,Malmo FF,MAL,2,2,1-Jan,2-Feb,Helsinki Football Stadium,10770,Helsinki,60.18583259,24.92016299
+7/28/2021 18:15,Qualification,Qualification,Qualification Round 2,BSC Young Boys,YB,SK Slovan Bratislava,SLB,3,2,Feb-00,2-Mar,Stade de Suisse,31789,Bern,46.95789617,7.458898164
+7/28/2021 17:00,Qualification,Qualification,Qualification Round 2,FC Sheriff Tiraspol,SHF,Alashkert,ALA,3,1,1-Feb,1-Mar,Sheriff Stadium,14000,Tiraspol,46.83649665,29.55433112
+7/27/2021 16:00,Qualification,Qualification,Qualification Round 2,AC Omonia Nicosia,OMO,GNK Dinamo Zagreb,DIN,0,1,0-0,0-1,GSP Stadium,22859,Nicosia,35.10872457,33.3577169
+7/27/2021 17:00,Qualification,Qualification,Qualification Round 2,Zalgiris Vilnius,ZAL,Ferencvarosi TC,FTC,1,3,0-1,3-Jan,LFF Stadium,5400,Vilnius,54.66783066,25.28999884
+7/28/2021 17:00,Qualification,Qualification,Qualification Round 2,FK Neftchi Baku,NEB,Olympiacos FC,OLY,0,1,0-1,0-1,Bakcell Arena,11000,Baku,40.409264,49.867092
+7/28/2021 17:30,Qualification,Qualification,Qualification Round 2,FC CFR 1907 Cluj,CFR,Lincoln Red Imps FC,LIN,2,0,Jan-00,Feb-00,Dr. Constantin Radulescu,23500,Cluj Napoca,46.76667,23.6
+7/28/2021 18:00,Qualification,Qualification,Qualification Round 2,Ludogorets 1945 Razgrad,LUD,NS Mura,MUR,3,1,Jan-00,1-Mar,Ludogorets Arena,10422,Razgrad,43.814912,27.137877
+8/3/2021 18:00,Qualification,Qualification,Qualification Round 3,KRC Genk,GEN,FC Shakhtar Donetsk,SHA,1,2,Jan-00,2-Jan,Luminus Arena,24956,Genk,51.005,5.533333
+8/4/2021 17:00,Qualification,Qualification,Qualification Round 3,FC Spartak Moscow,SPA,Sl Benfica,BEN,0,2,0-0,0-2,Otkritie Arena,45360,Moscow,55.8171634,37.43466493
+8/10/2021 19:00,Qualification,Qualification,Qualification Round 3,Sl Benfica,BEN,FC Spartak Moscow,SPA,2,0,0-0,Feb-00,Estadio do Sport Lisboa e Benfica,64642,Lisbon,38.75160366,-9.18414093
+8/10/2021 17:30,Qualification,Qualification,Qualification Round 3,FC Shakhtar Donetsk,SHA,KRC Genk,GEN,2,1,Jan-00,1-Feb,Olimpiysky National Sports Complex,70050,Kiev,50.43339493,30.51993292
+8/3/2021 17:00,Qualification,Qualification,Qualification Round 3,Malmo FF,MAL,Rangers FC,RNG,2,1,0-0,1-Feb,Stadion,22500,Malmo,52.51461,13.239665
+8/3/2021 18:00,Qualification,Qualification,Qualification Round 3,FC CFR 1907 Cluj,CFR,BSC Young Boys,YB,1,1,Jan-00,1-Jan,Dr. Constantin Radulescu,23500,Cluj Napoca,46.76667,23.6
+8/3/2021 18:00,Qualification,Qualification,Qualification Round 3,PSV Eindhoven,PSV,FC Midtjylland,MJY,3,0,Mar-00,Mar-00,Philips Stadion,35000,Eindhoven,51.43839991,5.467129798
+8/3/2021 19:00,Qualification,Qualification,Qualification Round 3,Olympiacos FC,OLY,Ludogorets 1945 Razgrad,LUD,1,1,0-0,1-Jan,Georgios Karaiskakis,32115,Piraeus,37.94103124,23.65871903
+8/4/2021 18:00,Qualification,Qualification,Qualification Round 3,GNK Dinamo Zagreb,DIN,Legia Warsaw,LEG,1,1,0-0,1-Jan,Maksimir,35423,Zagreb,45.81797839,16.01751326
+8/4/2021 18:00,Qualification,Qualification,Qualification Round 3,Ferencvarosi TC,FTC,SK Slavia Prague,SLA,2,0,Jan-00,Feb-00,Groupama Arena,22000,Budapest,47.475357,19.095238
+8/10/2021 17:00,Qualification,Qualification,Qualification Round 3,SK Slavia Prague,SLA,Ferencvarosi TC,FTC,1,0,Jan-00,Jan-00,Sinobo Stadium,21000,Prague,50.0671664,14.46966479
+8/10/2021 18:00,Qualification,Qualification,Qualification Round 3,FC Midtjylland,MJY,PSV Eindhoven,PSV,0,1,0-0,0-1,MCH Arena,11809,Herning,56.116868,8.951669
+8/10/2021 18:00,Qualification,Qualification,Qualification Round 3,Ludogorets 1945 Razgrad,LUD,Olympiacos FC,OLY,6,3,0-1,2-Feb,Ludogorets Arena,10422,Razgrad,43.814912,27.137877
+8/10/2021 18:30,Qualification,Qualification,Qualification Round 3,BSC Young Boys,YB,FC CFR 1907 Cluj,CFR,3,1,1-Mar,1-Mar,Stade de Suisse,31789,Bern,46.95789617,7.458898164
+8/10/2021 19:00,Qualification,Qualification,Qualification Round 3,Rangers FC,RNG,Malmo FF,MAL,1,2,Jan-00,2-Jan,Ibrox,50817,Glasgow,55.85191993,-4.305552111
+8/10/2021 19:00,Qualification,Qualification,Qualification Round 3,Legia Warsaw,LEG,GNK Dinamo Zagreb,DIN,0,1,0-1,0-1,Municipal Stadium of Marshal Jozef Pilsudski,15016,Krakow,50.05477811,19.91881132
+8/3/2021 17:00,Qualification,Qualification,Qualification Round 3,AC Sparta Prague,SPA,AS Monaco,ASM,0,2,0-1,0-2,Generali Arena,19784,Prague,50.09321463,14.40954503
+8/3/2021 19:00,Qualification,Qualification,Qualification Round 3,FK Red Star Belgrade,CRZ,FC Sheriff Tiraspol,SHF,1,1,1-Jan,1-Jan,Stadium Rajko Mitic,55538,Belgrade,44.77658356,20.4589465
+8/10/2021 17:00,Qualification,Qualification,Qualification Round 3,FC Sheriff Tiraspol,SHF,FK Red Star Belgrade,CRZ,1,0,Jan-00,Jan-00,Sheriff Stadium,14000,Tiraspol,46.83649665,29.55433112
+8/10/2021 18:00,Qualification,Qualification,Qualification Round 3,AS Monaco,ASM,AC Sparta Prague,SPA,3,1,0-0,1-Mar,Stade Louis II,18523,Fontvieille,43.727606,7.415614
+8/17/2021 19:00,Qualification,Qualification,Qualification Round 4,FC Salzburg,SAL,Broendby IF,BRO,2,1,0-1,1-Feb,Red Bull Arena,30188,Salzburg,40.73685,-74.15036
+8/25/2021 19:00,Qualification,Qualification,Qualification Round 4,Broendby IF,BRO,FC Salzburg,SAL,1,2,0-2,2-Jan,BrÃƒÂ¸ndby Stadium,29000,Copenhagen,55.859886,12.560164
+8/18/2021 19:00,Qualification,Qualification,Qualification Round 4,Sl Benfica,BEN,PSV Eindhoven,PSV,2,1,Feb-00,1-Feb,Estadio do Sport Lisboa e Benfica,64642,Lisbon,38.75160366,-9.18414093
+8/17/2021 19:00,Qualification,Qualification,Qualification Round 4,AS Monaco,ASM,FC Shakhtar Donetsk,SHA,0,1,0-1,0-1,Stade Louis II,18523,Fontvieille,43.727606,7.415614
+8/18/2021 19:00,Qualification,Qualification,Qualification Round 4,BSC Young Boys,YB,Ferencvarosi TC,FTC,3,2,1-Feb,2-Mar,Stade de Suisse,31789,Bern,46.95789617,7.458898164
+8/18/2021 19:00,Qualification,Qualification,Qualification Round 4,Malmo FF,MAL,Ludogorets 1945 Razgrad,LUD,2,0,Jan-00,Feb-00,Stadion,22500,Malmo,52.51461,13.239665
+8/24/2021 19:00,Qualification,Qualification,Qualification Round 4,Ferencvarosi TC,FTC,BSC Young Boys,YB,2,3,1-Feb,3-Feb,Groupama Arena,22000,Budapest,47.475357,19.095238
+8/25/2021 19:00,Qualification,Qualification,Qualification Round 4,FC Shakhtar Donetsk,SHA,AS Monaco,ASM,1,2,0-2,2-Jan,Olimpiysky National Sports Complex,70050,Kiev,50.43339493,30.51993292
+8/24/2021 19:00,Qualification,Qualification,Qualification Round 4,PSV Eindhoven,PSV,Sl Benfica,BEN,0,0,0-0,0-0,Philips Stadion,35000,Eindhoven,51.43839991,5.467129798
+8/24/2021 19:00,Qualification,Qualification,Qualification Round 4,Ludogorets 1945 Razgrad,LUD,Malmo FF,MAL,2,1,1-Jan,1-Feb,Ludogorets Arena,10422,Razgrad,43.814912,27.137877
+8/17/2021 19:00,Qualification,Qualification,Qualification Round 4,FC Sheriff Tiraspol,SHF,GNK Dinamo Zagreb,DIN,3,0,Jan-00,Mar-00,Sheriff Stadium,14000,Tiraspol,46.83649665,29.55433112
+8/25/2021 19:00,Qualification,Qualification,Qualification Round 4,GNK Dinamo Zagreb,DIN,FC Sheriff Tiraspol,SHF,0,0,0-0,0-0,Maksimir,35423,Zagreb,45.81797839,16.01751326
+9/14/2021 16:45,,,1,BSC Young Boys,YB,Manchester United,MNU,2,1,0-1,1-Feb,Stade de Suisse,31789,Bern,46.95789617,7.458898164
+9/14/2021 16:45,,,1,FC Sevilla,SEV,FC Salzburg,SAL,1,1,1-Jan,1-Jan,Ramon Sanchez Pizjuan,45500,Seville,37.384,-5.9705
+9/14/2021 19:00,,,1,CF Villarreal,VIL,Atalanta Bergamasca Calcio,ATA,2,2,1-Jan,2-Feb,Estadio de la Ceramica,23500,Villarreal,40.190632,-0.17933
+9/14/2021 19:00,,,1,LOSC Lille,LIL,VfL Wolfsburg,WOB,0,0,0-0,0-0,Stade Pierre Mauroy,50186,Lille,50.611275,3.128196
+9/14/2021 19:00,,,1,FC Dynamo Kiev,DYK,Sl Benfica,BEN,0,0,0-0,0-0,Olimpiysky National Sports Complex,70050,Kiev,50.43339493,30.51993292
+9/14/2021 19:00,,,1,Malmo FF,MAL,Juventus Turin,JUV,0,3,0-3,0-3,Stadion,22500,Malmo,52.51461,13.239665
+9/14/2021 19:00,,,1,Chelsea FC,CFC,FC Zenit St Petersburg,ZEN,1,0,0-0,Jan-00,Stamford Bridge,41798,Chelsea ,51.481667,-0.191111
+9/14/2021 19:00,,,1,FC Barcelona,FCB,FC Bayern Munich,FCB,0,3,0-1,0-3,Camp Nou,98787,Barcelona,41.380898,2.12282
+9/15/2021 16:45,,,1,FC Sheriff Tiraspol,SHF,FC Shakhtar Donetsk,SHA,2,0,Jan-00,Feb-00,Sheriff Stadium,14000,Tiraspol,46.83649665,29.55433112
+9/15/2021 16:45,,,1,Besiktas,BES,Borussia Dortmund,BVB,1,2,0-2,2-Jan,Vodafone Park,41188,Istanbul,41.044,29.002
+9/15/2021 19:00,,,1,Sporting CP,SPO,Ajax Amsterdam,AJA,1,5,3-Jan,5-Jan,Jose Alvalade,50044,Lisbon,38.75671364,-9.156469374
+9/15/2021 19:00,Group stage,A,1,Manchester City,MNC,RB Leipzig,RBL,6,3,1-Mar,3-Jun,Etihad Stadium,46708,Manchester,53.483135,-2.200941
+9/15/2021 19:00,,,1,Liverpool FC,LFC,AC Milan,ACM,3,2,2-Jan,2-Mar,Anfield,54074,Liverpool,53.42515663,-2.956492841
+9/15/2021 19:00,,,1,Inter Milano,INT,Real Madrid,RMA,0,1,0-0,0-1,Giuseppe Meazza,80018,Milan,45.47347977,9.121189515
+9/15/2021 19:00,,,1,Atletico Madrid,ATM,FC Porto,FCP,0,0,0-0,0-0,Wanda Metropolitano,67942,Madrid,40.447527,-3.716147
+9/15/2021 19:00,Group stage,A,1,Club Brugge,BRU,Paris Saint-Germain,PSG,1,1,1-Jan,1-Jan,Jan Breydel Stadium,29975,Bruges,51.18929591,3.175015967
+9/28/2021 16:45,Group stage,C,2,Ajax Amsterdam,AJA,Besiktas,BES,2,0,Feb-00,Feb-00,Johan Cruijff Arena,54990,Amsterdam,52.314312,4.941541
+9/28/2021 16:45,Group stage,D,2,FC Shakhtar Donetsk,SHA,Inter Milano,INT,0,0,0-0,0-0,Olimpiysky National Sports Complex,70050,Kiev,50.43339493,30.51993292
+9/28/2021 19:00,Group stage,D,2,Real Madrid,RMA,FC Sheriff Tiraspol,SHF,1,2,0-1,2-Jan,Santiago Bernabeu,81044,Madrid,40.45306,-3.68835
+9/28/2021 19:00,Group stage,A,2,Paris Saint-Germain,PSG,Manchester City,MNC,2,0,Jan-00,Feb-00,Parc des Princes,47929,Paris,48.83816331,2.251832326
+9/28/2021 19:00,Group stage,A,2,RB Leipzig,RBL,Club Brugge,BRU,1,2,2-Jan,2-Jan,Red Bull Arena,42558,Leipzig,40.73685,-74.15036
+9/28/2021 19:00,Group stage,C,2,Borussia Dortmund,BVB,Sporting CP,SPO,1,0,Jan-00,Jan-00,Signal Iduna Park,81365,Dortmund,51.492569,7.451842
+9/28/2021 19:00,Group stage,B,2,AC Milan,ACM,Atletico Madrid,ATM,1,2,Jan-00,2-Jan,Giuseppe Meazza,80018,Milan,45.47347977,9.121189515
+9/28/2021 19:00,Group stage,B,2,FC Porto,FCP,Liverpool FC,LFC,1,5,0-2,5-Jan,Estadio do Dragao,52033,Porto,41.161758,-8.583933
+9/29/2021 16:45,Group stage,H,2,FC Zenit St Petersburg,ZEN,Malmo FF,MAL,4,0,Jan-00,Apr-00,Gazprom Arena,70000,Saint Petersburg,59.972733,30.21921
+9/29/2021 16:45,Group stage,F,2,Atalanta Bergamasca Calcio,ATA,BSC Young Boys,YB,1,0,0-0,Jan-00,Gewiss Stadium,26393,Bergamo,45.695,9.67
+9/29/2021 19:00,Group stage,E,2,FC Bayern Munich,FCB,FC Dynamo Kiev,DYK,5,0,Feb-00,May-00,Allianz Stadium,75000,Munich,48.21793079,11.62151585
+9/29/2021 19:00,Group stage,H,2,Juventus Turin,JUV,Chelsea FC,CFC,1,0,0-0,Jan-00,Allianz Stadium,75000,Munich,48.21793079,11.62151585
+9/29/2021 19:00,Group stage,G,2,FC Salzburg,SAL,LOSC Lille,LIL,2,1,Jan-00,1-Feb,Red Bull Arena,30188,Salzburg,40.73685,-74.15036
+9/29/2021 19:00,Group stage,G,2,VfL Wolfsburg,WOB,FC Sevilla,SEV,1,1,0-0,1-Jan,Volkswagen Arena,30000,Wolfsburg,52.42452,10.7815
+9/29/2021 19:00,Group stage,F,2,Manchester United,MNU,CF Villarreal,VIL,2,1,0-0,1-Feb,Old Trafford,75635,Manchester,53.463493,-2.292279
+9/29/2021 19:00,Group stage,E,2,Sl Benfica,BEN,FC Barcelona,FCB,3,0,Jan-00,Mar-00,Estadio do Sport Lisboa e Benfica,64642,Lisbon,38.75160366,-9.18414093
+10/19/2021 16:45,Group stage,C,3,Besiktas,BES,Sporting CP,SPO,1,4,3-Jan,4-Jan,Vodafone Park,41188,Istanbul,41.0392056,28.9947417
+10/19/2021 16:45,Group stage,A,3,Club Brugge,BRU,Manchester City,MNC,1,5,0-2,5-Jan,Jan Breydel Stadium,29975,Bruges,51.18929591,3.175015967
+10/19/2021 19:00,Group stage,D,3,FC Shakhtar Donetsk,SHA,Real Madrid,RMA,0,5,0-1,0-5,Olimpiysky National Sports Complex,70050,Kiev,50.43339493,30.51993292
+10/19/2021 19:00,Group stage,B,3,FC Porto,FCP,AC Milan,ACM,1,0,0-0,Jan-00,Estadio do Dragao,52033,Porto,41.161758,-8.583933
+10/19/2021 19:00,Group stage,A,3,Paris Saint-Germain,PSG,RB Leipzig,RBL,3,2,1-Jan,2-Mar,Parc des Princes,47929,Paris,48.83816331,2.251832326
+10/19/2021 19:00,Group stage,D,3,Inter Milano,INT,FC Sheriff Tiraspol,SHF,3,1,Jan-00,1-Mar,Giuseppe Meazza,80018,Milan,45.47347977,9.121189515
+10/19/2021 19:00,Group stage,B,3,Atletico Madrid,ATM,Liverpool FC,LFC,2,3,2-Feb,3-Feb,Wanda Metropolitano,67942,Madrid,40.447527,-3.716147
+10/19/2021 19:00,Group stage,C,3,Ajax Amsterdam,AJA,Borussia Dortmund,BVB,4,0,Feb-00,Apr-00,Johan Cruijff Arena,54990,Amsterdam,52.314312,4.941541
+10/20/2021 16:45,Group stage,G,3,FC Salzburg,SAL,VfL Wolfsburg,WOB,3,1,1-Jan,1-Mar,Red Bull Arena,30188,Salzburg,40.73685,-74.15036
+10/20/2021 16:45,Group stage,E,3,FC Barcelona,FCB,FC Dynamo Kiev,DYK,1,0,Jan-00,Jan-00,Camp Nou,98787,Barcelona,41.380898,2.12282
+10/20/2021 19:00,Group stage,F,3,Manchester United,MNU,Atalanta Bergamasca Calcio,ATA,3,2,0-2,2-Mar,Old Trafford,75635,Manchester,53.463493,-2.292279
+10/20/2021 19:00,Group stage,G,3,LOSC Lille,LIL,FC Sevilla,SEV,0,0,0-0,0-0,Stade Pierre Mauroy,50186,Lille,50.611275,3.128196
+10/20/2021 19:00,Group stage,F,3,BSC Young Boys,YB,CF Villarreal,VIL,1,4,0-2,4-Jan,Stade de Suisse,31789,Bern,46.95789617,7.458898164
+10/20/2021 19:00,Group stage,H,3,Chelsea FC,CFC,Malmo FF,MAL,4,0,Feb-00,Apr-00,Stamford Bridge,41798,London,51.481667,-0.191111
+10/20/2021 19:00,Group stage,H,3,FC Zenit St Petersburg,ZEN,Juventus Turin,JUV,0,1,0-0,0-1,Gazprom Arena,70000,Saint Petersburg,59.972733,30.21921
+10/20/2021 19:00,Group stage,E,3,Sl Benfica,BEN,FC Bayern Munich,FCB,0,4,0-0,0-4,Estadio do Sport Lisboa e Benfica,64642,Lisbon,38.75160366,-9.18414093
+11/2/2021 17:45,Group stage,G,4,VfL Wolfsburg,WOB,FC Salzburg,SAL,2,1,1-Jan,1-Feb,Volkswagen Arena,30000,Wolfsburg,52.42452,10.7815
+11/2/2021 17:45,Group stage,H,4,Malmo FF,MAL,Chelsea FC,CFC,0,1,0-0,0-1,Stadion,22500,Malmo,52.51461,13.239665
+11/2/2021 20:00,Group stage,E,4,FC Dynamo Kiev,DYK,FC Barcelona,FCB,0,1,0-0,0-1,Olimpiysky National Sports Complex,70050,Kiev,50.43339493,30.51993292
+11/2/2021 20:00,Group stage,E,4,FC Bayern Munich,FCB,Sl Benfica,BEN,5,2,1-Feb,2-May,Allianz Stadium,75000,Munich,48.21793079,11.62151585
+11/2/2021 20:00,Group stage,H,4,Juventus Turin,JUV,FC Zenit St Petersburg,ZEN,4,2,1-Jan,2-Apr,Allianz Stadium,75000,Munich,48.21793079,11.62151585
+11/2/2021 20:00,Group stage,G,4,FC Sevilla,SEV,LOSC Lille,LIL,1,2,1-Jan,2-Jan,Ramon Sanchez Pizjuan,45500,Seville,37.384,-5.9705
+11/2/2021 20:00,Group stage,F,4,Atalanta Bergamasca Calcio,ATA,Manchester United,MNU,2,2,1-Jan,2-Feb,Gewiss Stadium,26393,Bergamo,45.695,9.67
+11/2/2021 20:00,Group stage,F,4,CF Villarreal,VIL,BSC Young Boys,YB,2,0,Jan-00,Feb-00,Estadio de la Ceramica,23500,Villarreal,39.943325,-0.10380683
+11/3/2021 17:45,Group stage,D,4,Real Madrid,RMA,FC Shakhtar Donetsk,SHA,2,1,1-Jan,1-Feb,Santiago Bernabeu,81044,Madrid ,40.45306,-3.68835
+11/3/2021 17:45,Group stage,B,4,AC Milan,ACM,FC Porto,FCP,1,1,0-1,1-Jan,Giuseppe Meazza,80018,Milan,45.47347977,9.121189515
+11/3/2021 20:00,Group stage,A,4,RB Leipzig,RBL,Paris Saint-Germain,PSG,2,2,2-Jan,2-Feb,Red Bull Arena,42558,Leipzig,40.73685,-74.15036
+11/3/2021 20:00,Group stage,D,4,FC Sheriff Tiraspol,SHF,Inter Milano,INT,1,3,0-0,3-Jan,Sheriff Stadium,14000,Tiraspol,46.83649665,29.55433112
+11/3/2021 20:00,Group stage,C,4,Borussia Dortmund,BVB,Ajax Amsterdam,AJA,1,3,Jan-00,3-Jan,Signal Iduna Park,81365,Dortmund,51.492569,7.451842
+11/3/2021 20:00,Group stage,B,4,Liverpool FC,LFC,Atletico Madrid,ATM,2,0,Feb-00,Feb-00,Anfield,54074,Liverpool,53.430759,-2.961425
+11/3/2021 20:00,Group stage,A,4,Manchester City,MNC,Club Brugge,BRU,4,1,1-Jan,1-Apr,Etihad Stadium,46708,Manchester,53.483135,-2.200941
+11/3/2021 20:00,Group stage,C,4,Sporting CP,SPO,Besiktas,BES,4,0,Mar-00,Apr-00,Jose Alvalade,50044,Lisbon,38.75671364,-9.156469374
+11/23/2021 17:45,Group stage,E,5,FC Dynamo Kiev,DYK,FC Bayern Munich,FCB,1,2,0-2,2-Jan,Olimpiysky National Sports Complex,70050,Kiev,50.43339493,30.51993292
+11/23/2021 17:45,Group stage,F,5,CF Villarreal,VIL,Manchester United,MNU,0,2,0-0,0-2,Estadio de la Ceramica,23500,Villarreal,39.943325,-0.10380683
+11/23/2021 20:00,Group stage,G,5,FC Sevilla,SEV,VfL Wolfsburg,WOB,2,0,Jan-00,Feb-00,Ramon Sanchez Pizjuan,45500,Seville,37.384,-5.9705
+11/23/2021 20:00,Group stage,H,5,Chelsea FC,CFC,Juventus Turin,JUV,4,0,Jan-00,Apr-00,Stamford Bridge,41798,Chelsea ,51.481667,-0.191111
+11/23/2021 20:00,Group stage,F,5,BSC Young Boys,YB,Atalanta Bergamasca Calcio,ATA,3,3,1-Jan,3-Mar,Stade de Suisse,31789,Bern,46.95789617,7.458898164
+11/23/2021 20:00,Group stage,G,5,LOSC Lille,LIL,FC Salzburg,SAL,1,0,Jan-00,Jan-00,Stade Pierre Mauroy,50186,Lille,50.611275,3.128196
+11/23/2021 20:00,Group stage,E,5,FC Barcelona,FCB,Sl Benfica,BEN,0,0,0-0,0-0,Camp Nou,98787,Barcelona,41.380898,2.12282
+11/23/2021 20:00,Group stage,H,5,Malmo FF,MAL,FC Zenit St Petersburg,ZEN,1,1,Jan-00,1-Jan,Stadion,22500,Malmo,52.51461,13.239665
+11/24/2021 17:45,Group stage,C,5,Besiktas,BES,Ajax Amsterdam,AJA,1,2,Jan-00,2-Jan,Vodafone Park,41188,Istanbul,41.0392056,28.9947417
+11/24/2021 17:45,Group stage,D,5,Inter Milano,INT,FC Shakhtar Donetsk,SHA,2,0,0-0,Feb-00,Giuseppe Meazza,80018,Milan,45.47347977,9.121189515
+11/24/2021 20:00,Group stage,C,5,Sporting CP,SPO,Borussia Dortmund,BVB,3,1,Feb-00,1-Mar,Jose Alvalade,50044,Lisbon,38.75671364,-9.156469374
+11/24/2021 20:00,Group stage,A,5,Club Brugge,BRU,RB Leipzig,RBL,0,5,0-4,0-5,Jan Breydel Stadium,29975,Bruges,51.18929591,3.175015967
+11/24/2021 20:00,Group stage,D,5,FC Sheriff Tiraspol,SHF,Real Madrid,RMA,0,3,0-2,0-3,Sheriff Stadium,14000,Tiraspol,46.83649665,29.55433112
+11/24/2021 20:00,Group stage,B,5,Liverpool FC,LFC,FC Porto,FCP,2,0,0-0,Feb-00,Anfield,54074,Liverpool,53.430759,-2.961425
+11/24/2021 20:00,Group stage,B,5,Atletico Madrid,ATM,AC Milan,ACM,0,1,0-0,0-1,Wanda Metropolitano,67942,Madrid,40.447527,-3.716147
+11/24/2021 20:00,Group stage,A,5,Manchester City,MNC,Paris Saint-Germain,PSG,2,1,0-0,1-Feb,Etihad Stadium,46708,Manchester,53.483135,-2.200941
+12/7/2021 17:45,Group stage,A,6,Paris Saint-Germain,PSG,Club Brugge,BRU,4,1,Mar-00,1-Apr,Parc des Princes,47929,Paris,48.83816331,2.251832326
+12/7/2021 17:45,Group stage,A,6,RB Leipzig,RBL,Manchester City,MNC,2,1,Jan-00,1-Feb,Red Bull Arena,42558,Leipzig,40.73685,-74.15036
+12/7/2021 20:00,Group stage,C,6,Borussia Dortmund,BVB,Besiktas,BES,5,0,Feb-00,May-00,Signal Iduna Park,81365,Dortmund,51.492569,7.451842
+12/7/2021 20:00,Group stage,D,6,FC Shakhtar Donetsk,SHA,FC Sheriff Tiraspol,SHF,1,1,Jan-00,1-Jan,Olimpiysky National Sports Complex,70050,Kiev,50.43339493,30.51993292
+12/7/2021 20:00,Group stage,C,6,Ajax Amsterdam,AJA,Sporting CP,SPO,4,2,1-Feb,2-Apr,Johan Cruijff Arena,54990,Amsterdam,52.314312,4.941541
+12/7/2021 20:00,Group stage,B,6,AC Milan,ACM,Liverpool FC,LFC,1,2,1-Jan,2-Jan,Giuseppe Meazza,80018,Milan,45.47347977,9.121189515
+12/7/2021 20:00,Group stage,D,6,Real Madrid,RMA,Inter Milano,INT,2,0,Jan-00,Feb-00,Santiago Bernabeu,81044,Madrid ,40.45306,-3.68835
+12/7/2021 20:00,Group stage,B,6,FC Porto,FCP,Atletico Madrid,ATM,1,3,0-0,3-Jan,Estadio do Dragao,52033,Porto,41.161758,-8.583933
+12/8/2021 17:45,Group stage,H,6,Juventus Turin,JUV,Malmo FF,MAL,1,0,Jan-00,Jan-00,Allianz Stadium,75000,Munich,48.21793079,11.62151585
+12/8/2021 17:45,Group stage,H,6,FC Zenit St Petersburg,ZEN,Chelsea FC,CFC,3,3,1-Feb,3-Mar,Gazprom Arena,70000,Saint Petersburg,59.972733,30.21921
+12/8/2021 20:00,Group stage,"UEFA Champions League 21/22, G",6,FC Salzburg,SAL,FC Sevilla,SEV,1,0,0-0,Jan-00,Red Bull Arena,30188,Salzburg,40.73685,-74.15036
+12/8/2021 20:00,Group stage,"UEFA Champions League 21/22, G",6,VfL Wolfsburg,WOB,LOSC Lille,LIL,1,3,0-1,3-Jan,Volkswagen Arena,30000,Wolfsburg,52.42452,10.7815
+12/8/2021 20:00,Group stage,"UEFA Champions League 21/22, F",6,Manchester United,MNU,BSC Young Boys,YB,1,1,1-Jan,1-Jan,Old Trafford,75635,Manchester,53.463493,-2.292279
+12/8/2021 20:00,Group stage,"UEFA Champions League 21/22, E",6,FC Bayern Munich,FCB,FC Barcelona,FCB,3,0,Feb-00,Mar-00,Allianz Stadium,75000,Munich,48.21793079,11.62151585
+12/8/2021 20:00,Group stage,"UEFA Champions League 21/22, E",6,Sl Benfica,BEN,FC Dynamo Kiev,DYK,2,0,Feb-00,Feb-00,Estadio do Sport Lisboa e Benfica,64642,Lisbon,38.75160366,-9.18414093
+12/9/2021 18:00,Group stage,F,6,Atalanta Bergamasca Calcio,ATA,CF Villarreal,VIL,2,3,0-2,3-Feb,Gewiss Stadium,26393,Bergamo,45.695,9.67
+2/15/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Paris Saint-Germain,PSG,Real Madrid,RMA,1,0,0-0,Jan-00,Parc des Princes,47929,Paris,48.83816331,2.251832326
+2/15/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Sporting CP,SPO,Manchester City,MNC,0,5,0-4,0-5,Jose Alvalade,50044,Lisbon,38.75671364,-9.156469374
+2/16/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Inter Milano,INT,Liverpool FC,LFC,0,2,0-0,0-2,Giuseppe Meazza,80018,Milan,45.47347977,9.121189515
+2/16/2022 20:00,Playoffs,Knockout stage,1/8 - finals,FC Salzburg,SAL,FC Bayern Munich,FCB,1,1,Jan-00,1-Jan,Red Bull Arena,30188,Salzburg,40.73685,-74.15036
+2/22/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Chelsea FC,CFC,LOSC Lille,LIL,0,0,,,Stamford Bridge,41798,Chelsea ,51.481667,-0.191111
+2/22/2022 20:00,Playoffs,Knockout stage,1/8 - finals,CF Villarreal,VIL,Juventus Turin,JUV,0,0,,,Estadio de la Ceramica,23500,Villarreal,39.943325,-0.10380683
+2/23/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Sl Benfica,BEN,Ajax Amsterdam,AJA,0,0,,,Estadio do Sport Lisboa e Benfica,64642,Lisbon,38.75160366,-9.18414093
+2/23/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Atletico Madrid,ATM,Manchester United,MNU,0,0,,,Wanda Metropolitano,67942,Madrid,40.447527,-3.716147
+3/8/2022 20:00,Playoffs,Knockout stage,1/8 - finals,FC Bayern Munich,FCB,FC Salzburg,SAL,0,0,,,Allianz Stadium,75000,Munich,48.21793079,11.62151585
+3/8/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Liverpool FC,LFC,Inter Milano,INT,0,0,,,Anfield,54074,Liverpool,53.430759,-2.961425
+3/9/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Manchester City,MNC,Sporting CP,SPO,0,0,,,Etihad Stadium,46708,Manchester,53.483135,-2.200941
+3/9/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Real Madrid,RMA,Paris Saint-Germain,PSG,0,0,,,Santiago Bernabeu,81044,Madrid ,40.45306,-3.68835
+3/15/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Manchester United,MNU,Atletico Madrid,ATM,0,0,,,Old Trafford,75635,Manchester,53.463493,-2.292279
+3/15/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Ajax Amsterdam,AJA,Sl Benfica,BEN,0,0,,,Johan Cruijff Arena,54990,Amsterdam,52.314312,4.941541
+3/16/2022 20:00,Playoffs,Knockout stage,1/8 - finals,LOSC Lille,LIL,Chelsea FC,CFC,0,0,,,Stade Pierre Mauroy,50186,Lille,50.611275,3.128196
+3/16/2022 20:00,Playoffs,Knockout stage,1/8 - finals,Juventus Turin,JUV,CF Villarreal,VIL,0,0,,,Allianz Stadium,75000,Munich,48.21793079,11.62151585
+8/8/2020 13:00,Qualification,Preliminary Round,Semi-finals,SP Tre Fiori,TRF,Linfield FC,LIN,0,2,0-0,0-2,Centre Sportif de Colovray,7200,Nyon,46.36667,6.48333
+8/8/2020 17:30,Qualification,Preliminary Round,Semi-finals,KF Drita,DRI,Inter Club de Escaldes,ESC,2,1,1-Feb,1-Feb,Centre Sportif de Colovray,7200,Nyon,46.36667,6.48333
+8/11/2020 16:00,Qualification,Preliminary Round,Final,KF Drita,DRI,Linfield FC,LIN,0,0,,,Centre Sportif de Colovray,7200,Nyon,46.36667,6.48333
+8/18/2020 16:00,Qualification,Qualification,Qualification Round 1,Qarabag FK,QAR,FK Sileks Kratovo,SIK,4,0,Feb-00,Apr-00,Tofik Bakhramov,31200,Baku,40.3917351,49.85145659
+8/18/2020 17:00,Qualification,Qualification,Qualification Round 1,Legia Warsaw,LEG,Linfield FC,LIN,1,0,0-0,Jan-00,Municipal Stadium of Marshal Jozef Pilsudski,15016,Krakow,50.0646501,19.9449799
+8/18/2020 18:00,Qualification,Qualification,Qualification Round 1,FC Brest,BRE,FC Astana,FCA,6,3,1-Apr,3-Jun,Regional Sport Complex Brestskiy,10169,Brest,52.09755,23.68775
+8/18/2020 18:45,Qualification,Qualification,Qualification Round 1,Celtic Glasgow,CEL,KR Reykjavik,KRR,6,0,Mar-00,Jun-00,Celtic Park,60411,Glasgow,55.84515,-4.195349
+8/18/2020 19:00,Qualification,Qualification,Qualification Round 1,FK Red Star Belgrade,CRZ,College Europa FC,EUR,5,0,Feb-00,May-00,Stadium Rajko Mitic,55538,Belgrade,44.77658356,20.4589465
+8/19/2020 15:00,Qualification,Qualification,Qualification Round 1,FC Ararat Armenia,ARA,AC Omonia Nicosia,OMO,0,1,0-0,0-0,Vazgen Sargsyan Republican Stadium,14403,Yerevan,40.171944,44.525833
+8/19/2020 16:00,Qualification,Qualification,Qualification Round 1,Molde FK,MFK,Kuopion Palloseura,KUP,5,0,Feb-00,May-00,Aker Stadium,11249,Molde,62.73752,7.15912
+8/19/2020 16:30,Qualification,Qualification,Qualification Round 1,FC Flora Tallinn,FLO,FK Suduva Marijampole,SUD,3,5,0-0,1-Jan,A. Le Coq Arena,15000,Tallinn,59.41943999,24.72589376
+8/19/2020 17:00,Qualification,Qualification,Qualification Round 1,FC Dinamo Tbilisi,TBI,KF Tirana,KFT,0,2,0-1,0-2,Boris Paichadze Dinamo Arena,54549,Tbilisi,41.72046878,44.78718685
+8/19/2020 17:00,Qualification,Qualification,Qualification Round 1,Ferencvarosi TC,FTC,Djurgardens IF,DJU,2,0,Jan-00,Feb-00,Groupama Arena,22000,Budapest,47.497913,19.040236
+8/19/2020 17:00,Qualification,Qualification,Qualification Round 1,Maccabi Tel Aviv FC,MTA,"Riga FC	",RFC,2,0,0-0,Feb-00,Bloomfield,29150,Tel Aviv,40.80677,-74.18542
+8/19/2020 17:00,Qualification,Qualification,Qualification Round 1,NK Celje,CEL,Dundalk FC,DUN,3,0,Jan-00,Mar-00,Megyeri uti,13501,Budapest,47.57489,19.08465
+8/19/2020 18:00,Qualification,Qualification,Qualification Round 1,ConnahÃ‚Â´s Quay Nomads FC,CQN,FK Sarajevo,FKS,0,2,0-1,0-2,Cardiff City Stadium,26828,Cardiff,51.47278,-3.203056
+8/19/2020 18:00,Qualification,Qualification,Qualification Round 1,FC Sheriff Tiraspol,SHF,CS Fola Esch,FES,2,0,Jan-00,Feb-00,Sheriff Stadium,14000,Tiraspol,46.83649665,29.55433112
+8/19/2020 18:00,Qualification,Qualification,Qualification Round 1,FK Buducnost,BUD,Ludogorets 1945 Razgrad,LUD,1,3,2-Jan,3-Jan,Podgorica City Stadium,17000,Podgorica,42.442574,19.268646
+8/19/2020 19:00,Qualification,Qualification,Qualification Round 1,Floriana FC,FLO,FC CFR 1907 Cluj,CFR,0,2,0-0,0-2,Independence Ground,3000,Floriana,35.88999644,14.50316465
+8/21/2020 16:00,Qualification,Qualification,Qualification Round 1,KI Klaksvik,KI,SK Slovan Bratislava,SLB,0,0,,,Vid Djupumyrar,2500,Klaksvik ,62.228687,-6.5840073
+8/25/2020 18:00,Qualification,Qualification,Qualification Round 2,PAOK FC,PAOK,Besiktas,BES,3,1,1-Mar,1-Mar,Toumba Stadium,28703,Thessaloniki,40.64361,22.93086
+8/25/2020 18:00,Qualification,Qualification,Qualification Round 2,KF Tirana,KFT,FK Red Star Belgrade,CRZ,0,1,0-0,0-1,Arena KombÃƒÂ«tare,22500,Tirana,41.327953,19.819025
+8/26/2020 14:30,Qualification,Qualification,Qualification Round 2,AZ Alkmaar,AZA,FC Viktoria Plzen,VIK,3,1,0-0,1-Jan,AFAS Stadium,17023,Alkmaar,52.60766424,4.738663712
+8/26/2020 16:00,Qualification,Qualification,Qualification Round 2,FK Suduva Marijampole,SUD,Maccabi Tel Aviv FC,MTA,0,3,0-1,0-3,Arvi arena,6500,Marijampole,54.57139271,23.35923356
+8/26/2020 16:00,Qualification,Qualification,Qualification Round 2,NK Celje,CEL,Molde FK,MFK,1,2,Jan-00,2-Jan,Arena ZÃ¢â‚¬â„¢dezele,13059,Celje,46.23092,15.26044
+8/26/2020 16:00,Qualification,Qualification,Qualification Round 2,Qarabag FK,QAR,FC Sheriff Tiraspol,SHF,2,1,Jan-00,1-Feb,Tofik Bakhramov,31200,Baku,40.3917351,49.85145659
+8/26/2020 17:00,Qualification,Qualification,Qualification Round 2,NK Lokomotiva Zagreb,LOK,SK Rapid Wien,SCR,0,1,0-1,0-1,Kranjceviceva,8850,Zagreb,45.815399,15.966568
+8/26/2020 17:30,Qualification,Qualification,Qualification Round 2,Ludogorets 1945 Razgrad,LUD,FC Midtjylland,MJY,0,1,0-0,0-1,Ludogorets Arena,10422,Razgrad,43.814912,27.137877
+8/26/2020 18:00,Qualification,Qualification,Qualification Round 2,FC Brest,BRE,FK Sarajevo,FKS,2,1,1-Jan,1-Feb,Regional Sport Complex Brestskiy,10169,Brest,52.09755,23.68775
+8/26/2020 18:00,Qualification,Qualification,Qualification Round 2,FC CFR 1907 Cluj,CFR,GNK Dinamo Zagreb,DIN,7,8,0-1,2-Feb,Dr. Constantin Radulescu,23500,Cluj Napoca,46.76667,23.6
+8/26/2020 18:00,Qualification,Qualification,Qualification Round 2,Legia Warsaw,LEG,AC Omonia Nicosia,OMO,0,2,0-0,0-0,Municipal Stadium of Marshal Jozef Pilsudski,15016,Krakow,50.0646501,19.9449799
+8/26/2020 18:15,Qualification,Qualification,Qualification Round 2,BSC Young Boys,YB,KI Klaksvik,KI,3,1,0-0,1-Mar,Stade de Suisse,31789,Bern,46.95789617,7.458898164
+8/26/2020 18:45,Qualification,Qualification,Qualification Round 2,Celtic Glasgow,CEL,Ferencvarosi TC,FTC,1,2,0-1,2-Jan,Celtic Park,60411,Glasgow,55.84515,-4.195349
+9/15/2020 17:00,Qualification,Qualification,Qualification Round 3,FC Dynamo Kiev,DYK,AZ Alkmaar,AZA,2,0,0-0,Feb-00,Olimpiysky National Sports Complex,70050,Kiev,50.43339493,30.51993292
+9/15/2020 18:00,Qualification,Qualification,Qualification Round 3,PAOK FC,PAOK,Sl Benfica,BEN,2,1,0-0,1-Feb,Toumba Stadium,28703,Thessaloniki,40.64361,22.93086
+9/15/2020 18:30,Qualification,Qualification,Qualification Round 3,KAA Gent,KAA,SK Rapid Wien,SCR,2,1,Jan-00,1-Feb,Ghelamco Arena,20000,Gent,51.01611,3.734167
+9/16/2020 15:00,Qualification,Qualification,Qualification Round 3,AC Omonia Nicosia,OMO,FK Red Star Belgrade,CRZ,5,3,1-Jan,1-Jan,GSP Stadium,22859,Nicosia,35.10872457,33.3577169
+9/16/2020 17:00,Qualification,Qualification,Qualification Round 3,Qarabag FK,QAR,Molde FK,MFK,5,6,0-0,0-0,AEK Arena,8000,Larnaca,48.218967,11.623746
+9/16/2020 17:00,Qualification,Qualification,Qualification Round 3,Ferencvarosi TC,FTC,GNK Dinamo Zagreb,DIN,2,1,1-Jan,1-Feb,Groupama Arena,22000,Budapest,47.497913,19.040236
+9/16/2020 17:00,Qualification,Qualification,Qualification Round 3,Maccabi Tel Aviv FC,MTA,FC Brest,BRE,1,0,0-0,Jan-00,Bloomfield,29150,Tel Aviv,40.80677,-74.18542
+9/16/2020 18:30,Qualification,Qualification,Qualification Round 3,FC Midtjylland,MJY,BSC Young Boys,YB,3,0,0-0,Mar-00,MCH Arena,11809,Herning,56.116868,8.951669
+9/22/2020 19:00,Qualification,Qualification,Qualification Round 4,FC Krasnodar,KRA,PAOK FC,PAOK,2,1,1-Jan,1-Feb,Krasnodar Stadium,35074,Krasnodar,45.03472,39.17056
+9/22/2020 19:00,Qualification,Qualification,Qualification Round 4,Maccabi Tel Aviv FC,MTA,FC Salzburg,SAL,1,2,Jan-00,2-Jan,Bloomfield,29150,Tel Aviv,40.80677,-74.18542
+9/22/2020 19:00,Qualification,Qualification,Qualification Round 4,SK Slavia Prague,SLA,FC Midtjylland,MJY,0,0,0-0,0-0,Sinobo Stadium,21000,Prague,50.0671664,14.46966479
+9/23/2020 19:00,Qualification,Qualification,Qualification Round 4,KAA Gent,KAA,FC Dynamo Kiev,DYK,1,2,1-Jan,2-Jan,Ghelamco Arena,20000,Gent,51.01611,3.734167
+9/23/2020 19:00,Qualification,Qualification,Qualification Round 4,Molde FK,MFK,Ferencvarosi TC,FTC,3,3,0-1,3-Mar,Aker Stadium,11249,Molde,62.73752,7.15912
+9/23/2020 19:00,Qualification,Qualification,Qualification Round 4,Olympiacos FC,OLY,AC Omonia Nicosia,OMO,2,0,0-0,Feb-00,Georgios Karaiskakis,32115,Piraeus,37.94103124,23.65871903
+9/29/2020 19:00,Qualification,Qualification,Qualification Round 4,AC Omonia Nicosia,OMO,Olympiacos FC,OLY,0,0,0-0,0-0,GSP Stadium,22859,Nicosia,35.10872457,33.3577169
+9/29/2020 19:00,Qualification,Qualification,Qualification Round 4,Ferencvarosi TC,FTC,Molde FK,MFK,0,0,0-0,0-0,Groupama Arena,22000,Budapest,47.497913,19.040236
+9/29/2020 19:00,Qualification,Qualification,Qualification Round 4,FC Dynamo Kiev,DYK,KAA Gent,KAA,3,0,Feb-00,Mar-00,Olimpiysky National Sports Complex,70050,Kiev,50.43339493,30.51993292
+9/30/2020 19:00,Qualification,Qualification,Qualification Round 4,FC Midtjylland,MJY,SK Slavia Prague,SLA,4,1,0-1,1-Apr,MCH Arena,11809,Herning,56.116868,8.951669
+9/30/2020 19:00,Qualification,Qualification,Qualification Round 4,FC Salzburg,SAL,Maccabi Tel Aviv FC,MTA,3,1,1-Feb,1-Mar,Red Bull Arena,30188,Salzburg,40.73685,-74.15036
+9/30/2020 19:00,Qualification,Qualification,Qualification Round 4,PAOK FC,PAOK,FC Krasnodar,KRA,1,2,0-0,2-Jan,Toumba Stadium,28703,Thessaloniki,40.64361,22.93086
+10/20/2020 19:00,Group stage,F,1,SS Lazio Roma,LAZ,Borussia Dortmund,BVB,3,1,Feb-00,1-Mar,Stadio Olimpico,70634,Rome,41.9325,12.455372
+10/20/2020 16:55,Group stage,F,1,FC Zenit St Petersburg,ZEN,Club Brugge,BRU,1,2,0-0,2-Jan,Gazprom Arena,70000,Saint Petersburg,59.972733,30.21921
+10/20/2020 16:55,Group stage,G,1,FC Dynamo Kiev,DYK,Juventus Turin,JUV,0,2,0-0,0-2,Olimpiysky National Sports Complex,70050,Kiev,50.43339493,30.51993292
+10/20/2020 19:00,Group stage,E,1,Chelsea FC,CFC,FC Sevilla,SEV,0,0,0-0,0-0,Stamford Bridge,41798,Chelsea ,51.481667,-0.191111
+10/20/2020 19:00,Group stage,G,1,FC Barcelona,FCB,Ferencvarosi TC,FTC,5,1,Feb-00,1-May,Camp Nou,98787,Barcelona,41.380898,2.12282
+10/20/2020 19:00,Group stage,H,1,RB Leipzig,RBL,Basaksehir FK,BAS,2,0,Feb-00,Feb-00,Red Bull Arena,42558,Leipzig,40.73685,-74.15036
+10/20/2020 19:00,Group stage,E,1,FC Stade Rennes,REN,FC Krasnodar,KRA,1,1,0-0,1-Jan,Roazhon Park,29778,Rennes,48.1147,-1.6794
+10/20/2020 19:00,Group stage,H,1,Paris Saint-Germain,PSG,Manchester United,MNU,1,2,0-1,2-Jan,Parc des Princes,47929,Paris,48.83816331,2.251832326
+10/21/2020 16:55,Group stage,A,1,FC Salzburg,SAL,FC Lokomotiv Moscow,LOK,2,2,1-Jan,2-Feb,Red Bull Arena,30188,Salzburg,40.73685,-74.15036
+10/21/2020 16:55,Group stage,B,1,Real Madrid,RMA,FC Shakhtar Donetsk,SHA,2,3,0-3,3-Feb,Estadio Alfredo di Stefano,8400,Madrid,40.476906,-3.61427
+10/21/2020 19:00,Group stage,A,1,FC Bayern Munich,FCB,Atletico Madrid,ATM,4,0,Feb-00,Apr-00,Allianz Stadium,75000,Munich,48.218967,11.623746
+10/21/2020 19:00,Group stage,B,1,Inter Milano,INT,Borussia Monchengladbach,BMG,2,2,0-0,2-Feb,Giuseppe Meazza,80018,Milan,45.47347977,9.121189515
+10/21/2020 19:00,Group stage,C,1,Manchester City,MNC,FC Porto,FCP,3,1,1-Jan,1-Mar,Etihad Stadium,46708,Manchester,53.483135,-2.200941
+10/21/2020 19:00,Group stage,C,1,Olympiacos FC,OLY,Olympique Marseille,OM,1,0,0-0,Jan-00,Georgios Karaiskakis,32115,Piraeus,37.94103124,23.65871903
+10/21/2020 19:00,Group stage,D,1,Ajax Amsterdam,AJA,Liverpool FC,LFC,0,1,0-1,0-1,Johan Cruijff Arena,54990,Amsterdam,52.314312,4.941541
+10/21/2020 19:00,Group stage,D,1,FC Midtjylland,MJY,Atalanta Bergamasca Calcio,ATA,0,4,0-3,0-4,MCH Arena,11809,Herning,56.116868,8.951669
+10/27/2020 17:55,Group stage,A,2,FC Lokomotiv Moscow,LOK,FC Bayern Munich,FCB,1,2,0-1,2-Jan,RZD Arena,28800,Moscow,55.80216346,37.73799705
+10/27/2020 17:55,Group stage,B,2,FC Shakhtar Donetsk,SHA,Inter Milano,INT,0,0,0-0,0-0,Olimpiysky National Sports Complex,70050,Kiev,50.43339493,30.51993292
+10/27/2020 20:00,Group stage,A,2,Atletico Madrid,ATM,FC Salzburg,SAL,3,2,1-Jan,2-Mar,Wanda Metropolitano,67942,Madrid,40.447527,-3.716147
+10/27/2020 20:00,Group stage,B,2,Borussia Monchengladbach,BMG,Real Madrid,RMA,2,2,Jan-00,2-Feb,Borussia-Park,54057,Monchengladbach,51.17141598,6.384610128
+10/27/2020 20:00,Group stage,C,2,FC Porto,FCP,Olympiacos FC,OLY,2,0,Jan-00,Feb-00,Estadio do Dragao,52033,Porto,41.161758,-8.583933
+10/27/2020 20:00,Group stage,C,2,Olympique Marseille,OM,Manchester City,MNC,0,3,0-1,0-3,Orange Velodrome,67000,Marseille,43.296398,5.37
+10/27/2020 20:00,Group stage,D,2,Atalanta Bergamasca Calcio,ATA,Ajax Amsterdam,AJA,2,2,0-2,2-Feb,Gewiss Stadium,26393,Bergamo,45.695,9.67
+10/27/2020 20:00,Group stage,D,2,Liverpool FC,LFC,FC Midtjylland,MJY,2,0,0-0,Feb-00,Anfield,54074,Liverpool,53.430759,-2.961425
+10/28/2020 17:55,Group stage,E,2,FC Krasnodar,KRA,Chelsea FC,CFC,0,4,0-1,0-4,Krasnodar Stadium,35074,Krasnodar,45.03472,39.17056
+10/28/2020 17:55,Group stage,H,2,Basaksehir FK,BAS,Paris Saint-Germain,PSG,0,2,0-0,0-2,Basaksehir Fatih Terim Stadium,17156,Istanbul,41.015137,28.97953
+10/28/2020 20:00,Group stage,E,2,FC Sevilla,SEV,FC Stade Rennes,REN,1,0,0-0,Jan-00,Ramon Sanchez Pizjuan,45500,Seville,37.384,-5.9705
+10/28/2020 20:00,Group stage,F,2,Borussia Dortmund,BVB,FC Zenit St Petersburg,ZEN,2,0,0-0,Feb-00,Signal Iduna Park,81365,Dortmund,51.492569,7.451842
+10/28/2020 20:00,Group stage,F,2,Club Brugge,BRU,SS Lazio Roma,LAZ,1,1,1-Jan,1-Jan,Jan Breydel Stadium,29975,Bruges,51.18929591,3.175015967
+10/28/2020 20:00,Group stage,G,2,Ferencvarosi TC,FTC,FC Dynamo Kiev,DYK,2,2,0-2,2-Feb,Groupama Arena,22000,Budapest,47.497913,19.040236
+10/28/2020 20:00,Group stage,G,2,Juventus Turin,JUV,FC Barcelona,FCB,0,2,0-1,0-2,Allianz Stadium,75000,Munich,48.21793079,11.62151585
+10/28/2020 20:00,Group stage,H,2,Manchester United,MNU,RB Leipzig,RBL,5,0,Jan-00,May-00,Old Trafford,75635,Manchester,53.463493,-2.292279
+11/3/2020 17:55,Group stage,A,3,FC Lokomotiv Moscow,LOK,Atletico Madrid,ATM,1,1,1-Jan,1-Jan,RZD Arena,28800,Moscow,55.80216346,37.73799705
+11/3/2020 17:55,Group stage,B,3,FC Shakhtar Donetsk,SHA,Borussia Monchengladbach,BMG,0,6,0-4,0-6,Olimpiysky National Sports Complex,70050,Kiev,50.43339493,30.51993292
+11/3/2020 20:00,Group stage,C,3,Manchester City,MNC,Olympiacos FC,OLY,3,0,Jan-00,Mar-00,Etihad Stadium,46708,Manchester,53.483135,-2.200941
+11/3/2020 20:00,Group stage,D,3,FC Midtjylland,MJY,Ajax Amsterdam,AJA,1,2,2-Jan,2-Jan,MCH Arena,11809,Herning,56.116868,8.951669
+11/3/2020 20:00,Group stage,D,3,Atalanta Bergamasca Calcio,ATA,Liverpool FC,LFC,0,5,0-2,0-5,Gewiss Stadium,26393,Bergamo,45.695,9.67
+11/3/2020 20:00,Group stage,A,3,FC Salzburg,SAL,FC Bayern Munich,FCB,2,6,2-Jan,6-Feb,Red Bull Arena,30188,Salzburg,40.73685,-74.15036
+11/3/2020 20:00,Group stage,B,3,Real Madrid,RMA,Inter Milano,INT,3,2,1-Feb,2-Mar,Estadio Alfredo di Stefano,8400,Madrid,40.476906,-3.61427
+11/3/2020 20:00,Group stage,C,3,FC Porto,FCP,Olympique Marseille,OM,3,0,Feb-00,Mar-00,Estadio do Dragao,52033,Porto,41.161758,-8.583933
+11/4/2020 17:55,Group stage,H,3,Basaksehir FK,BAS,Manchester United,MNU,2,1,1-Feb,1-Feb,Basaksehir Fatih Terim Stadium,17156,Istanbul,41.015137,28.97953
+11/4/2020 17:55,Group stage,F,3,FC Zenit St Petersburg,ZEN,SS Lazio Roma,LAZ,1,1,Jan-00,1-Jan,Gazprom Arena,70000,Saint Petersburg,59.972733,30.21921
+11/4/2020 20:00,Group stage,F,3,Club Brugge,BRU,Borussia Dortmund,BVB,0,3,0-3,0-3,Jan Breydel Stadium,29975,Bruges,51.18929591,3.175015967
+11/4/2020 20:00,Group stage,H,3,RB Leipzig,RBL,Paris Saint-Germain,PSG,2,1,1-Jan,1-Feb,Red Bull Arena,42558,Leipzig,40.73685,-74.15036
+11/4/2020 20:00,Group stage,G,3,Ferencvarosi TC,FTC,Juventus Turin,JUV,1,4,0-1,4-Jan,Groupama Arena,22000,Budapest,47.497913,19.040236
+11/4/2020 20:00,Group stage,E,3,Chelsea FC,CFC,FC Stade Rennes,REN,3,0,Feb-00,Mar-00,Stamford Bridge,41798,Chelsea ,51.481667,-0.191111
+11/4/2020 20:00,Group stage,G,3,FC Barcelona,FCB,FC Dynamo Kiev,DYK,2,1,Jan-00,1-Feb,Camp Nou,98787,Barcelona,41.380898,2.12282
+11/4/2020 20:00,Group stage,E,3,FC Sevilla,SEV,FC Krasnodar,KRA,3,2,2-Jan,2-Mar,Ramon Sanchez Pizjuan,45500,Seville,37.384,-5.9705
+11/24/2020 17:55,Group stage,E,4,FC Krasnodar,KRA,FC Sevilla,SEV,1,2,0-1,2-Jan,Krasnodar Stadium,35074,Krasnodar,45.03472,39.17056
+11/24/2020 17:55,Group stage,E,4,FC Stade Rennes,REN,Chelsea FC,CFC,1,2,0-1,2-Jan,Roazhon Park,29778,Rennes,48.117268,-1.677793
+11/24/2020 20:00,Group stage,G,4,Juventus Turin,JUV,Ferencvarosi TC,FTC,2,1,1-Jan,1-Feb,Allianz Stadium,75000,Munich,48.21793079,11.62151585
+11/24/2020 20:00,Group stage,H,4,Manchester United,MNU,Basaksehir FK,BAS,4,1,Mar-00,1-Apr,Old Trafford,75635,Manchester,53.463493,-2.292279
+11/24/2020 20:00,Group stage,H,4,Paris Saint-Germain,PSG,RB Leipzig,RBL,1,0,Jan-00,Jan-00,Parc des Princes,47929,Paris,48.83816331,2.251832326
+11/24/2020 20:00,Group stage,G,4,FC Dynamo Kiev,DYK,FC Barcelona,FCB,0,4,0-0,0-4,Olimpiysky National Sports Complex,70050,Kiev,50.43339493,30.51993292
+11/24/2020 20:00,Group stage,F,4,SS Lazio Roma,LAZ,FC Zenit St Petersburg,ZEN,3,1,1-Feb,1-Mar,Stadio Olimpico,70634,Rome,41.9325,12.455372
+11/24/2020 20:00,Group stage,F,4,Borussia Dortmund,BVB,Club Brugge,BRU,3,0,Feb-00,Mar-00,Signal Iduna Park,81365,Dortmund,51.492569,7.451842
+11/25/2020 17:55,Group stage,C,4,Olympiacos FC,OLY,Manchester City,MNC,0,1,0-1,0-1,Georgios Karaiskakis,32115,Piraeus,37.94103124,23.65871903
+11/25/2020 17:55,Group stage,B,4,Borussia Monchengladbach,BMG,FC Shakhtar Donetsk,SHA,4,0,Mar-00,Apr-00,Borussia-Park,54057,Monchengladbach,51.17141598,6.384610128
+11/25/2020 20:00,Group stage,C,4,Olympique Marseille,OM,FC Porto,FCP,0,2,0-1,0-2,Orange Velodrome,67000,Marseille,43.296398,5.37
+11/25/2020 20:00,Group stage,A,4,FC Bayern Munich,FCB,FC Salzburg,SAL,3,1,Jan-00,1-Mar,Allianz Stadium,75000,Munich,48.21793079,11.62151585
+11/25/2020 20:00,Group stage,A,4,Atletico Madrid,ATM,FC Lokomotiv Moscow,LOK,0,0,0-0,0-0,Wanda Metropolitano,67942,Madrid,40.447527,-3.716147
+11/25/2020 20:00,Group stage,B,4,Inter Milano,INT,Real Madrid,RMA,0,2,0-1,0-2,Giuseppe Meazza,80018,Milan,45.47347977,9.121189515
+11/25/2020 20:00,Group stage,D,4,Ajax Amsterdam,AJA,FC Midtjylland,MJY,3,1,0-0,1-Mar,Johan Cruijff Arena,54990,Amsterdam,52.314312,4.941541
+11/25/2020 20:00,Group stage,D,4,Liverpool FC,LFC,Atalanta Bergamasca Calcio,ATA,0,2,0-0,0-2,Anfield,54074,Liverpool,53.430759,-2.961425
+12/1/2020 17:55,Group stage,A,5,FC Lokomotiv Moscow,LOK,FC Salzburg,SAL,1,3,0-2,3-Jan,RZD Arena,28800,Moscow,55.80216346,37.73799705
+12/1/2020 17:55,Group stage,B,5,FC Shakhtar Donetsk,SHA,Real Madrid,RMA,2,0,0-0,Feb-00,Olimpiysky National Sports Complex,70050,Kiev,50.43339493,30.51993292
+12/1/2020 20:00,Group stage,A,5,Atletico Madrid,ATM,FC Bayern Munich,FCB,1,1,Jan-00,1-Jan,Wanda Metropolitano,67942,Madrid,40.447527,-3.716147
+12/1/2020 20:00,Group stage,D,5,Atalanta Bergamasca Calcio,ATA,FC Midtjylland,MJY,1,1,0-1,1-Jan,Gewiss Stadium,26393,Bergamo,45.695,9.67
+12/1/2020 20:00,Group stage,B,5,Borussia Monchengladbach,BMG,Inter Milano,INT,2,3,1-Jan,3-Feb,Borussia-Park,54057,Monchengladbach,51.17141598,6.384610128
+12/1/2020 20:00,Group stage,C,5,Olympique Marseille,OM,Olympiacos FC,OLY,2,1,0-1,1-Feb,Orange Velodrome,67000,Marseille,43.296398,5.37
+12/1/2020 20:00,Group stage,C,5,FC Porto,FCP,Manchester City,MNC,0,0,0-0,0-0,Estadio do Dragao,52033,Porto,41.161758,-8.583933
+12/1/2020 20:00,Group stage,D,5,Liverpool FC,LFC,Ajax Amsterdam,AJA,1,0,0-0,Jan-00,Anfield,54074,Liverpool,53.430759,-2.961425
+12/2/2020 17:55,Group stage,E,5,FC Krasnodar,KRA,FC Stade Rennes,REN,1,0,0-0,Jan-00,Krasnodar Stadium,35074,Krasnodar,45.03472,39.17056
+12/2/2020 20:00,Group stage,E,5,FC Sevilla,SEV,Chelsea FC,CFC,0,4,0-1,0-4,Ramon Sanchez Pizjuan,45500,Seville,37.384,-5.9705
+12/2/2020 20:00,Group stage,F,5,Borussia Dortmund,BVB,SS Lazio Roma,LAZ,1,1,Jan-00,1-Jan,Signal Iduna Park,81365,Dortmund,51.492569,7.451842
+12/2/2020 20:00,Group stage,G,5,Juventus Turin,JUV,FC Dynamo Kiev,DYK,3,0,Jan-00,Mar-00,Allianz Stadium,75000,Munich,48.21793079,11.62151585
+12/2/2020 20:00,Group stage,F,5,Club Brugge,BRU,FC Zenit St Petersburg,ZEN,3,0,Jan-00,Mar-00,Jan Breydel Stadium,29975,Bruges,51.18929591,3.175015967
+12/2/2020 20:00,Group stage,H,5,Manchester United,MNU,Paris Saint-Germain,PSG,1,3,1-Jan,3-Jan,Old Trafford,75635,Manchester,53.463493,-2.292279
+12/2/2020 17:55,Group stage,H,5,Basaksehir FK,BAS,RB Leipzig,RBL,3,4,2-Jan,4-Mar,Basaksehir Fatih Terim Stadium,17156,Istanbul,41.015137,28.97953
+12/2/2020 20:00,Group stage,G,5,Ferencvarosi TC,FTC,FC Barcelona,FCB,0,3,0-3,0-3,Groupama Arena,22000,Budapest,47.497913,19.040236
+12/8/2020 17:55,Group stage,F,6,FC Zenit St Petersburg,ZEN,Borussia Dortmund,BVB,1,2,Jan-00,2-Jan,Gazprom Arena,70000,Saint Petersburg,59.972733,30.21921
+12/8/2020 17:55,Group stage,F,6,SS Lazio Roma,LAZ,Club Brugge,BRU,2,2,1-Feb,2-Feb,Stadio Olimpico,70634,Rome,41.9325,12.455372
+12/8/2020 20:00,Group stage,H,6,RB Leipzig,RBL,Manchester United,MNU,3,2,Feb-00,2-Mar,Red Bull Arena,42558,Leipzig,40.73685,-74.15036
+12/8/2020 20:00,Group stage,G,6,FC Barcelona,FCB,Juventus Turin,JUV,0,3,0-2,0-3,Camp Nou,98787,Barcelona,41.380898,2.12282
+12/8/2020 20:00,Group stage,H,6,Paris Saint-Germain,PSG,Basaksehir FK,BAS,5,1,Mar-00,1-May,Parc des Princes,47929,Paris,48.83816331,2.251832326
+12/8/2020 20:00,Group stage,E,6,Chelsea FC,CFC,FC Krasnodar,KRA,1,1,1-Jan,1-Jan,Stamford Bridge,41798,Chelsea ,51.481667,-0.191111
+12/8/2020 20:00,Group stage,G,6,FC Dynamo Kiev,DYK,Ferencvarosi TC,FTC,1,0,0-0,Jan-00,Olimpiysky National Sports Complex,70050,Kiev,50.43339493,30.51993292
+12/8/2020 20:00,Group stage,E,6,FC Stade Rennes,REN,FC Sevilla,SEV,1,3,0-2,3-Jan,Roazhon Park,29778,Rennes,48.117268,-1.677793
+12/9/2020 17:55,Group stage,D,6,FC Midtjylland,MJY,Liverpool FC,LFC,1,1,0-1,1-Jan,MCH Arena,11809,Herning,56.116868,8.951669
+12/9/2020 17:55,Group stage,D,6,Ajax Amsterdam,AJA,Atalanta Bergamasca Calcio,ATA,0,1,0-0,0-1,Johan Cruijff Arena,54990,Amsterdam,52.314312,4.941541
+12/9/2020 20:00,Group stage,C,6,Manchester City,MNC,Olympique Marseille,OM,3,0,0-0,Mar-00,Etihad Stadium,46708,Manchester,53.483135,-2.200941
+12/9/2020 20:00,Group stage,C,6,Olympiacos FC,OLY,FC Porto,FCP,0,2,0-1,0-2,Georgios Karaiskakis,32115,Piraeus,37.94103124,23.65871903
+12/9/2020 20:00,Group stage,B,6,Inter Milano,INT,FC Shakhtar Donetsk,SHA,0,0,0-0,0-0,Giuseppe Meazza,80018,Milan,45.47347977,9.121189515
+12/9/2020 20:00,Group stage,A,6,FC Salzburg,SAL,Atletico Madrid,ATM,0,2,0-1,0-2,Red Bull Arena,30188,Salzburg,40.73685,-74.15036
+12/9/2020 20:00,Group stage,B,6,Real Madrid,RMA,Borussia Monchengladbach,BMG,2,0,Feb-00,Feb-00,Estadio Alfredo di Stefano,8400,Madrid,40.476906,-3.61427
+12/9/2020 20:00,Group stage,A,6,FC Bayern Munich,FCB,FC Lokomotiv Moscow,LOK,2,0,0-0,Feb-00,Allianz Stadium,75000,Munich,48.21793079,11.62151585
+11/3/2020 20:00,Group stage,C,3,FC Porto,FCP,Olympiacos FC,OLY,0,0,,,Estadio do Dragao,52033,Porto,41.161758,-8.583933
+2/16/2021 20:00,Playoffs,Knockout stage,1/8 - finals,FC Barcelona,FCB,Paris Saint-Germain,PSG,1,4,1-Jan,4-Jan,Camp Nou,98787,Barcelona,41.380898,2.12282
+2/16/2021 20:00,Playoffs,Knockout stage,1/8 - finals,RB Leipzig,RBL,Liverpool FC,LFC,0,2,0-0,0-2,Puskas Arena,67,Budapest,47.57489,19.08465
+2/17/2021 20:00,Playoffs,Knockout stage,1/8 - finals,FC Sevilla,SEV,Borussia Dortmund,BVB,2,3,3-Jan,3-Feb,Ramon Sanchez Pizjuan,45500,Seville,37.384,-5.9705
+2/17/2021 20:00,Playoffs,Knockout stage,1/8 - finals,FC Porto,FCP,Juventus Turin,JUV,2,1,Jan-00,1-Feb,Estadio do Dragao,52033,Porto,41.161758,-8.583933
+2/23/2021 20:00,Playoffs,Knockout stage,1/8 - finals,Atletico Madrid,ATM,Chelsea FC,CFC,0,1,0-0,0-1,National Arena,55600,Bucharest,44.437149,26.151758
+2/23/2021 20:00,Playoffs,Knockout stage,1/8 - finals,SS Lazio Roma,LAZ,FC Bayern Munich,FCB,1,4,0-3,4-Jan,Stadio Olimpico,70634,Rome,41.9325,12.455372
+2/24/2021 20:00,Playoffs,Knockout stage,1/8 - finals,Borussia Monchengladbach,BMG,Manchester City,MNC,0,2,0-1,0-2,Puskas Arena,67,Budapest,47.57489,19.08465
+2/24/2021 20:00,Playoffs,Knockout stage,1/8 - finals,Atalanta Bergamasca Calcio,ATA,Real Madrid,RMA,0,1,0-0,0-1,Gewiss Stadium,26393,Bergamo,45.695,9.67
+3/9/2021 20:00,Playoffs,,1/8 - finals,Juventus Turin,JUV,FC Porto,FCP,3,2,0-1,1-Feb,Allianz Stadium,75000,Munich,48.21793079,11.62151585
+3/9/2021 20:00,Playoffs,,1/8 - finals,Borussia Dortmund,BVB,FC Sevilla,SEV,2,2,Jan-00,2-Feb,Signal Iduna Park,81365,Dortmund,51.492569,7.451842
+3/10/2021 20:00,Playoffs,,1/8 - finals,Liverpool FC,LFC,RB Leipzig,RBL,2,0,0-0,Feb-00,Puskas Arena,67,Budapest,47.57489,19.08465
+3/10/2021 20:00,Playoffs,,1/8 - finals,Paris Saint-Germain,PSG,FC Barcelona,FCB,1,1,1-Jan,1-Jan,Parc des Princes,47929,Paris,48.83816331,2.251832326
+3/16/2021 20:00,Playoffs,,1/8 - finals,Real Madrid,RMA,Atalanta Bergamasca Calcio,ATA,3,1,Jan-00,1-Mar,Estadio Alfredo di Stefano,8400,Madrid,40.476906,-3.61427
+3/16/2021 20:00,Playoffs,,1/8 - finals,Manchester City,MNC,Borussia Monchengladbach,BMG,2,0,Feb-00,Feb-00,Etihad Stadium,46708,Manchester,53.483135,-2.200941
+3/17/2021 20:00,Playoffs,,1/8 - finals,FC Bayern Munich,FCB,SS Lazio Roma,LAZ,2,1,Jan-00,1-Feb,Allianz Stadium,75000,Munich,48.21793079,11.62151585
+3/17/2021 20:00,Playoffs,,1/8 - finals,Chelsea FC,CFC,Atletico Madrid,ATM,2,0,Jan-00,Feb-00,Stamford Bridge,41798,Chelsea ,51.481667,-0.191111
+4/6/2021 19:00,Playoffs,,Quarter-finals,Real Madrid,RMA,Liverpool FC,LFC,3,1,Feb-00,1-Mar,Estadio Alfredo di Stefano,8400,Madrid,40.476906,-3.61427
+4/6/2021 19:00,Playoffs,,Quarter-finals,Manchester City,MNC,Borussia Dortmund,BVB,2,1,Jan-00,1-Feb,Etihad Stadium,46708,Manchester,53.483135,-2.200941
+4/7/2021 19:00,Playoffs,Knockout stage,Quarter-finals,FC Bayern Munich,FCB,Paris Saint-Germain,PSG,2,3,2-Jan,3-Feb,Allianz Stadium,75000,Munich,48.21793079,11.62151585
+4/7/2021 19:00,Playoffs,Knockout stage,Quarter-finals,FC Porto,FCP,Chelsea FC,CFC,0,2,0-1,0-2,Ramon Sanchez Pizjuan,45500,Seville,37.384,-5.9705
+4/13/2021 19:00,Playoffs,Knockout stage,Quarter-finals,Paris Saint-Germain,PSG,FC Bayern Munich,FCB,0,1,0-1,0-1,Parc des Princes,47929,Paris,48.83816331,2.251832326
+4/13/2021 19:00,Playoffs,Knockout stage,Quarter-finals,Chelsea FC,CFC,FC Porto,FCP,0,1,0-0,0-1,Ramon Sanchez Pizjuan,45500,Seville,37.384,-5.9705
+4/14/2021 19:00,Playoffs,Knockout stage,Quarter-finals,Borussia Dortmund,BVB,Manchester City,MNC,1,2,Jan-00,2-Jan,Signal Iduna Park,81365,Dortmund,51.492569,7.451842
+4/14/2021 19:00,Playoffs,Knockout stage,Quarter-finals,Liverpool FC,LFC,Real Madrid,RMA,0,0,0-0,0-0,Anfield,54074,Liverpool,53.430759,-2.961425
+4/27/2021 19:00,Playoffs,Knockout stage,Semi-finals,Real Madrid,RMA,Chelsea FC,CFC,1,1,1-Jan,1-Jan,Estadio Alfredo di Stefano,8400,Madrid,40.476906,-3.61427
+4/28/2021 19:00,Playoffs,Knockout stage,Semi-finals,Paris Saint-Germain,PSG,Manchester City,MNC,1,2,Jan-00,2-Jan,Parc des Princes,47929,Paris,48.83816331,2.251832326
+5/5/2021 19:00,Playoffs,Knockout stage,Semi-finals,Chelsea FC,CFC,Real Madrid,RMA,2,0,Jan-00,Feb-00,Stamford Bridge,41798,Chelsea ,51.481667,-0.191111
+5/4/2021 19:00,Playoffs,Knockout stage,Semi-finals,Manchester City,MNC,Paris Saint-Germain,PSG,2,0,Jan-00,Feb-00,Etihad Stadium,46708,Manchester,53.483135,-2.200941
+5/29/2021 19:00,Playoffs,Knockout stage,Final,Manchester City,MNC,Chelsea FC,CFC,0,1,0-1,0-1,Estadio do Dragao,52033,Porto,41.161758,-8.583933
+6/25/2019 13:00,Qualification,Preliminary Round,2,Tre Penne,TRP,FC Santa Coloma,FCC,0,1,0-0,0-1,Fadil Vokrri Stadium,13500,Pristina,42.66263669,21.1571219
+6/25/2019 18:45,Qualification,Preliminary Round,2,KF Feronikeli,FER,Lincoln Red Imps FC,LIN,1,0,Jan-00,Jan-00,Fadil Vokrri Stadium,13500,Pristina,42.66263669,21.1571219
+6/28/2019 18:45,Qualification,Preliminary Round,1,KF Feronikeli,FER,FC Santa Coloma,FCC,2,1,0-0,1-Feb,Fadil Vokrri Stadium,13500,Pristina,42.66263669,21.1571219
+7/9/2019 13:00,Qualification,Qualification,14,FC Astana,FCA,FC CFR 1907 Cluj,CFR,1,0,0-0,Jan-00,Astana Arena,30000,Nur-Sultan,51.10483291,71.4009984
+7/9/2019 14:00,Qualification,Qualification,14,FC Ararat Armenia,ARA,AIK,AIK,2,1,1-Feb,1-Feb,Vazgen Sargsyan Republican Stadium,14403,Yerevan,40.171944,44.525833
+7/9/2019 16:00,Qualification,Qualification,14,HJK Helsinki,HJK,HB Torshavn,HB,3,0,Feb-00,Mar-00,Helsinki Football Stadium,10770,Helsinki,60.18583259,24.92016299
+7/9/2019 16:00,Qualification,Qualification,14,Nomme Kalju FC,KAL,FK Shkendija,SHK,0,1,0-0,0-1,Hiiu kunstmurustaadion,1000,Tallinn,58.93782958,22.92649629
+7/9/2019 17:45,Qualification,Qualification,14,FK Sarajevo,FKS,Celtic Glasgow,CEL,1,3,1-Jan,3-Jan,Asim Ferhatovic Hase,34630,Sarajevo,43.87099652,18.40516505
+7/9/2019 18:00,Qualification,Qualification,14,FK Suduva Marijampole,SUD,FK Red Star Belgrade,CRZ,0,0,0-0,0-0,Arvi arena,6500,Marijampole,54.57139271,23.35923356
+7/9/2019 18:00,Qualification,Qualification,14,F91 Dudelange,F91,Valletta FC,VAL,2,2,Feb-00,2-Feb,Stade Jos Nosbaum,2558,Dudelange,49.46999812,6.08416633
+7/9/2019 18:00,Qualification,Qualification,14,The New Saints FC,TNS,KF Feronikeli,FER,2,2,0-0,2-Feb,Park Hall,2048,Oswestry,38.21849913,-76.43816491
+7/10/2019 15:30,Qualification,Qualification,14,FK Partizani Tirana,PTI,Qarabag FK,QAR,0,0,0-0,0-0,Stadium Selman Stermasi,9500,Tirana,41.319,19.811
+7/10/2019 17:00,Qualification,Qualification,14,FC BATE Borisov,BAT,GKS Piast Gliwice,PGL,1,1,0-1,1-Jan,Borisov Arena,13126,Borisov,54.2144309,28.508436
+7/10/2019 17:00,Qualification,Qualification,14,FC Sheriff Tiraspol,SHF,FC Saburtalo Tbilisi,SAT,0,3,0-1,0-3,Sheriff Stadium,14000,Tiraspol,46.83649665,29.55433112
+7/10/2019 18:00,Qualification,Qualification,14,Ferencvarosi TC,FTC,Ludogorets 1945 Razgrad,LUD,2,1,1-Jan,1-Feb,Groupama Arena,22000,Budapest,47.497913,19.040236
+7/10/2019 18:15,Qualification,Qualification,14,SK Slovan Bratislava,SLB,FK Sutjeska,SUT,1,1,0-0,1-Jan,Tehelne Pole Stadion,22500,Bratislava,48.1464,17.106878
+7/10/2019 18:45,Qualification,Qualification,14,Dundalk FC,DUN,"Riga FC	",RFC,0,0,0-0,0-0,Oriel Park,4500,Dundalk,54,-6.41667
+7/10/2019 18:45,Qualification,Qualification,14,Linfield FC,LIN,Rosenborg BK,RBK,0,2,0-1,0-2,Windsor Park,24734,Belfast,54.57623936,-5.953109521
+7/10/2019 20:00,Qualification,Qualification,14,Valur Reykjavik,VAL,"NK Maribor	",MAR,0,3,0-1,0-3,HlÃƒÂ­darendi Reykjavik,2000,Reykjavik,64.128288,-21.827774
+7/16/2019 15:00,Qualification,Qualification,14,FK Shkendija,SHK,Nomme Kalju FC,KAL,1,2,0-1,2-Jan,Ecolog Arena,15000,Tetovo,48.218967,11.623746
+7/16/2019 17:30,Qualification,Qualification,14,FC Saburtalo Tbilisi,SAT,FC Sheriff Tiraspol,SHF,1,3,0-3,3-Jan,Mikheil Meskhi Stadium,27223,Tbilisi,41.709618,44.746246
+7/16/2019 18:00,Qualification,Qualification,14,Valletta FC,VAL,F91 Dudelange,F91,1,1,Jan-00,1-Jan,MFA Centenary Stadium,2000,Ta' Qali,35.89024811,14.4092217
+7/16/2019 18:00,Qualification,Qualification,14,HB Torshavn,HB,HJK Helsinki,HJK,2,2,Jan-00,2-Feb,Gundadalur,5000,Tórshavn,62.011863,6.780604
+7/16/2019 18:45,Qualification,Qualification,14,FK Red Star Belgrade,CRZ,FK Suduva Marijampole,SUD,2,1,Feb-00,1-Feb,Stadium Rajko Mitic,55538,Belgrade,44.77658356,20.4589465
+7/16/2019 18:45,Qualification,Qualification,14,KF Feronikeli,FER,The New Saints FC,TNS,0,1,0-0,0-1,Fadil Vokrri Stadium,13500,Pristina,42.66263669,21.1571219
+7/17/2019 16:30,Qualification,Qualification,14,"Riga FC	",RFC,Dundalk FC,DUN,4,5,0-0,0-0,RTU Stadium,3000,Dzirciems,56.954269,24.067476
+7/17/2019 17:00,Qualification,Qualification,14,Qarabag FK,QAR,FK Partizani Tirana,PTI,2,0,0-0,Feb-00,Baku Olympic Stadium,69870,Baku,40.429913,49.919163
+7/17/2019 17:00,Qualification,Qualification,14,Rosenborg BK,RBK,Linfield FC,LIN,4,0,Jan-00,Apr-00,Lerkendal Stadion,21421,Lerkendal ,51.140301,4.61664
+7/17/2019 17:00,Qualification,Qualification,14,AIK,AIK,FC Ararat Armenia,ARA,3,1,0-0,1-Mar,Friends Arena,54000,Stockholm,59.33258,18.0649
+7/17/2019 17:30,Qualification,Qualification,14,Ludogorets 1945 Razgrad,LUD,Ferencvarosi TC,FTC,2,3,2-Jan,3-Feb,Ludogorets Arena,10422,Razgrad,43.814912,27.137877
+7/17/2019 18:00,Qualification,Qualification,14,GKS Piast Gliwice,PGL,FC BATE Borisov,BAT,1,2,Jan-00,2-Jan,Stadion Miejski w Gliwicach,10037,Gliwice,50.29761,18.67658
+7/17/2019 18:00,Qualification,Qualification,14,FC CFR 1907 Cluj,CFR,FC Astana,FCA,3,1,1-Feb,1-Mar,Dr. Constantin Radulescu,23500,Cluj Napoca,46.76667,23.6
+7/17/2019 18:15,Qualification,Qualification,14,"NK Maribor	",MAR,Valur Reykjavik,VAL,2,0,Feb-00,Feb-00,Ljudski VRT,12702,Maribor,46.42005,15.87018
+7/17/2019 18:15,Qualification,Qualification,14,FK Sutjeska,SUT,SK Slovan Bratislava,SLB,4,3,0-0,1-Jan,Stadion Gradski,5214,Berane,42.65913,20.28828
+7/17/2019 18:45,Qualification,Qualification,14,Celtic Glasgow,CEL,FK Sarajevo,FKS,2,1,Jan-00,1-Feb,Celtic Park,60411,Glasgow,55.84515,-4.195349
+7/23/2019 17:00,Qualification,Qualification,15,FC Viktoria Plzen,VIK,Olympiacos FC,OLY,0,0,0-0,0-0,Stadion Mesta Plzne,11700,Pilsen,49.75,13.385556
+7/23/2019 17:30,Qualification,Qualification,15,FC Saburtalo Tbilisi,SAT,GNK Dinamo Zagreb,DIN,0,2,0-0,0-2,Mikheil Meskhi Stadium,27223,Tbilisi,41.709618,44.746246
+7/23/2019 18:00,Qualification,Qualification,15,The New Saints FC,TNS,FC Copenhagen,FCC,0,2,0-1,0-2,Park Hall,2048,Oswestry,38.21849913,-76.43816491
+7/23/2019 18:00,Qualification,Qualification,15,PSV Eindhoven,PSV,FC Basel 1893,FCB,3,2,1-Jan,2-Mar,Philips Stadion,35000,Eindhoven,51.43839991,5.467129798
+7/23/2019 18:15,Qualification,Qualification,15,FK Sutjeska,SUT,Apoel Nicosia FC,APO,0,1,0-1,0-1,Stadion Gradski,5214,Berane,42.65913,20.28828
+7/24/2019 17:00,Qualification,Qualification,15,FC BATE Borisov,BAT,Rosenborg BK,RBK,2,1,1-Jan,1-Feb,Borisov Arena,13126,Borisov,54.2144309,28.508436
+7/24/2019 18:00,Qualification,Qualification,15,Ferencvarosi TC,FTC,Valletta FC,VAL,3,1,Feb-00,1-Mar,Groupama Arena,22000,Budapest,47.497913,19.040236
+7/24/2019 18:00,Qualification,Qualification,15,FC CFR 1907 Cluj,CFR,Maccabi Tel Aviv FC,MTA,1,0,Jan-00,Jan-00,Dr. Constantin Radulescu,23500,Cluj Napoca,46.76667,23.6
+7/24/2019 18:15,Qualification,Qualification,15,"NK Maribor	",MAR,AIK,AIK,2,1,1-Feb,1-Feb,Ljudski VRT,12702,Maribor,46.42005,15.87018
+7/24/2019 18:45,Qualification,Qualification,15,Dundalk FC,DUN,Qarabag FK,QAR,1,1,0-1,1-Jan,Oriel Park,4500,Dundalk,54,-6.41667
+7/24/2019 18:45,Qualification,Qualification,15,FK Red Star Belgrade,CRZ,HJK Helsinki,HJK,2,0,Jan-00,Feb-00,Stadium Rajko Mitic,55538,Belgrade,44.77658356,20.4589465
+7/24/2019 18:45,Qualification,Qualification,15,Celtic Glasgow,CEL,Nomme Kalju FC,KAL,5,0,Mar-00,May-00,Celtic Park,60411,Glasgow,55.84515,-4.195349
+7/30/2019 17:00,Qualification,Qualification,15,Maccabi Tel Aviv FC,MTA,FC CFR 1907 Cluj,CFR,2,2,2-Jan,2-Feb,Netanya Stadium,13800,Netanya,32.28993217,34.85874157
+7/30/2019 17:00,Qualification,Qualification,15,Apoel Nicosia FC,APO,FK Sutjeska,SUT,3,0,Feb-00,Mar-00,GSP Stadium,22859,Strovolos,35.1338417,33.3598366
+7/30/2019 17:00,Qualification,Qualification,15,Nomme Kalju FC,KAL,Celtic Glasgow,CEL,0,2,0-1,0-2,A. Le Coq Arena,15000,Tallinn,59.41943999,24.72589376
+7/30/2019 18:00,Qualification,Qualification,15,Valletta FC,VAL,Ferencvarosi TC,FTC,1,1,Jan-00,1-Jan,MFA Centenary Stadium,2000,Ta' Qali,35.89024811,14.4092217
+7/30/2019 18:00,Qualification,Qualification,15,GNK Dinamo Zagreb,DIN,FC Saburtalo Tbilisi,SAT,3,0,0-0,Mar-00,Maksimir,35423,Zagreb,45.81444,15.97798
+7/30/2019 18:00,Qualification,Qualification,15,FC Basel 1893,FCB,PSV Eindhoven,PSV,2,1,1-Jan,1-Feb,St. Jakob-Park,37994,Basel,47.55839,7.57327
+7/30/2019 18:30,Qualification,Qualification,15,Olympiacos FC,OLY,FC Viktoria Plzen,VIK,4,0,0-0,Apr-00,Georgios Karaiskakis,32115,Piraeus,37.94103124,23.65871903
+7/31/2019 16:00,Qualification,Qualification,15,HJK Helsinki,HJK,FK Red Star Belgrade,CRZ,2,1,0-0,1-Feb,Helsinki Football Stadium,10770,Helsinki,60.18583259,24.92016299
+7/31/2019 17:00,Qualification,Qualification,15,AIK,AIK,"NK Maribor	",MAR,3,2,Jan-00,1-Feb,Friends Arena,54329,Stockholm,59.33258,18.0649
+7/31/2019 17:00,Qualification,Qualification,15,Qarabag FK,QAR,Dundalk FC,DUN,3,0,Jan-00,Mar-00,Baku Olympic Stadium,69870,Baku,40.429913,49.919163
+7/31/2019 17:00,Qualification,Qualification,15,Rosenborg BK,RBK,FC BATE Borisov,BAT,2,0,0-0,Feb-00,Lerkendal Stadion,21421,Lerkendal ,51.140301,4.61664
+7/31/2019 17:45,Qualification,Qualification,15,FC Copenhagen,FCC,The New Saints FC,TNS,1,0,0-0,Jan-00,Parken,38065,Copenhagen,55.702724,12.571566
+8/6/2019 17:00,Qualification,Qualification,16,Apoel Nicosia FC,APO,Qarabag FK,QAR,1,2,0-0,2-Jan,GSP Stadium,22859,Strovolos,35.1338417,33.3598366
+8/6/2019 17:00,Qualification,Qualification,16,PAOK FC,PAOK,Ajax Amsterdam,AJA,2,2,1-Feb,2-Feb,Toumba Stadium,28703,Thessaloniki,40.64361,22.93086
+8/6/2019 18:00,Qualification,Qualification,16,GNK Dinamo Zagreb,DIN,Ferencvarosi TC,FTC,1,1,Jan-00,1-Jan,Maksimir,35423,Zagreb,45.81444,15.97798
+8/6/2019 18:30,Qualification,Qualification,16,Club Brugge,BRU,FC Dynamo Kiev,DYK,1,0,Jan-00,Jan-00,Jan Breydel Stadium,29975,Bruges,51.18929591,3.175015967
+8/6/2019 18:45,Qualification,Qualification,16,FK Red Star Belgrade,CRZ,FC Copenhagen,FCC,1,1,Jan-00,1-Jan,Stadium Rajko Mitic,55538,Belgrade,44.77658356,20.4589465
+8/7/2019 17:00,Qualification,Qualification,16,FC Krasnodar,KRA,FC Porto,FCP,0,1,0-0,0-1,Krasnodar Stadium,35074,Krasnodar,45.03472,39.17056
+8/7/2019 17:45,Qualification,Qualification,16,Basaksehir FK,BAS,Olympiacos FC,OLY,0,1,0-0,0-1,Basaksehir Fatih Terim Stadium,17156,Istanbul,41.015137,28.97953
+8/7/2019 18:00,Qualification,Qualification,16,FC CFR 1907 Cluj,CFR,Celtic Glasgow,CEL,1,1,1-Jan,1-Jan,Dr. Constantin Radulescu,,Cluj Napoca,46.76667,23.6
+8/7/2019 18:00,Qualification,Qualification,16,FC Basel 1893,FCB,LASK,ASK,1,2,0-0,2-Jan,St. Jakob-Park,37994,Basel,47.55839,7.57327
+8/7/2019 18:15,Qualification,Qualification,16,"NK Maribor	",MAR,Rosenborg BK,RBK,1,3,0-0,3-Jan,Ljudski VRT,12702,Maribor,46.42005,15.87018
+8/13/2019 16:30,Qualification,Qualification,16,Qarabag FK,QAR,Apoel Nicosia FC,APO,0,2,0-1,0-2,Baku Olympic Stadium,69870,Baku,40.429913,49.919163
+8/13/2019 17:00,Qualification,Qualification,16,Rosenborg BK,RBK,"NK Maribor	",MAR,3,1,0-1,1-Mar,Lerkendal Stadion,21421,Lerkendal ,51.140301,4.61664
+8/13/2019 17:30,Qualification,Qualification,16,FC Dynamo Kiev,DYK,Club Brugge,BRU,3,3,1-Jan,3-Mar,Olimpiysky National Sports Complex,70050,Kiev,50.43339493,30.51993292
+8/13/2019 18:00,Qualification,Qualification,16,FC Copenhagen,FCC,FK Red Star Belgrade,CRZ,7,8,1-Jan,1-Jan,Parken,38065,Copenhagen,55.702724,12.571566
+8/13/2019 18:00,Qualification,Qualification,16,Ferencvarosi TC,FTC,GNK Dinamo Zagreb,DIN,0,4,0-1,0-4,Groupama Arena,22000,Budapest,47.497913,19.040236
+8/13/2019 18:30,Qualification,Qualification,16,Olympiacos FC,OLY,Basaksehir FK,BAS,2,0,0-0,Feb-00,Georgios Karaiskakis,32115,Piraeus,37.94103124,23.65871903
+8/13/2019 18:30,Qualification,Qualification,16,LASK,ASK,FC Basel 1893,FCB,3,1,0-0,1-Mar,Raiffeisen Arena,6009,Pasching,48.2591244,14.2045561
+8/13/2019 18:30,Qualification,Qualification,16,Ajax Amsterdam,AJA,PAOK FC,PAOK,3,2,1-Jan,2-Mar,Johan Cruijff Arena,54990,Amsterdam,52.314312,4.941541
+8/13/2019 18:45,Qualification,Qualification,16,Celtic Glasgow,CEL,FC CFR 1907 Cluj,CFR,3,4,0-1,4-Mar,Celtic Park,,Glasgow,55.84515,-4.195349
+8/13/2019 19:00,Qualification,Qualification,16,FC Porto,FCP,FC Krasnodar,KRA,2,3,0-3,3-Feb,Estadio do Dragao,52033,Porto,41.161758,-8.583933
+8/20/2019 19:00,Qualification,Qualification,17,LASK,ASK,Club Brugge,BRU,0,1,0-1,0-1,Raiffeisen Arena,6009,Pasching,48.2591244,14.2045561
+8/20/2019 19:00,Qualification,Qualification,17,FC CFR 1907 Cluj,CFR,SK Slavia Prague,SLA,0,1,0-1,0-1,Dr. Constantin Radulescu,,Cluj Napoca,46.76667,23.6
+8/20/2019 19:00,Qualification,Qualification,17,Apoel Nicosia FC,APO,Ajax Amsterdam,AJA,0,0,0-0,0-0,GSP Stadium,22859,Strovolos,35.1338417,33.3598366
+8/21/2019 19:00,Qualification,Qualification,17,GNK Dinamo Zagreb,DIN,Rosenborg BK,RBK,2,0,Feb-00,Feb-00,Maksimir,35423,Zagreb,45.81444,15.97798
+8/21/2019 19:00,Qualification,Qualification,17,BSC Young Boys,YB,FK Red Star Belgrade,CRZ,2,2,1-Jan,2-Feb,Stade de Suisse,31789,Bern,46.95789617,7.458898164
+8/21/2019 19:00,Qualification,Qualification,17,Olympiacos FC,OLY,FC Krasnodar,KRA,4,0,Jan-00,Apr-00,Georgios Karaiskakis,32115,Piraeus,37.94103124,23.65871903
+8/27/2019 19:00,Qualification,Qualification,17,FK Red Star Belgrade,CRZ,BSC Young Boys,YB,1,1,0-0,1-Jan,Stadium Rajko Mitic,55538,Belgrade,44.77658356,20.4589465
+8/27/2019 19:00,Qualification,Qualification,17,FC Krasnodar,KRA,Olympiacos FC,OLY,1,2,1-Jan,2-Jan,Krasnodar Stadium,35074,Krasnodar,45.03472,39.17056
+8/27/2019 19:00,Qualification,Qualification,17,Rosenborg BK,RBK,GNK Dinamo Zagreb,DIN,1,1,Jan-00,1-Jan,Lerkendal Stadion,21421,Lerkendal ,51.140301,4.61664
+8/28/2019 19:00,Qualification,Qualification,17,Ajax Amsterdam,AJA,Apoel Nicosia FC,APO,2,0,Jan-00,Feb-00,Johan Cruijff Arena,54990,Amsterdam,52.314312,4.941541
+8/28/2019 19:00,Qualification,Qualification,17,SK Slavia Prague,SLA,FC CFR 1907 Cluj,CFR,1,0,0-0,Jan-00,Sinobo Stadium,21000,Prague,50.0671664,14.46966479
+8/28/2019 19:00,Qualification,Qualification,17,Club Brugge,BRU,LASK,ASK,2,1,0-0,1-Feb,Jan Breydel Stadium,29975,Bruges,51.18929591,3.175015967
+9/17/2019 16:55,Group stage,F,1,Inter Milano,INT,SK Slavia Prague,SLA,1,1,0-0,1-Jan,Giuseppe Meazza,80018,Milan,45.47347977,9.121189515
+9/17/2019 16:55,Group stage,G,1,Olympique Lyonnais,OL,FC Zenit St Petersburg,ZEN,1,1,0-1,1-Jan,Groupama Stadium,59186,Budapest,47.497913,19.040236
+9/17/2019 19:00,Group stage,H,1,Ajax Amsterdam,AJA,LOSC Lille,LIL,3,0,Jan-00,Mar-00,Johan Cruijff Arena,54990,Amsterdam,52.314312,4.941541
+9/17/2019 19:00,Group stage,F,1,Borussia Dortmund,BVB,FC Barcelona,FCB,0,0,0-0,0-0,Signal Iduna Park,81365,Dortmund,51.492569,7.451842
+9/17/2019 19:00,Group stage,G,1,Sl Benfica,BEN,RB Leipzig,RBL,1,2,0-0,2-Jan,Estadio do Sport Lisboa e Benfica,64642,Lisbon,38.75160366,-9.18414093
+9/17/2019 19:00,Group stage,E,1,SSC Napoli,NAP,Liverpool FC,LFC,2,0,0-0,Feb-00,Stadio San Paolo,60240,Naples,40.82344337,14.18913758
+9/17/2019 19:00,Group stage,H,1,Chelsea FC,CFC,CF Valencia,VCF,0,1,0-0,0-1,Stamford Bridge,41798,Chelsea ,51.481667,-0.191111
+9/17/2019 19:00,Group stage,E,1,FC Salzburg,SAL,KRC Genk,GEN,6,2,1-May,2-Jun,Red Bull Arena,30188,Salzburg,40.73685,-74.15036
+9/18/2019 16:55,Group stage,B,1,Olympiacos FC,OLY,Tottenham Hotspur,TOT,2,2,2-Jan,2-Feb,Georgios Karaiskakis,32115,Piraeus,37.94103124,23.65871903
+9/18/2019 16:55,Group stage,A,1,Club Brugge,BRU,Galatasaray,GAL,0,0,0-0,0-0,Jan Breydel Stadium,29975,Bruges,51.18929591,3.175015967
+9/18/2019 19:00,Group stage,D,1,Atletico Madrid,ATM,Juventus Turin,JUV,2,2,0-0,2-Feb,Wanda Metropolitano,67942,Madrid,40.447527,-3.716147
+9/18/2019 19:00,Group stage,C,1,GNK Dinamo Zagreb,DIN,Atalanta Bergamasca Calcio,ATA,4,0,Mar-00,Apr-00,Maksimir,35423,Zagreb,45.81444,15.97798
+9/18/2019 19:00,Group stage,C,1,FC Shakhtar Donetsk,SHA,Manchester City,MNC,0,3,0-2,0-3,Metalist Stadium,40003,Kharkiv,49.97517777,36.25702064
+9/18/2019 19:00,Group stage,B,1,FC Bayern Munich,FCB,FK Red Star Belgrade,CRZ,3,0,Jan-00,Mar-00,Allianz Stadium,,Munich,48.21793079,11.62151585
+9/18/2019 19:00,Group stage,A,1,Paris Saint-Germain,PSG,Real Madrid,RMA,3,0,Feb-00,Mar-00,Parc des Princes,47929,Paris,48.83816331,2.251832326
+9/18/2019 19:00,Group stage,D,1,Bayer 04 Leverkusen,B04,FC Lokomotiv Moscow,LOK,1,2,2-Jan,2-Jan,BayArena,30210,Leverkusen,51.03628652,7.001323328
+10/1/2019 16:55,Group stage,C,2,Atalanta Bergamasca Calcio,ATA,FC Shakhtar Donetsk,SHA,1,2,1-Jan,2-Jan,Giuseppe Meazza,80018,Milan,45.47347977,9.121189515
+10/1/2019 16:55,Group stage,A,2,Real Madrid,RMA,Club Brugge,BRU,2,2,0-2,2-Feb,Santiago Bernabeu,81044,Madrid ,40.45306,-3.68835
+10/1/2019 19:00,Group stage,A,2,Galatasaray,GAL,Paris Saint-Germain,PSG,0,1,0-0,0-1,Ali Sami Yen Stadium,,Sisli,41.05926976,28.99270936
+10/1/2019 19:00,Group stage,C,2,Manchester City,MNC,GNK Dinamo Zagreb,DIN,2,0,0-0,Feb-00,Etihad Stadium,,Manchester,53.483135,-2.200941
+10/1/2019 19:00,Group stage,D,2,FC Lokomotiv Moscow,LOK,Atletico Madrid,ATM,0,2,0-0,0-2,RZD Arena,28800,Moscow,55.75697,37.61502
+10/1/2019 19:00,Group stage,B,2,FK Red Star Belgrade,CRZ,Olympiacos FC,OLY,3,1,0-1,1-Mar,Stadium Rajko Mitic,55538,Belgrade,44.77658356,20.4589465
+10/1/2019 19:00,Group stage,B,2,Tottenham Hotspur,TOT,FC Bayern Munich,FCB,2,7,2-Jan,7-Feb,Tottenham Hotspur Stadium,62000,London,51.604252,-0.067007
+10/1/2019 19:00,Group stage,D,2,Juventus Turin,JUV,Bayer 04 Leverkusen,B04,3,0,Jan-00,Mar-00,Allianz Stadium,,Munich,48.21793079,11.62151585
+10/2/2019 16:55,Group stage,F,2,SK Slavia Prague,SLA,Borussia Dortmund,BVB,0,2,0-1,0-2,Sinobo Stadium,21000,Prague,50.0671664,14.46966479
+10/2/2019 16:55,Group stage,E,2,KRC Genk,GEN,SSC Napoli,NAP,0,0,0-0,0-0,Luminus Arena,24956,Genk,51.005,5.533333
+10/2/2019 19:00,Group stage,E,2,Liverpool FC,LFC,FC Salzburg,SAL,4,3,1-Mar,3-Apr,Anfield,,Sisli,53.430759,-2.961425
+10/2/2019 19:00,Group stage,H,2,CF Valencia,VCF,Ajax Amsterdam,AJA,0,3,0-2,0-3,Mestalla,55000,Valencia,39.47145811,-0.355015247
+10/2/2019 19:00,Group stage,G,2,FC Zenit St Petersburg,ZEN,Sl Benfica,BEN,3,1,Jan-00,1-Mar,Gazprom Arena,,Saint Petersburg,59.972733,30.21921
+10/2/2019 19:00,Group stage,F,2,FC Barcelona,FCB,Inter Milano,INT,2,1,0-1,1-Feb,Camp Nou,98787,Barcelona,41.380898,2.12282
+10/2/2019 19:00,Group stage,G,2,RB Leipzig,RBL,Olympique Lyonnais,OL,0,2,0-1,0-2,Red Bull Arena,30188,Salzburg,40.73685,-74.15036
+10/2/2019 19:00,Group stage,H,2,LOSC Lille,LIL,Chelsea FC,CFC,1,2,1-Jan,2-Jan,Stade Pierre Mauroy,50186,Lille,50.611275,3.128196
+10/22/2019 16:55,Group stage,D,3,Atletico Madrid,ATM,Bayer 04 Leverkusen,B04,1,0,0-0,Jan-00,Wanda Metropolitano,67942,Madrid,40.447527,-3.716147
+10/22/2019 16:55,Group stage,C,3,FC Shakhtar Donetsk,SHA,GNK Dinamo Zagreb,DIN,2,2,1-Jan,2-Feb,Metalist Stadium,40003,Kharkiv,49.97517777,36.25702064
+10/22/2019 19:00,Group stage,A,3,Club Brugge,BRU,Paris Saint-Germain,PSG,0,5,0-1,0-5,Jan Breydel Stadium,29975,Bruges,51.18929591,3.175015967
+10/22/2019 19:00,Group stage,C,3,Manchester City,MNC,Atalanta Bergamasca Calcio,ATA,5,1,1-Feb,1-May,Etihad Stadium,,Manchester,53.483135,-2.200941
+10/22/2019 19:00,Group stage,B,3,Olympiacos FC,OLY,FC Bayern Munich,FCB,2,3,1-Jan,3-Feb,Georgios Karaiskakis,32115,Piraeus,37.94103124,23.65871903
+10/22/2019 19:00,Group stage,B,3,Tottenham Hotspur,TOT,FK Red Star Belgrade,CRZ,5,0,Mar-00,May-00,Tottenham Hotspur Stadium,62000,London,51.604252,-0.067007
+10/22/2019 19:00,Group stage,D,3,Juventus Turin,JUV,FC Lokomotiv Moscow,LOK,2,1,0-1,1-Feb,Allianz Stadium,,Munich,48.21793079,11.62151585
+10/22/2019 19:00,Group stage,A,3,Galatasaray,GAL,Real Madrid,RMA,0,1,0-1,0-1,Ali Sami Yen Spor Kompleksi Turk Telekom Stadium,,Sisli,41.05926976,28.99270936
+10/23/2019 16:55,Group stage,H,3,Ajax Amsterdam,AJA,Chelsea FC,CFC,0,1,0-0,0-1,Johan Cruijff Arena,54990,Amsterdam,52.314312,4.941541
+10/23/2019 16:55,Group stage,G,3,RB Leipzig,RBL,FC Zenit St Petersburg,ZEN,2,1,0-1,1-Feb,Red Bull Arena,30188,Salzburg,40.73685,-74.15036
+10/23/2019 19:00,Group stage,E,3,KRC Genk,GEN,Liverpool FC,LFC,1,4,0-1,4-Jan,Luminus Arena,24956,Genk,51.005,5.533333
+10/23/2019 19:00,Group stage,F,3,Inter Milano,INT,Borussia Dortmund,BVB,2,0,Jan-00,Feb-00,Giuseppe Meazza,80018,Milan,45.47347977,9.121189515
+10/23/2019 19:00,Group stage,F,3,SK Slavia Prague,SLA,FC Barcelona,FCB,1,2,0-1,2-Jan,Sinobo Stadium,21000,Prague,50.0671664,14.46966479
+10/23/2019 19:00,Group stage,E,3,FC Salzburg,SAL,SSC Napoli,NAP,2,3,1-Jan,3-Feb,Red Bull Arena,30188,Salzburg,40.73685,-74.15036
+10/23/2019 19:00,Group stage,G,3,Sl Benfica,BEN,Olympique Lyonnais,OL,2,1,Jan-00,1-Feb,Estadio do Sport Lisboa e Benfica,64642,Lisbon,38.75160366,-9.18414093
+10/23/2019 19:00,Group stage,H,3,LOSC Lille,LIL,CF Valencia,VCF,1,1,0-0,1-Jan,Stade Pierre Mauroy,50186,Lille,50.611275,3.128196
+11/5/2019 17:55,Group stage,F,4,FC Barcelona,FCB,SK Slavia Prague,SLA,0,0,0-0,0-0,Camp Nou,98787,Barcelona,41.380898,2.12282
+11/5/2019 17:55,Group stage,G,4,FC Zenit St Petersburg,ZEN,RB Leipzig,RBL,0,2,0-1,0-2,Gazprom Arena,67800,Saint Petersburg,59.972733,30.21921
+11/5/2019 20:00,Group stage,E,4,SSC Napoli,NAP,FC Salzburg,SAL,1,1,1-Jan,1-Jan,Stadio San Paolo,60240,Naples,40.82344337,14.18913758
+11/5/2019 20:00,Group stage,H,4,Chelsea FC,CFC,Ajax Amsterdam,AJA,4,4,3-Jan,4-Apr,Stamford Bridge,41798,Chelsea ,51.481667,-0.191111
+11/5/2019 20:00,Group stage,G,4,Olympique Lyonnais,OL,Sl Benfica,BEN,3,1,Feb-00,1-Mar,Groupama Stadium,59186,Budapest,47.497913,19.040236
+11/5/2019 20:00,Group stage,F,4,Borussia Dortmund,BVB,Inter Milano,INT,3,2,0-2,2-Mar,Signal Iduna Park,81365,Dortmund,51.492569,7.451842
+11/5/2019 20:00,Group stage,H,4,CF Valencia,VCF,LOSC Lille,LIL,4,1,0-1,1-Apr,Mestalla,55000,Valencia,39.47145811,-0.355015247
+11/5/2019 20:00,Group stage,E,4,Liverpool FC,LFC,KRC Genk,GEN,2,1,1-Jan,1-Feb,Anfield,54074,Liverpool,53.430759,-2.961425
+11/6/2019 17:55,Group stage,B,4,FC Bayern Munich,FCB,Olympiacos FC,OLY,2,0,0-0,Feb-00,Allianz Stadium,75000,Munich,48.21793079,11.62151585
+11/6/2019 17:55,Group stage,D,4,FC Lokomotiv Moscow,LOK,Juventus Turin,JUV,1,2,1-Jan,2-Jan,RZD Arena,28800,Moscow,55.75697,37.61502
+11/6/2019 20:00,Group stage,C,4,GNK Dinamo Zagreb,DIN,FC Shakhtar Donetsk,SHA,3,3,1-Jan,3-Mar,Maksimir,35423,Zagreb,45.81444,15.97798
+11/6/2019 20:00,Group stage,D,4,Bayer 04 Leverkusen,B04,Atletico Madrid,ATM,2,1,Jan-00,1-Feb,BayArena,30210,Leverkusen,51.03628652,7.001323328
+11/6/2019 20:00,Group stage,B,4,FK Red Star Belgrade,CRZ,Tottenham Hotspur,TOT,0,4,0-1,0-4,Stadium Rajko Mitic,55538,Belgrade,44.77658356,20.4589465
+11/6/2019 20:00,Group stage,A,4,Paris Saint-Germain,PSG,Club Brugge,BRU,1,0,Jan-00,Jan-00,Parc des Princes,47929,Paris,48.83816331,2.251832326
+11/6/2019 20:00,Group stage,C,4,Atalanta Bergamasca Calcio,ATA,Manchester City,MNC,1,1,0-1,1-Jan,Giuseppe Meazza,80018,Milan ,45.478025,9.124206
+11/6/2019 20:00,Group stage,A,4,Real Madrid,RMA,Galatasaray,GAL,6,0,Apr-00,Jun-00,Santiago Bernabeu,81044,Madrid ,40.45306,-3.68835
+11/26/2019 17:55,Group stage,D,5,FC Lokomotiv Moscow,LOK,Bayer 04 Leverkusen,B04,0,2,0-1,0-2,RZD Arena,28800,Moscow,55.75697,37.61502
+11/26/2019 17:55,Group stage,A,5,Galatasaray,GAL,Club Brugge,BRU,1,1,Jan-00,1-Jan,Ali Sami Yen Spor Kompleksi Turk Telekom Stadium,52223,Sisli,41.05926976,28.99270936
+11/26/2019 20:00,Group stage,A,5,Real Madrid,RMA,Paris Saint-Germain,PSG,2,2,Jan-00,2-Feb,Santiago Bernabeu,81044,Madrid ,40.45306,-3.68835
+11/26/2019 20:00,Group stage,B,5,FK Red Star Belgrade,CRZ,FC Bayern Munich,FCB,0,6,0-1,0-6,Stadium Rajko Mitic,55538,Belgrade,44.77658356,20.4589465
+11/26/2019 20:00,Group stage,B,5,Tottenham Hotspur,TOT,Olympiacos FC,OLY,4,2,2-Jan,2-Apr,Tottenham Hotspur Stadium,62000,London,51.604252,-0.067007
+11/26/2019 20:00,Group stage,C,5,Atalanta Bergamasca Calcio,ATA,GNK Dinamo Zagreb,DIN,2,0,Jan-00,Feb-00,Giuseppe Meazza,80018,Milan ,45.478025,9.124206
+11/26/2019 20:00,Group stage,C,5,Manchester City,MNC,FC Shakhtar Donetsk,SHA,1,1,0-0,1-Jan,Etihad Stadium,46708,Manchester,53.483135,-2.200941
+11/26/2019 20:00,Group stage,D,5,Juventus Turin,JUV,Atletico Madrid,ATM,1,0,Jan-00,Jan-00,Allianz Stadium,75000,Munich,48.21793079,11.62151585
+11/27/2019 17:55,Group stage,G,5,FC Zenit St Petersburg,ZEN,Olympique Lyonnais,OL,2,0,Jan-00,Feb-00,Gazprom Arena,70000,Saint Petersburg,59.972733,30.21921
+11/27/2019 17:55,Group stage,H,5,CF Valencia,VCF,Chelsea FC,CFC,2,2,1-Jan,2-Feb,Mestalla,55000,Valencia,39.47145811,-0.355015247
+11/27/2019 20:00,Group stage,F,5,SK Slavia Prague,SLA,Inter Milano,INT,1,3,1-Jan,3-Jan,Sinobo Stadium,21000,Prague,50.0671664,14.46966479
+11/27/2019 20:00,Group stage,H,5,LOSC Lille,LIL,Ajax Amsterdam,AJA,0,2,0-1,0-2,Stade Pierre Mauroy,50186,Lille,50.611275,3.128196
+11/27/2019 20:00,Group stage,E,5,Liverpool FC,LFC,SSC Napoli,NAP,1,1,0-1,1-Jan,Anfield,54074,Anfield,53.42515663,-2.956492841
+11/27/2019 20:00,Group stage,F,5,FC Barcelona,FCB,Borussia Dortmund,BVB,3,1,Feb-00,1-Mar,Camp Nou,98787,Barcelona,41.380898,2.12282
+11/27/2019 20:00,Group stage,E,5,KRC Genk,GEN,FC Salzburg,SAL,1,4,0-2,4-Jan,Luminus Arena,24956,Genk,51.005,5.533333
+11/27/2019 20:00,Group stage,G,5,RB Leipzig,RBL,Sl Benfica,BEN,2,2,0-1,2-Feb,Red Bull Arena,30188,Salzburg,40.73685,-74.15036
+12/10/2019 17:55,Group stage,E,6,SSC Napoli,NAP,KRC Genk,GEN,4,0,Mar-00,Apr-00,Stadio San Paolo,60240,Naples,40.82344337,14.18913758
+12/10/2019 17:55,Group stage,E,6,FC Salzburg,SAL,Liverpool FC,LFC,0,2,0-0,0-2,Red Bull Arena,30188,Salzburg,40.73685,-74.15036
+12/10/2019 20:00,Group stage,H,6,Ajax Amsterdam,AJA,CF Valencia,VCF,0,1,0-1,0-1,Johan Cruijff Arena,54990,Amsterdam,52.314312,4.941541
+12/10/2019 20:00,Group stage,G,6,Sl Benfica,BEN,FC Zenit St Petersburg,ZEN,3,0,0-0,Mar-00,Estadio do Sport Lisboa e Benfica,64642,Lisbon,38.75160366,-9.18414093
+12/10/2019 20:00,Group stage,G,6,Olympique Lyonnais,OL,RB Leipzig,RBL,2,2,0-2,2-Feb,Groupama Stadium,59186,Décines-Charpieu,45.72099712,4.825996696
+12/10/2019 20:00,Group stage,F,6,Inter Milano,INT,FC Barcelona,FCB,1,2,1-Jan,2-Jan,Giuseppe Meazza,80018,Milan,45.47347977,9.121189515
+12/10/2019 20:00,Group stage,F,6,Borussia Dortmund,BVB,SK Slavia Prague,SLA,2,1,1-Jan,1-Feb,Signal Iduna Park,81365,Dortmund,51.492569,7.451842
+12/10/2019 20:00,Group stage,H,6,Chelsea FC,CFC,LOSC Lille,LIL,2,1,Feb-00,1-Feb,Stamford Bridge,41798,Chelsea ,51.481667,-0.191111
+12/11/2019 17:55,Group stage,C,6,GNK Dinamo Zagreb,DIN,Manchester City,MNC,1,4,1-Jan,4-Jan,Maksimir,35423,Zagreb,45.81797839,16.01751326
+12/11/2019 17:55,Group stage,C,6,FC Shakhtar Donetsk,SHA,Atalanta Bergamasca Calcio,ATA,0,3,0-0,0-3,Metalist Stadium,40003,Kharkiv,49.97517777,36.25702064
+12/11/2019 20:00,Group stage,A,6,Paris Saint-Germain,PSG,Galatasaray,GAL,5,0,Feb-00,May-00,Parc des Princes,47929,Paris,48.83816331,2.251832326
+12/11/2019 20:00,Group stage,D,6,Bayer 04 Leverkusen,B04,Juventus Turin,JUV,0,2,0-0,0-2,BayArena,30210,Leverkusen,51.03628652,7.001323328
+12/11/2019 20:00,Group stage,B,6,Olympiacos FC,OLY,FK Red Star Belgrade,CRZ,1,0,0-0,Jan-00,Georgios Karaiskakis,32115,Piraeus,37.94103124,23.65871903
+12/11/2019 20:00,Group stage,B,6,FC Bayern Munich,FCB,Tottenham Hotspur,TOT,3,1,1-Feb,1-Mar,Allianz Stadium,75000,Munich,48.218967,11.623746
+12/11/2019 20:00,Group stage,A,6,Club Brugge,BRU,Real Madrid,RMA,1,3,0-0,3-Jan,Jan Breydel Stadium,29975,Bruges,51.18929591,3.175015967
+12/11/2019 20:00,Group stage,D,6,Atletico Madrid,ATM,FC Lokomotiv Moscow,LOK,2,0,Jan-00,Feb-00,Wanda Metropolitano,67942,Madrid,40.447527,-3.716147
+2/18/2020 20:00,Playoffs,Knockout stage,4,Borussia Dortmund,BVB,Paris Saint-Germain,PSG,2,1,0-0,1-Feb,Signal Iduna Park,81365,Dortmund,51.492569,7.451842
+2/18/2020 20:00,Playoffs,Knockout stage,4,Atletico Madrid,ATM,Liverpool FC,LFC,1,0,Jan-00,Jan-00,Wanda Metropolitano,67942,Madrid,40.447527,-3.716147
+2/19/2020 20:00,Playoffs,Knockout stage,4,Tottenham Hotspur,TOT,RB Leipzig,RBL,0,1,0-0,0-1,Tottenham Hotspur Stadium,62000,London,51.604252,-0.067007
+2/19/2020 20:00,Playoffs,Knockout stage,4,Atalanta Bergamasca Calcio,ATA,CF Valencia,VCF,4,1,Feb-00,1-Apr,Giuseppe Meazza,80018,Milan,45.47347977,9.121189515
+2/25/2020 20:00,Playoffs,Knockout stage,4,SSC Napoli,NAP,FC Barcelona,FCB,1,1,Jan-00,1-Jan,Stadio San Paolo,60240,Naples,40.82344337,14.18913758
+2/25/2020 20:00,Playoffs,Knockout stage,4,Chelsea FC,CFC,FC Bayern Munich,FCB,0,3,0-0,0-3,Stamford Bridge,41798,Fulham,51.481667,-0.191111
+2/26/2020 20:00,Playoffs,Knockout stage,4,Olympique Lyonnais,OL,Juventus Turin,JUV,1,0,Jan-00,Jan-00,Groupama Stadium,59186,Décines-Charpieu,45.72099712,4.825996696
+2/26/2020 20:00,Playoffs,Knockout stage,4,Real Madrid,RMA,Manchester City,MNC,1,2,0-0,2-Jan,Santiago Bernabeu,81044,Madrid ,40.45306,-3.68835
+3/10/2020 20:00,Playoffs,Knockout stage,4,CF Valencia,VCF,Atalanta Bergamasca Calcio,ATA,3,4,2-Jan,4-Mar,Mestalla,55000,Valencia,39.47145811,-0.355015247
+3/10/2020 20:00,Playoffs,Knockout stage,4,RB Leipzig,RBL,Tottenham Hotspur,TOT,3,0,Feb-00,Mar-00,Red Bull Arena,30188,Salzburg,40.73685,-74.15036
+3/11/2020 20:00,Playoffs,Knockout stage,4,Paris Saint-Germain,PSG,Borussia Dortmund,BVB,2,0,Feb-00,Feb-00,Parc des Princes,47929,Paris,48.83816331,2.251832326
+3/11/2020 20:00,Playoffs,Knockout stage,4,Liverpool FC,LFC,Atletico Madrid,ATM,2,3,Jan-00,Jan-00,Anfield,54074,Anfield,53.42515663,-2.956492841
+3/17/2020 20:00,Playoffs,Knockout stage,4,Manchester City,MNC,Real Madrid,RMA,0,0,,,Etihad Stadium,46708,Manchester,53.483135,-2.200941
+3/17/2020 20:00,Playoffs,Knockout stage,4,Juventus Turin,JUV,Olympique Lyonnais,OL,0,0,,,Allianz Stadium,75000,Munich,48.218967,11.623746
+3/18/2020 20:00,Playoffs,Knockout stage,4,FC Bayern Munich,FCB,Chelsea FC,CFC,0,0,,,Allianz Stadium,75000,Munich,48.218967,11.623746
+3/18/2020 20:00,Playoffs,Knockout stage,4,FC Barcelona,FCB,SSC Napoli,NAP,0,0,,,Camp Nou,98787,Barcelona,41.380898,2.12282
+8/7/2020 19:00,Playoffs,Knockout stage,1/8 - finals,Juventus Turin,JUV,Olympique Lyonnais,OL,2,1,1-Jan,1-Feb,Allianz Stadium,75000,Munich,48.218967,11.623746
+8/7/2020 19:00,Playoffs,Knockout stage,1/8 - finals,Manchester City,MNC,Real Madrid,RMA,2,1,1-Jan,1-Feb,Etihad Stadium,46708,Manchester,53.483135,-2.200941
+8/8/2020 19:00,Playoffs,Knockout stage,1/8 - finals,FC Barcelona,FCB,SSC Napoli,NAP,3,1,1-Mar,1-Mar,Camp Nou,98787,Barcelona,41.380898,2.12282
+8/8/2020 19:00,Playoffs,Knockout stage,1/8 - finals,FC Bayern Munich,FCB,Chelsea FC,CFC,4,1,1-Feb,1-Apr,Allianz Stadium,75000,Munich,48.218967,11.623746
+8/12/2020 19:00,Playoffs,Knockout stage,Quarter-finals,Atalanta Bergamasca Calcio,ATA,Paris Saint-Germain,PSG,1,2,Jan-00,2-Jan,Estadio do Sport Lisboa e Benfica,64642,Lisbon,38.75160366,-9.18414093
+8/13/2020 19:00,Playoffs,Knockout stage,Quarter-finals,RB Leipzig,RBL,Atletico Madrid,ATM,2,1,0-0,1-Feb,Jose Alvalade,50044,Lisbon,38.75671364,-9.156469374
+8/14/2020 19:00,Playoffs,Knockout stage,Quarter-finals,FC Barcelona,FCB,FC Bayern Munich,FCB,2,8,4-Jan,8-Feb,Estadio do Sport Lisboa e Benfica,64642,Lisbon,38.75160366,-9.18414093
+8/15/2020 19:00,Playoffs,Knockout stage,Quarter-finals,Manchester City,MNC,Olympique Lyonnais,OL,1,3,0-1,3-Jan,Jose Alvalade,50044,Lisbon,38.75671364,-9.156469374
+8/18/2020 19:00,Playoffs,Knockout stage,Semi-finals,RB Leipzig,RBL,Paris Saint-Germain,PSG,0,3,0-2,0-3,Estadio do Sport Lisboa e Benfica,64642,Lisbon,38.75160366,-9.18414093
+8/19/2020 19:00,Playoffs,Knockout stage,Semi-finals,Olympique Lyonnais,OL,FC Bayern Munich,FCB,0,3,0-2,0-3,Jose Alvalade,50044,Lisbon,38.75671364,-9.156469374
+8/23/2020 19:00,Playoffs,Knockout stage,Final,Paris Saint-Germain,PSG,FC Bayern Munich,FCB,0,1,0-0,0-1,Estadio do Sport Lisboa e Benfica,64642,Lisbon,38.75160366,-9.18414093
+6/26/2018 17:00,,,2,FC Santa Coloma,FCC,KF Drita,DRI,0,2,0-0,0-0,Victoria Stadium,5000,Gibraltar,36.14294609,-5.350203599
+6/26/2018 21:00,,,2,SP La Fiorita,LAF,Lincoln Red Imps FC,LIN,0,2,0-1,0-2,Victoria Stadium,5000,Gibraltar,36.14294609,-5.350203599
+6/29/2018 20:30,,,1,Lincoln Red Imps FC,LIN,KF Drita,DRI,1,4,0-1,1-Jan,Victoria Stadium,5000,Gibraltar,36.14294609,-5.350203599
+7/10/2018 17:30,,,14,FC Flora Tallinn,FLO,Hapoel Beer Sheva FC,HBS,1,4,0-2,4-Jan,A. Le Coq Arena,15000,Tallinn,59.421307,24.732178
+7/10/2018 17:30,,,14,FC Torpedo 2008 Kutaisi,TKU,FC Sheriff Tiraspol,SHF,2,1,1-Jan,1-Feb,Ramaz Shengelia Stadium,12000,Kutaisi,42.26791,42.69459
+7/10/2018 18:00,,,14,Alashkert,ALA,Celtic Glasgow,CEL,0,3,0-1,0-3,Alashkert Stadium,6850,Yerevan,40.18111,44.51361
+7/10/2018 18:00,,,14,F91 Dudelange,F91,Fehervar FC,FEH,1,1,0-1,1-Jan,Stade Jos Nosbaum,2558,Dudelange,49.46999812,6.08416633
+7/10/2018 19:00,,,14,HJK Helsinki,HJK,Vikingur Gota,VIK,0,0,-,-,Helsinki Football Stadium,10770,Helsinki,60.18583259,24.92016299
+7/10/2018 20:00,,,14,Vikingur Gota,VIK,HJK Helsinki,HJK,1,2,0-2,2-Jan,Sarpugerdi Stadium,3000,Faroe Islands,62.199788,-6.74552
+7/10/2018 20:15,,,14,FK Shkendija,SHK,The New Saints FC,TNS,5,0,Feb-00,May-00,Ecolog Arena,15000,Tetovo,48.218967,11.623746
+7/10/2018 20:45,,,14,KF Drita,DRI,Malmo FF,MAL,0,3,0-2,0-3,Gjilan City Stadium,15000,Gjilan,42.465338,21.471641
+7/10/2018 20:45,,,14,Cork City FC,COR,Legia Warsaw,LEG,0,1,0-0,0-1,Turners Cross,7365,Cork,51.88464646,-8.467314797
+7/11/2018 16:00,,,14,FC Astana,FCA,FK Sutjeska,SUT,1,0,Jan-00,Jan-00,Astana Arena,30000,Nur-Sultan,51.1801,71.44598
+7/11/2018 18:00,,,14,FC Spartak Trnava,TRN,Hsk Zrinjski Mostar,ZRI,1,0,0-0,Jan-00,Stadium Antona Malatinskeho,19200,Trnava,48.370911,17.583323
+7/11/2018 18:00,,,14,FK Suduva Marijampole,SUD,Apoel Nicosia FC,APO,3,1,Mar-00,1-Mar,Arvi arena,6500,Marijampole,54.56667,23.35
+7/11/2018 18:00,,,14,FK Spartaks Jurmala,SPA,FK Red Star Belgrade,CRZ,0,0,0-0,0-0,Slokas Stadions,2800,J?rmala,56.9495911,23.6101985
+7/11/2018 19:00,,,14,KS Kukesi,KUK,Valletta FC,VAL,0,0,0-0,0-0,Zeqir Ymeri Stadium,5500,Kukes,42.0769,20.4219
+7/11/2018 19:00,,,14,Ludogorets 1945 Razgrad,LUD,Crusaders FC,CRU,7,0,Feb-00,Jul-00,Ludogorets Arena,10422,Razgrad,43.814912,27.137877
+7/11/2018 20:00,,,14,NK Olimpija Ljubljana,OLI,Qarabag FK,QAR,0,1,0-0,0-1,Stozice Stadium,16038,Stozice,46.07533303,14.51949792
+7/11/2018 22:00,,,14,Valur Reykjavik,VAL,Rosenborg BK,RBK,1,0,0-0,Jan-00,HlÃƒÂ­darendi Reykjavik,2000,Reykjavik,64.128288,-21.827774
+7/17/2018 18:00,,,14,HJK Helsinki,HJK,Vikingur Gota,VIK,3,1,1-Mar,1-Mar,Helsinki Football Stadium,10770,Helsinki,60.18583259,24.92016299
+7/17/2018 18:00,,,14,Valletta FC,VAL,KS Kukesi,KUK,1,1,0-0,1-Jan,MFA Centenary Stadium,2000,Ta' Qali,35.89024811,14.4092217
+7/17/2018 19:00,,,14,Malmo FF,MAL,KF Drita,DRI,2,0,0-0,Feb-00,Stadion,22500,Malmo,52.51461,13.239665
+7/17/2018 19:00,,,14,Hapoel Beer Sheva FC,HBS,FC Flora Tallinn,FLO,3,1,Feb-00,1-Mar,Toto Turner Stadium,16126,Beersheba,33.73449706,-84.38699845
+7/17/2018 19:00,,,14,Apoel Nicosia FC,APO,FK Suduva Marijampole,SUD,1,0,Jan-00,Jan-00,GSP Stadium,22859,Nicosia,35.10872457,33.3577169
+7/17/2018 20:00,,,14,The New Saints FC,TNS,FK Shkendija,SHK,4,0,Mar-00,Apr-00,Park Hall,2048,Oswestry,38.21849913,-76.43816491
+7/17/2018 20:15,,,14,Fehervar FC,FEH,F91 Dudelange,F91,2,1,Jan-00,1-Feb,Pancho Arena,3500,Felcsut,49.089752,33.430814
+7/17/2018 20:30,,,14,FK Red Star Belgrade,CRZ,FK Spartaks Jurmala,SPA,2,0,0-0,Feb-00,Stadium Rajko Mitic,55538,Belgrade,44.77658356,20.4589465
+7/17/2018 21:00,,,14,Crusaders FC,CRU,Ludogorets 1945 Razgrad,LUD,0,2,0-1,0-2,Seaview,3383,Belfast,46.334544,-124.0546

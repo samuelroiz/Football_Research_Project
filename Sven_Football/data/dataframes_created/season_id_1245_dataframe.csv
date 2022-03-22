@@ -1,0 +1,215 @@
+match_start,stage_name,group_name,round_name,home_team_name,home_team_short_code,away_team_name,away_team_short_code,stats_home_score,stats_away_score,stats_halftime_score,stats_fulltime_score,venue_name,venue_capacity,venue_city
+2019-06-25 13:00:00,Qualification,Preliminary Round,2,Tre Penne,TRP,FC Santa Coloma,FCC,0,1,0-0,0-1,NaN,NaN,NaN
+2019-06-25 18:45:00,Qualification,Preliminary Round,2,KF Feronikeli,FER,Lincoln Red Imps FC,LIN,1,0,1-0,1-0,NaN,NaN,NaN
+2019-06-28 18:45:00,Qualification,Preliminary Round,1,KF Feronikeli,FER,FC Santa Coloma,FCC,2,1,0-0,2-1,NaN,NaN,NaN
+2019-07-09 13:00:00,Qualification,Qualification,14,FC Astana,FCA,FC CFR 1907 Cluj,CFR,1,0,0-0,1-0,Astana Arena,30000,Nur-Sultan
+2019-07-09 14:00:00,Qualification,Qualification,14,FC Ararat Armenia,ARA,AIK,AIK,2,1,2-1,2-1,Vazgen Sargsyan Republican Stadium,14403,Yerevan
+2019-07-09 16:00:00,Qualification,Qualification,14,HJK Helsinki,HJK,HB Torshavn,HB,3,0,2-0,3-0,Helsinki Football Stadium,10770,Helsinki
+2019-07-09 16:00:00,Qualification,Qualification,14,Nomme Kalju FC,KAL,FK Shkendija,SHK,0,1,0-0,0-1,Hiiu kunstmurustaadion,1000,Tallinn
+2019-07-09 17:45:00,Qualification,Qualification,14,FK Sarajevo,FKS,Celtic Glasgow,CEL,1,3,1-1,1-3,Asim Ferhatovic Hase,34630,Sarajevo
+2019-07-09 18:00:00,Qualification,Qualification,14,FK Suduva Marijampole,SUD,FK Red Star Belgrade,CRZ,0,0,0-0,0-0,Arvi arena,6500,Marijampole
+2019-07-09 18:00:00,Qualification,Qualification,14,F91 Dudelange,F91,Valletta FC,VAL,2,2,2-0,2-2,Stade Jos Nosbaum,2558,Dudelange
+2019-07-09 18:00:00,Qualification,Qualification,14,The New Saints FC,TNS,KF Feronikeli,FER,2,2,0-0,2-2,Park Hall,2048,Oswestry
+2019-07-10 15:30:00,Qualification,Qualification,14,FK Partizani Tirana,PTI,Qarabag FK,QAR,0,0,0-0,0-0,Stadiumi Selman Stermasi,9500,Tirana
+2019-07-10 17:00:00,Qualification,Qualification,14,FC BATE Borisov,BAT,GKS Piast Gliwice,PGL,1,1,0-1,1-1,Borisov Arena,13126,Borisov
+2019-07-10 17:00:00,Qualification,Qualification,14,FC Sheriff Tiraspol,SHF,FC Saburtalo Tbilisi,SAT,0,3,0-1,0-3,Sheriff Stadium,14000,Tiraspol
+2019-07-10 18:00:00,Qualification,Qualification,14,Ferencvarosi TC,FTC,Ludogorets 1945 Razgrad,LUD,2,1,1-1,2-1,Groupama Arena,22000,Budapest
+2019-07-10 18:15:00,Qualification,Qualification,14,SK Slovan Bratislava,SLB,FK Sutjeska,SUT,1,1,0-0,1-1,Tehelne Pole Stadion,22500,Bratislava
+2019-07-10 18:45:00,Qualification,Qualification,14,Dundalk FC,DUN,Riga FC	,RFC,0,0,0-0,0-0,Oriel Park,4500,Dundalk
+2019-07-10 18:45:00,Qualification,Qualification,14,Linfield FC,LIN,Rosenborg BK,RBK,0,2,0-1,0-2,Windsor Park,24734,Belfast
+2019-07-10 20:00:00,Qualification,Qualification,14,Valur Reykjavik,VAL,NK Maribor	,MAR,0,3,0-1,0-3,HlÃ­darendi Reykjavik,2000,Reykjavik
+2019-07-16 15:00:00,Qualification,Qualification,14,FK Shkendija,SHK,Nomme Kalju FC,KAL,1,2,0-1,1-2,Ecolog Arena,15000,Tetovo
+2019-07-16 17:30:00,Qualification,Qualification,14,FC Saburtalo Tbilisi,SAT,FC Sheriff Tiraspol,SHF,1,3,0-3,1-3,Mikheil Meskhi Stadium,27223,Tbilisi
+2019-07-16 18:00:00,Qualification,Qualification,14,Valletta FC,VAL,F91 Dudelange,F91,1,1,1-0,1-1,NaN,NaN,NaN
+2019-07-16 18:00:00,Qualification,Qualification,14,HB Torshavn,HB,HJK Helsinki,HJK,2,2,1-0,2-2,Gundadalur,5000,Torshavn
+2019-07-16 18:45:00,Qualification,Qualification,14,FK Red Star Belgrade,CRZ,FK Suduva Marijampole,SUD,2,1,2-0,2-1,Stadium Rajko Mitic,55538,Belgrade
+2019-07-16 18:45:00,Qualification,Qualification,14,KF Feronikeli,FER,The New Saints FC,TNS,0,1,0-0,0-1,Fadil Vokrri Stadium,16200,Pristina
+2019-07-17 16:30:00,Qualification,Qualification,14,Riga FC	,RFC,Dundalk FC,DUN,4,5,0-0,0-0,RTU Stadium,3000,Riga
+2019-07-17 17:00:00,Qualification,Qualification,14,Qarabag FK,QAR,FK Partizani Tirana,PTI,2,0,0-0,2-0,Baku Olympic Stadium,69870,Baku
+2019-07-17 17:00:00,Qualification,Qualification,14,Rosenborg BK,RBK,Linfield FC,LIN,4,0,1-0,4-0,Lerkendal,21421,
+2019-07-17 17:00:00,Qualification,Qualification,14,AIK,AIK,FC Ararat Armenia,ARA,3,1,0-0,3-1,Friends Arena,54000,Solna
+2019-07-17 17:30:00,Qualification,Qualification,14,Ludogorets 1945 Razgrad,LUD,Ferencvarosi TC,FTC,2,3,1-2,2-3,Ludogorets Arena,10422,Razgrad
+2019-07-17 18:00:00,Qualification,Qualification,14,GKS Piast Gliwice,PGL,FC BATE Borisov,BAT,1,2,1-0,1-2,Stadion Miejski w Gliwicach,10037,Gliwice
+2019-07-17 18:00:00,Qualification,Qualification,14,FC CFR 1907 Cluj,CFR,FC Astana,FCA,3,1,2-1,3-1,Dr. Constantin Radulescu,23500,Cluj Napoca
+2019-07-17 18:15:00,Qualification,Qualification,14,NK Maribor	,MAR,Valur Reykjavik,VAL,2,0,2-0,2-0,Ljudski VRT,12702,Maribor
+2019-07-17 18:15:00,Qualification,Qualification,14,FK Sutjeska,SUT,SK Slovan Bratislava,SLB,4,3,0-0,1-1,Stadion Gradski,5214,Niksic
+2019-07-17 18:45:00,Qualification,Qualification,14,Celtic Glasgow,CEL,FK Sarajevo,FKS,2,1,1-0,2-1,Celtic Park,60411,Glasgow
+2019-07-23 17:00:00,Qualification,Qualification,15,FC Viktoria Plzen,VIK,Olympiacos FC,OLY,0,0,0-0,0-0,Stadion Mesta Plzne,11700,Plzen
+2019-07-23 17:30:00,Qualification,Qualification,15,FC Saburtalo Tbilisi,SAT,GNK Dinamo Zagreb,DIN,0,2,0-0,0-2,Mikheil Meskhi Stadium,27223,Tbilisi
+2019-07-23 18:00:00,Qualification,Qualification,15,The New Saints FC,TNS,FC Copenhagen,FCC,0,2,0-1,0-2,Park Hall,2048,Oswestry
+2019-07-23 18:00:00,Qualification,Qualification,15,PSV Eindhoven,PSV,FC Basel 1893,FCB,3,2,1-1,3-2,Philips Stadion,35000,Eindhoven
+2019-07-23 18:15:00,Qualification,Qualification,15,FK Sutjeska,SUT,Apoel Nicosia FC,APO,0,1,0-1,0-1,Stadion Gradski,5214,Niksic
+2019-07-24 17:00:00,Qualification,Qualification,15,FC BATE Borisov,BAT,Rosenborg BK,RBK,2,1,1-1,2-1,Borisov Arena,13126,Borisov
+2019-07-24 18:00:00,Qualification,Qualification,15,Ferencvarosi TC,FTC,Valletta FC,VAL,3,1,2-0,3-1,Groupama Arena,22000,Budapest
+2019-07-24 18:00:00,Qualification,Qualification,15,FC CFR 1907 Cluj,CFR,Maccabi Tel Aviv FC,MTA,1,0,1-0,1-0,Dr. Constantin Radulescu,23500,Cluj Napoca
+2019-07-24 18:15:00,Qualification,Qualification,15,NK Maribor	,MAR,AIK,AIK,2,1,2-1,2-1,Ljudski VRT,12702,Maribor
+2019-07-24 18:45:00,Qualification,Qualification,15,Dundalk FC,DUN,Qarabag FK,QAR,1,1,0-1,1-1,Oriel Park,4500,Dundalk
+2019-07-24 18:45:00,Qualification,Qualification,15,FK Red Star Belgrade,CRZ,HJK Helsinki,HJK,2,0,1-0,2-0,Stadium Rajko Mitic,55538,Belgrade
+2019-07-24 18:45:00,Qualification,Qualification,15,Celtic Glasgow,CEL,Nomme Kalju FC,KAL,5,0,3-0,5-0,Celtic Park,60411,Glasgow
+2019-07-30 17:00:00,Qualification,Qualification,15,Maccabi Tel Aviv FC,MTA,FC CFR 1907 Cluj,CFR,2,2,1-2,2-2,Netanya Stadium,13800,Netanya
+2019-07-30 17:00:00,Qualification,Qualification,15,Apoel Nicosia FC,APO,FK Sutjeska,SUT,3,0,2-0,3-0,GSP Stadium,22859,Nicosia
+2019-07-30 17:00:00,Qualification,Qualification,15,Nomme Kalju FC,KAL,Celtic Glasgow,CEL,0,2,0-1,0-2,A. Le Coq Arena,15000,Tallinn
+2019-07-30 18:00:00,Qualification,Qualification,15,Valletta FC,VAL,Ferencvarosi TC,FTC,1,1,1-0,1-1,NaN,NaN,NaN
+2019-07-30 18:00:00,Qualification,Qualification,15,GNK Dinamo Zagreb,DIN,FC Saburtalo Tbilisi,SAT,3,0,0-0,3-0,Maksimir,35423,Zagreb
+2019-07-30 18:00:00,Qualification,Qualification,15,FC Basel 1893,FCB,PSV Eindhoven,PSV,2,1,1-1,2-1,St. Jakob-Park,37994,Basel
+2019-07-30 18:30:00,Qualification,Qualification,15,Olympiacos FC,OLY,FC Viktoria Plzen,VIK,4,0,0-0,4-0,Georgios Karaiskakis,32115,Piraeus
+2019-07-31 16:00:00,Qualification,Qualification,15,HJK Helsinki,HJK,FK Red Star Belgrade,CRZ,2,1,0-0,2-1,Helsinki Football Stadium,10770,Helsinki
+2019-07-31 17:00:00,Qualification,Qualification,15,AIK,AIK,NK Maribor	,MAR,3,2,1-0,2-1,Friends Arena,54000,Solna
+2019-07-31 17:00:00,Qualification,Qualification,15,Qarabag FK,QAR,Dundalk FC,DUN,3,0,1-0,3-0,Baku Olympic Stadium,69870,Baku
+2019-07-31 17:00:00,Qualification,Qualification,15,Rosenborg BK,RBK,FC BATE Borisov,BAT,2,0,0-0,2-0,Lerkendal,21421,
+2019-07-31 17:45:00,Qualification,Qualification,15,FC Copenhagen,FCC,The New Saints FC,TNS,1,0,0-0,1-0,Parken,38065,Copenhagen
+2019-08-06 17:00:00,Qualification,Qualification,16,Apoel Nicosia FC,APO,Qarabag FK,QAR,1,2,0-0,1-2,GSP Stadium,22859,Nicosia
+2019-08-06 17:00:00,Qualification,Qualification,16,PAOK FC,PAOK,Ajax Amsterdam,AJA,2,2,2-1,2-2,Toumba Stadium,28703,Thessaloniki
+2019-08-06 18:00:00,Qualification,Qualification,16,GNK Dinamo Zagreb,DIN,Ferencvarosi TC,FTC,1,1,1-0,1-1,Maksimir,35423,Zagreb
+2019-08-06 18:30:00,Qualification,Qualification,16,Club Brugge,BRU,FC Dynamo Kiev,DYK,1,0,1-0,1-0,Jan Breydel Stadium,29975,Bruges
+2019-08-06 18:45:00,Qualification,Qualification,16,FK Red Star Belgrade,CRZ,FC Copenhagen,FCC,1,1,1-0,1-1,Stadium Rajko Mitic,55538,Belgrade
+2019-08-07 17:00:00,Qualification,Qualification,16,FC Krasnodar,KRA,FC Porto,FCP,0,1,0-0,0-1,Krasnodar Stadium,35074,Krasnodar
+2019-08-07 17:45:00,Qualification,Qualification,16,Basaksehir FK,BAS,Olympiacos FC,OLY,0,1,0-0,0-1,Basaksehir Fatih Terim Stadium,17156,Istanbul
+2019-08-07 18:00:00,Qualification,Qualification,16,FC CFR 1907 Cluj,CFR,Celtic Glasgow,CEL,1,1,1-1,1-1,Dr. Constantin Radulescu,23500,Cluj Napoca
+2019-08-07 18:00:00,Qualification,Qualification,16,FC Basel 1893,FCB,LASK,ASK,1,2,0-0,1-2,St. Jakob-Park,37994,Basel
+2019-08-07 18:15:00,Qualification,Qualification,16,NK Maribor	,MAR,Rosenborg BK,RBK,1,3,0-0,1-3,Ljudski VRT,12702,Maribor
+2019-08-13 16:30:00,Qualification,Qualification,16,Qarabag FK,QAR,Apoel Nicosia FC,APO,0,2,0-1,0-2,Baku Olympic Stadium,69870,Baku
+2019-08-13 17:00:00,Qualification,Qualification,16,Rosenborg BK,RBK,NK Maribor	,MAR,3,1,0-1,3-1,Lerkendal,21421,
+2019-08-13 17:30:00,Qualification,Qualification,16,FC Dynamo Kiev,DYK,Club Brugge,BRU,3,3,1-1,3-3,Olimpiysky National Sports Complex,70050,Kiev
+2019-08-13 18:00:00,Qualification,Qualification,16,FC Copenhagen,FCC,FK Red Star Belgrade,CRZ,7,8,1-1,1-1,Parken,38065,Copenhagen
+2019-08-13 18:00:00,Qualification,Qualification,16,Ferencvarosi TC,FTC,GNK Dinamo Zagreb,DIN,0,4,0-1,0-4,Groupama Arena,22000,Budapest
+2019-08-13 18:30:00,Qualification,Qualification,16,Olympiacos FC,OLY,Basaksehir FK,BAS,2,0,0-0,2-0,Georgios Karaiskakis,32115,Piraeus
+2019-08-13 18:30:00,Qualification,Qualification,16,LASK,ASK,FC Basel 1893,FCB,3,1,0-0,3-1,Raiffeisen Arena,6009,Pasching
+2019-08-13 18:30:00,Qualification,Qualification,16,Ajax Amsterdam,AJA,PAOK FC,PAOK,3,2,1-1,3-2,Johan Cruijff Arena,54990,Amsterdam
+2019-08-13 18:45:00,Qualification,Qualification,16,Celtic Glasgow,CEL,FC CFR 1907 Cluj,CFR,3,4,0-1,3-4,Celtic Park,60411,Glasgow
+2019-08-13 19:00:00,Qualification,Qualification,16,FC Porto,FCP,FC Krasnodar,KRA,2,3,0-3,2-3,Estadio do Dragao,52033,Porto
+2019-08-20 19:00:00,Qualification,Qualification,17,LASK,ASK,Club Brugge,BRU,0,1,0-1,0-1,Raiffeisen Arena,6009,Pasching
+2019-08-20 19:00:00,Qualification,Qualification,17,FC CFR 1907 Cluj,CFR,SK Slavia Prague,SLA,0,1,0-1,0-1,Dr. Constantin Radulescu,23500,Cluj Napoca
+2019-08-20 19:00:00,Qualification,Qualification,17,Apoel Nicosia FC,APO,Ajax Amsterdam,AJA,0,0,0-0,0-0,GSP Stadium,22859,Nicosia
+2019-08-21 19:00:00,Qualification,Qualification,17,GNK Dinamo Zagreb,DIN,Rosenborg BK,RBK,2,0,2-0,2-0,Maksimir,35423,Zagreb
+2019-08-21 19:00:00,Qualification,Qualification,17,BSC Young Boys,YB,FK Red Star Belgrade,CRZ,2,2,1-1,2-2,Stade de Suisse,31789,Bern
+2019-08-21 19:00:00,Qualification,Qualification,17,Olympiacos FC,OLY,FC Krasnodar,KRA,4,0,1-0,4-0,Georgios Karaiskakis,32115,Piraeus
+2019-08-27 19:00:00,Qualification,Qualification,17,FK Red Star Belgrade,CRZ,BSC Young Boys,YB,1,1,0-0,1-1,Stadium Rajko Mitic,55538,Belgrade
+2019-08-27 19:00:00,Qualification,Qualification,17,FC Krasnodar,KRA,Olympiacos FC,OLY,1,2,1-1,1-2,Krasnodar Stadium,35074,Krasnodar
+2019-08-27 19:00:00,Qualification,Qualification,17,Rosenborg BK,RBK,GNK Dinamo Zagreb,DIN,1,1,1-0,1-1,Lerkendal,21421,
+2019-08-28 19:00:00,Qualification,Qualification,17,Ajax Amsterdam,AJA,Apoel Nicosia FC,APO,2,0,1-0,2-0,Johan Cruijff Arena,54990,Amsterdam
+2019-08-28 19:00:00,Qualification,Qualification,17,SK Slavia Prague,SLA,FC CFR 1907 Cluj,CFR,1,0,0-0,1-0,Sinobo Stadium,21000,Prague
+2019-08-28 19:00:00,Qualification,Qualification,17,Club Brugge,BRU,LASK,ASK,2,1,0-0,2-1,Jan Breydel Stadium,29975,Bruges
+2019-09-17 16:55:00,Group stage,F,1,Inter Milano,INT,SK Slavia Prague,SLA,1,1,0-0,1-1,Giuseppe Meazza,80018,Milan
+2019-09-17 16:55:00,Group stage,G,1,Olympique Lyonnais,OL,FC Zenit St Petersburg,ZEN,1,1,0-1,1-1,Groupama Stadium,59186,Lyon
+2019-09-17 19:00:00,Group stage,H,1,Ajax Amsterdam,AJA,LOSC Lille,LIL,3,0,1-0,3-0,Johan Cruijff Arena,54990,Amsterdam
+2019-09-17 19:00:00,Group stage,F,1,Borussia Dortmund,BVB,FC Barcelona,FCB,0,0,0-0,0-0,Signal Iduna Park,81365,Dortmund
+2019-09-17 19:00:00,Group stage,G,1,Sl Benfica,BEN,RB Leipzig,RBL,1,2,0-0,1-2,Estadio do Sport Lisboa e Benfica,64642,Lisbon
+2019-09-17 19:00:00,Group stage,E,1,SSC Napoli,NAP,Liverpool FC,LFC,2,0,0-0,2-0,Stadio San Paolo,60240,Naples
+2019-09-17 19:00:00,Group stage,H,1,Chelsea FC,CFC,CF Valencia,VCF,0,1,0-0,0-1,Stamford Bridge,41798,London
+2019-09-17 19:00:00,Group stage,E,1,FC Salzburg,SAL,KRC Genk,GEN,6,2,5-1,6-2,Red Bull Arena,30188,Salzburg
+2019-09-18 16:55:00,Group stage,B,1,Olympiacos FC,OLY,Tottenham Hotspur,TOT,2,2,1-2,2-2,Georgios Karaiskakis,32115,Piraeus
+2019-09-18 16:55:00,Group stage,A,1,Club Brugge,BRU,Galatasaray,GAL,0,0,0-0,0-0,Jan Breydel Stadium,29975,Bruges
+2019-09-18 19:00:00,Group stage,D,1,Atletico Madrid,ATM,Juventus Turin,JUV,2,2,0-0,2-2,Wanda Metropolitano,67942,Madrid
+2019-09-18 19:00:00,Group stage,C,1,GNK Dinamo Zagreb,DIN,Atalanta Bergamasca Calcio,ATA,4,0,3-0,4-0,Maksimir,35423,Zagreb
+2019-09-18 19:00:00,Group stage,C,1,FC Shakhtar Donetsk,SHA,Manchester City,MNC,0,3,0-2,0-3,Metalist Stadium,40003,Kharkiv
+2019-09-18 19:00:00,Group stage,B,1,FC Bayern Munich,FCB,FK Red Star Belgrade,CRZ,3,0,1-0,3-0,Allianz Arena,75000,Munich
+2019-09-18 19:00:00,Group stage,A,1,Paris Saint-Germain,PSG,Real Madrid,RMA,3,0,2-0,3-0,Parc des Princes,47929,Paris
+2019-09-18 19:00:00,Group stage,D,1,Bayer 04 Leverkusen,B04,FC Lokomotiv Moscow,LOK,1,2,1-2,1-2,BayArena,30210,Leverkusen
+2019-10-01 16:55:00,Group stage,C,2,Atalanta Bergamasca Calcio,ATA,FC Shakhtar Donetsk,SHA,1,2,1-1,1-2,Giuseppe Meazza,80018,Milan
+2019-10-01 16:55:00,Group stage,A,2,Real Madrid,RMA,Club Brugge,BRU,2,2,0-2,2-2,Santiago Bernabeu,81044,Madrid
+2019-10-01 19:00:00,Group stage,A,2,Galatasaray,GAL,Paris Saint-Germain,PSG,0,1,0-0,0-1,Ali Sami Yen Spor Kompleksi Turk Telekom Stadium,52223,Istanbul
+2019-10-01 19:00:00,Group stage,C,2,Manchester City,MNC,GNK Dinamo Zagreb,DIN,2,0,0-0,2-0,Etihad Stadium,46708,Manchester
+2019-10-01 19:00:00,Group stage,D,2,FC Lokomotiv Moscow,LOK,Atletico Madrid,ATM,0,2,0-0,0-2,RZD Arena,28800,Moscow
+2019-10-01 19:00:00,Group stage,B,2,FK Red Star Belgrade,CRZ,Olympiacos FC,OLY,3,1,0-1,3-1,Stadium Rajko Mitic,55538,Belgrade
+2019-10-01 19:00:00,Group stage,B,2,Tottenham Hotspur,TOT,FC Bayern Munich,FCB,2,7,1-2,2-7,Tottenham Hotspur Stadium,62000,London
+2019-10-01 19:00:00,Group stage,D,2,Juventus Turin,JUV,Bayer 04 Leverkusen,B04,3,0,1-0,3-0,Allianz Stadium,41507,Turin
+2019-10-02 16:55:00,Group stage,F,2,SK Slavia Prague,SLA,Borussia Dortmund,BVB,0,2,0-1,0-2,Sinobo Stadium,21000,Prague
+2019-10-02 16:55:00,Group stage,E,2,KRC Genk,GEN,SSC Napoli,NAP,0,0,0-0,0-0,Luminus Arena,24956,Genk
+2019-10-02 19:00:00,Group stage,E,2,Liverpool FC,LFC,FC Salzburg,SAL,4,3,3-1,4-3,Anfield,54074,Liverpool
+2019-10-02 19:00:00,Group stage,H,2,CF Valencia,VCF,Ajax Amsterdam,AJA,0,3,0-2,0-3,Mestalla,55000,Valencia
+2019-10-02 19:00:00,Group stage,G,2,FC Zenit St Petersburg,ZEN,Sl Benfica,BEN,3,1,1-0,3-1,Gazprom Arena,70000,Saint Petersburg
+2019-10-02 19:00:00,Group stage,F,2,FC Barcelona,FCB,Inter Milano,INT,2,1,0-1,2-1,Camp Nou,98787,Barcelona
+2019-10-02 19:00:00,Group stage,G,2,RB Leipzig,RBL,Olympique Lyonnais,OL,0,2,0-1,0-2,Red Bull Arena,42558,Leipzig
+2019-10-02 19:00:00,Group stage,H,2,LOSC Lille,LIL,Chelsea FC,CFC,1,2,1-1,1-2,Stade Pierre Mauroy,50186,Lille
+2019-10-22 16:55:00,Group stage,D,3,Atletico Madrid,ATM,Bayer 04 Leverkusen,B04,1,0,0-0,1-0,Wanda Metropolitano,67942,Madrid
+2019-10-22 16:55:00,Group stage,C,3,FC Shakhtar Donetsk,SHA,GNK Dinamo Zagreb,DIN,2,2,1-1,2-2,Metalist Stadium,40003,Kharkiv
+2019-10-22 19:00:00,Group stage,A,3,Club Brugge,BRU,Paris Saint-Germain,PSG,0,5,0-1,0-5,Jan Breydel Stadium,29975,Bruges
+2019-10-22 19:00:00,Group stage,C,3,Manchester City,MNC,Atalanta Bergamasca Calcio,ATA,5,1,2-1,5-1,Etihad Stadium,46708,Manchester
+2019-10-22 19:00:00,Group stage,B,3,Olympiacos FC,OLY,FC Bayern Munich,FCB,2,3,1-1,2-3,Georgios Karaiskakis,32115,Piraeus
+2019-10-22 19:00:00,Group stage,B,3,Tottenham Hotspur,TOT,FK Red Star Belgrade,CRZ,5,0,3-0,5-0,Tottenham Hotspur Stadium,62000,London
+2019-10-22 19:00:00,Group stage,D,3,Juventus Turin,JUV,FC Lokomotiv Moscow,LOK,2,1,0-1,2-1,Allianz Stadium,41507,Turin
+2019-10-22 19:00:00,Group stage,A,3,Galatasaray,GAL,Real Madrid,RMA,0,1,0-1,0-1,Ali Sami Yen Spor Kompleksi Turk Telekom Stadium,52223,Istanbul
+2019-10-23 16:55:00,Group stage,H,3,Ajax Amsterdam,AJA,Chelsea FC,CFC,0,1,0-0,0-1,Johan Cruijff Arena,54990,Amsterdam
+2019-10-23 16:55:00,Group stage,G,3,RB Leipzig,RBL,FC Zenit St Petersburg,ZEN,2,1,0-1,2-1,Red Bull Arena,42558,Leipzig
+2019-10-23 19:00:00,Group stage,E,3,KRC Genk,GEN,Liverpool FC,LFC,1,4,0-1,1-4,Luminus Arena,24956,Genk
+2019-10-23 19:00:00,Group stage,F,3,Inter Milano,INT,Borussia Dortmund,BVB,2,0,1-0,2-0,Giuseppe Meazza,80018,Milan
+2019-10-23 19:00:00,Group stage,F,3,SK Slavia Prague,SLA,FC Barcelona,FCB,1,2,0-1,1-2,Sinobo Stadium,21000,Prague
+2019-10-23 19:00:00,Group stage,E,3,FC Salzburg,SAL,SSC Napoli,NAP,2,3,1-1,2-3,Red Bull Arena,30188,Salzburg
+2019-10-23 19:00:00,Group stage,G,3,Sl Benfica,BEN,Olympique Lyonnais,OL,2,1,1-0,2-1,Estadio do Sport Lisboa e Benfica,64642,Lisbon
+2019-10-23 19:00:00,Group stage,H,3,LOSC Lille,LIL,CF Valencia,VCF,1,1,0-0,1-1,Stade Pierre Mauroy,50186,Lille
+2019-11-05 17:55:00,Group stage,F,4,FC Barcelona,FCB,SK Slavia Prague,SLA,0,0,0-0,0-0,Camp Nou,98787,Barcelona
+2019-11-05 17:55:00,Group stage,G,4,FC Zenit St Petersburg,ZEN,RB Leipzig,RBL,0,2,0-1,0-2,Gazprom Arena,70000,Saint Petersburg
+2019-11-05 20:00:00,Group stage,E,4,SSC Napoli,NAP,FC Salzburg,SAL,1,1,1-1,1-1,Stadio San Paolo,60240,Naples
+2019-11-05 20:00:00,Group stage,H,4,Chelsea FC,CFC,Ajax Amsterdam,AJA,4,4,1-3,4-4,Stamford Bridge,41798,London
+2019-11-05 20:00:00,Group stage,G,4,Olympique Lyonnais,OL,Sl Benfica,BEN,3,1,2-0,3-1,Groupama Stadium,59186,Lyon
+2019-11-05 20:00:00,Group stage,F,4,Borussia Dortmund,BVB,Inter Milano,INT,3,2,0-2,3-2,Signal Iduna Park,81365,Dortmund
+2019-11-05 20:00:00,Group stage,H,4,CF Valencia,VCF,LOSC Lille,LIL,4,1,0-1,4-1,Mestalla,55000,Valencia
+2019-11-05 20:00:00,Group stage,E,4,Liverpool FC,LFC,KRC Genk,GEN,2,1,1-1,2-1,Anfield,54074,Liverpool
+2019-11-06 17:55:00,Group stage,B,4,FC Bayern Munich,FCB,Olympiacos FC,OLY,2,0,0-0,2-0,Allianz Arena,75000,Munich
+2019-11-06 17:55:00,Group stage,D,4,FC Lokomotiv Moscow,LOK,Juventus Turin,JUV,1,2,1-1,1-2,RZD Arena,28800,Moscow
+2019-11-06 20:00:00,Group stage,C,4,GNK Dinamo Zagreb,DIN,FC Shakhtar Donetsk,SHA,3,3,1-1,3-3,Maksimir,35423,Zagreb
+2019-11-06 20:00:00,Group stage,D,4,Bayer 04 Leverkusen,B04,Atletico Madrid,ATM,2,1,1-0,2-1,BayArena,30210,Leverkusen
+2019-11-06 20:00:00,Group stage,B,4,FK Red Star Belgrade,CRZ,Tottenham Hotspur,TOT,0,4,0-1,0-4,Stadium Rajko Mitic,55538,Belgrade
+2019-11-06 20:00:00,Group stage,A,4,Paris Saint-Germain,PSG,Club Brugge,BRU,1,0,1-0,1-0,Parc des Princes,47929,Paris
+2019-11-06 20:00:00,Group stage,C,4,Atalanta Bergamasca Calcio,ATA,Manchester City,MNC,1,1,0-1,1-1,Giuseppe Meazza,80018,Milan
+2019-11-06 20:00:00,Group stage,A,4,Real Madrid,RMA,Galatasaray,GAL,6,0,4-0,6-0,Santiago Bernabeu,81044,Madrid
+2019-11-26 17:55:00,Group stage,D,5,FC Lokomotiv Moscow,LOK,Bayer 04 Leverkusen,B04,0,2,0-1,0-2,RZD Arena,28800,Moscow
+2019-11-26 17:55:00,Group stage,A,5,Galatasaray,GAL,Club Brugge,BRU,1,1,1-0,1-1,Ali Sami Yen Spor Kompleksi Turk Telekom Stadium,52223,Istanbul
+2019-11-26 20:00:00,Group stage,A,5,Real Madrid,RMA,Paris Saint-Germain,PSG,2,2,1-0,2-2,Santiago Bernabeu,81044,Madrid
+2019-11-26 20:00:00,Group stage,B,5,FK Red Star Belgrade,CRZ,FC Bayern Munich,FCB,0,6,0-1,0-6,Stadium Rajko Mitic,55538,Belgrade
+2019-11-26 20:00:00,Group stage,B,5,Tottenham Hotspur,TOT,Olympiacos FC,OLY,4,2,1-2,4-2,Tottenham Hotspur Stadium,62000,London
+2019-11-26 20:00:00,Group stage,C,5,Atalanta Bergamasca Calcio,ATA,GNK Dinamo Zagreb,DIN,2,0,1-0,2-0,Giuseppe Meazza,80018,Milan
+2019-11-26 20:00:00,Group stage,C,5,Manchester City,MNC,FC Shakhtar Donetsk,SHA,1,1,0-0,1-1,Etihad Stadium,46708,Manchester
+2019-11-26 20:00:00,Group stage,D,5,Juventus Turin,JUV,Atletico Madrid,ATM,1,0,1-0,1-0,Allianz Stadium,41507,Turin
+2019-11-27 17:55:00,Group stage,G,5,FC Zenit St Petersburg,ZEN,Olympique Lyonnais,OL,2,0,1-0,2-0,Gazprom Arena,70000,Saint Petersburg
+2019-11-27 17:55:00,Group stage,H,5,CF Valencia,VCF,Chelsea FC,CFC,2,2,1-1,2-2,Mestalla,55000,Valencia
+2019-11-27 20:00:00,Group stage,F,5,SK Slavia Prague,SLA,Inter Milano,INT,1,3,1-1,1-3,Sinobo Stadium,21000,Prague
+2019-11-27 20:00:00,Group stage,H,5,LOSC Lille,LIL,Ajax Amsterdam,AJA,0,2,0-1,0-2,Stade Pierre Mauroy,50186,Lille
+2019-11-27 20:00:00,Group stage,E,5,Liverpool FC,LFC,SSC Napoli,NAP,1,1,0-1,1-1,Anfield,54074,Liverpool
+2019-11-27 20:00:00,Group stage,F,5,FC Barcelona,FCB,Borussia Dortmund,BVB,3,1,2-0,3-1,Camp Nou,98787,Barcelona
+2019-11-27 20:00:00,Group stage,E,5,KRC Genk,GEN,FC Salzburg,SAL,1,4,0-2,1-4,Luminus Arena,24956,Genk
+2019-11-27 20:00:00,Group stage,G,5,RB Leipzig,RBL,Sl Benfica,BEN,2,2,0-1,2-2,Red Bull Arena,42558,Leipzig
+2019-12-10 17:55:00,Group stage,E,6,SSC Napoli,NAP,KRC Genk,GEN,4,0,3-0,4-0,Stadio San Paolo,60240,Naples
+2019-12-10 17:55:00,Group stage,E,6,FC Salzburg,SAL,Liverpool FC,LFC,0,2,0-0,0-2,Red Bull Arena,30188,Salzburg
+2019-12-10 20:00:00,Group stage,H,6,Ajax Amsterdam,AJA,CF Valencia,VCF,0,1,0-1,0-1,Johan Cruijff Arena,54990,Amsterdam
+2019-12-10 20:00:00,Group stage,G,6,Sl Benfica,BEN,FC Zenit St Petersburg,ZEN,3,0,0-0,3-0,Estadio do Sport Lisboa e Benfica,64642,Lisbon
+2019-12-10 20:00:00,Group stage,G,6,Olympique Lyonnais,OL,RB Leipzig,RBL,2,2,0-2,2-2,Groupama Stadium,59186,Lyon
+2019-12-10 20:00:00,Group stage,F,6,Inter Milano,INT,FC Barcelona,FCB,1,2,1-1,1-2,Giuseppe Meazza,80018,Milan
+2019-12-10 20:00:00,Group stage,F,6,Borussia Dortmund,BVB,SK Slavia Prague,SLA,2,1,1-1,2-1,Signal Iduna Park,81365,Dortmund
+2019-12-10 20:00:00,Group stage,H,6,Chelsea FC,CFC,LOSC Lille,LIL,2,1,2-0,2-1,Stamford Bridge,41798,London
+2019-12-11 17:55:00,Group stage,C,6,GNK Dinamo Zagreb,DIN,Manchester City,MNC,1,4,1-1,1-4,Maksimir,35423,Zagreb
+2019-12-11 17:55:00,Group stage,C,6,FC Shakhtar Donetsk,SHA,Atalanta Bergamasca Calcio,ATA,0,3,0-0,0-3,Metalist Stadium,40003,Kharkiv
+2019-12-11 20:00:00,Group stage,A,6,Paris Saint-Germain,PSG,Galatasaray,GAL,5,0,2-0,5-0,Parc des Princes,47929,Paris
+2019-12-11 20:00:00,Group stage,D,6,Bayer 04 Leverkusen,B04,Juventus Turin,JUV,0,2,0-0,0-2,BayArena,30210,Leverkusen
+2019-12-11 20:00:00,Group stage,B,6,Olympiacos FC,OLY,FK Red Star Belgrade,CRZ,1,0,0-0,1-0,Georgios Karaiskakis,32115,Piraeus
+2019-12-11 20:00:00,Group stage,B,6,FC Bayern Munich,FCB,Tottenham Hotspur,TOT,3,1,2-1,3-1,Allianz Arena,75000,Munich
+2019-12-11 20:00:00,Group stage,A,6,Club Brugge,BRU,Real Madrid,RMA,1,3,0-0,1-3,Jan Breydel Stadium,29975,Bruges
+2019-12-11 20:00:00,Group stage,D,6,Atletico Madrid,ATM,FC Lokomotiv Moscow,LOK,2,0,1-0,2-0,Wanda Metropolitano,67942,Madrid
+2020-02-18 20:00:00,Playoffs,Knockout stage,4,Borussia Dortmund,BVB,Paris Saint-Germain,PSG,2,1,0-0,2-1,Signal Iduna Park,81365,Dortmund
+2020-02-18 20:00:00,Playoffs,Knockout stage,4,Atletico Madrid,ATM,Liverpool FC,LFC,1,0,1-0,1-0,Wanda Metropolitano,67942,Madrid
+2020-02-19 20:00:00,Playoffs,Knockout stage,4,Tottenham Hotspur,TOT,RB Leipzig,RBL,0,1,0-0,0-1,Tottenham Hotspur Stadium,62000,London
+2020-02-19 20:00:00,Playoffs,Knockout stage,4,Atalanta Bergamasca Calcio,ATA,CF Valencia,VCF,4,1,2-0,4-1,Giuseppe Meazza,80018,Milan
+2020-02-25 20:00:00,Playoffs,Knockout stage,4,SSC Napoli,NAP,FC Barcelona,FCB,1,1,1-0,1-1,Stadio San Paolo,60240,Naples
+2020-02-25 20:00:00,Playoffs,Knockout stage,4,Chelsea FC,CFC,FC Bayern Munich,FCB,0,3,0-0,0-3,Stamford Bridge,41798,London
+2020-02-26 20:00:00,Playoffs,Knockout stage,4,Olympique Lyonnais,OL,Juventus Turin,JUV,1,0,1-0,1-0,Groupama Stadium,59186,Lyon
+2020-02-26 20:00:00,Playoffs,Knockout stage,4,Real Madrid,RMA,Manchester City,MNC,1,2,0-0,1-2,Santiago Bernabeu,81044,Madrid
+2020-03-10 20:00:00,Playoffs,Knockout stage,4,CF Valencia,VCF,Atalanta Bergamasca Calcio,ATA,3,4,1-2,3-4,Mestalla,55000,Valencia
+2020-03-10 20:00:00,Playoffs,Knockout stage,4,RB Leipzig,RBL,Tottenham Hotspur,TOT,3,0,2-0,3-0,Red Bull Arena,42558,Leipzig
+2020-03-11 20:00:00,Playoffs,Knockout stage,4,Paris Saint-Germain,PSG,Borussia Dortmund,BVB,2,0,2-0,2-0,Parc des Princes,47929,Paris
+2020-03-11 20:00:00,Playoffs,Knockout stage,4,Liverpool FC,LFC,Atletico Madrid,ATM,2,3,1-0,1-0,Anfield,54074,Liverpool
+2020-03-17 20:00:00,Playoffs,Knockout stage,4,Manchester City,MNC,Real Madrid,RMA,0,0,,,Etihad Stadium,46708,Manchester
+2020-03-17 20:00:00,Playoffs,Knockout stage,4,Juventus Turin,JUV,Olympique Lyonnais,OL,0,0,,,Allianz Stadium,41507,Turin
+2020-03-18 20:00:00,Playoffs,Knockout stage,4,FC Bayern Munich,FCB,Chelsea FC,CFC,0,0,,,Allianz Arena,75000,Munich
+2020-03-18 20:00:00,Playoffs,Knockout stage,4,FC Barcelona,FCB,SSC Napoli,NAP,0,0,,,Camp Nou,98787,Barcelona
+2020-08-07 19:00:00,Playoffs,Knockout stage,1/8 - finals,Juventus Turin,JUV,Olympique Lyonnais,OL,2,1,1-1,2-1,Allianz Stadium,41507,Turin
+2020-08-07 19:00:00,Playoffs,Knockout stage,1/8 - finals,Manchester City,MNC,Real Madrid,RMA,2,1,1-1,2-1,Etihad Stadium,46708,Manchester
+2020-08-08 19:00:00,Playoffs,Knockout stage,1/8 - finals,FC Barcelona,FCB,SSC Napoli,NAP,3,1,3-1,3-1,Camp Nou,98787,Barcelona
+2020-08-08 19:00:00,Playoffs,Knockout stage,1/8 - finals,FC Bayern Munich,FCB,Chelsea FC,CFC,4,1,2-1,4-1,Allianz Arena,75000,Munich
+2020-08-12 19:00:00,Playoffs,Knockout stage,Quarter-finals,Atalanta Bergamasca Calcio,ATA,Paris Saint-Germain,PSG,1,2,1-0,1-2,Estadio do Sport Lisboa e Benfica,64642,Lisbon
+2020-08-13 19:00:00,Playoffs,Knockout stage,Quarter-finals,RB Leipzig,RBL,Atletico Madrid,ATM,2,1,0-0,2-1,Jose Alvalade,50044,Lisbon
+2020-08-14 19:00:00,Playoffs,Knockout stage,Quarter-finals,FC Barcelona,FCB,FC Bayern Munich,FCB,2,8,1-4,2-8,Estadio do Sport Lisboa e Benfica,64642,Lisbon
+2020-08-15 19:00:00,Playoffs,Knockout stage,Quarter-finals,Manchester City,MNC,Olympique Lyonnais,OL,1,3,0-1,1-3,Jose Alvalade,50044,Lisbon
+2020-08-18 19:00:00,Playoffs,Knockout stage,Semi-finals,RB Leipzig,RBL,Paris Saint-Germain,PSG,0,3,0-2,0-3,Estadio do Sport Lisboa e Benfica,64642,Lisbon
+2020-08-19 19:00:00,Playoffs,Knockout stage,Semi-finals,Olympique Lyonnais,OL,FC Bayern Munich,FCB,0,3,0-2,0-3,Jose Alvalade,50044,Lisbon
+2020-08-23 19:00:00,Playoffs,Knockout stage,Final,Paris Saint-Germain,PSG,FC Bayern Munich,FCB,0,1,0-0,0-1,Estadio do Sport Lisboa e Benfica,64642,Lisbon

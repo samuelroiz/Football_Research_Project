@@ -1,0 +1,180 @@
+match_start,stage_name,group_name,round_name,home_team_name,home_team_short_code,away_team_name,away_team_short_code,stats_home_score,stats_away_score,stats_halftime_score,stats_fulltime_score,venue_name,venue_capacity,venue_city
+2020-08-08 13:00:00,Qualification,Preliminary Round,Semi-finals,SP Tre Fiori,TRF,Linfield FC,LIN,0,2,0-0,0-2,NaN,NaN,NaN
+2020-08-08 17:30:00,Qualification,Preliminary Round,Semi-finals,KF Drita,DRI,Inter Club de Escaldes,ESC,2,1,2-1,2-1,NaN,NaN,NaN
+2020-08-11 16:00:00,Qualification,Preliminary Round,Final,KF Drita,DRI,Linfield FC,LIN,0,0,,,NaN,NaN,NaN
+2020-08-18 16:00:00,Qualification,Qualification,Qualification Round 1,Qarabag FK,QAR,FK Sileks Kratovo,SIK,4,0,2-0,4-0,Tofik Bakhramov,31200,Baku
+2020-08-18 17:00:00,Qualification,Qualification,Qualification Round 1,Legia Warsaw,LEG,Linfield FC,LIN,1,0,0-0,1-0,Municipal Stadium of Marshal Jozef Pilsudski,15016,
+2020-08-18 18:00:00,Qualification,Qualification,Qualification Round 1,FC Brest,BRE,FC Astana,FCA,6,3,4-1,6-3,Regional Sport Complex Brestskiy,10169,Brest
+2020-08-18 18:45:00,Qualification,Qualification,Qualification Round 1,Celtic Glasgow,CEL,KR Reykjavik,KRR,6,0,3-0,6-0,Celtic Park,60411,Glasgow
+2020-08-18 19:00:00,Qualification,Qualification,Qualification Round 1,FK Red Star Belgrade,CRZ,College Europa FC,EUR,5,0,2-0,5-0,Stadium Rajko Mitic,55538,Belgrade
+2020-08-19 15:00:00,Qualification,Qualification,Qualification Round 1,FC Ararat Armenia,ARA,AC Omonia Nicosia,OMO,0,1,0-0,0-0,Vazgen Sargsyan Republican Stadium,14403,Yerevan
+2020-08-19 16:00:00,Qualification,Qualification,Qualification Round 1,Molde FK,MFK,Kuopion Palloseura,KUP,5,0,2-0,5-0,Aker Stadion,11249,Molde
+2020-08-19 16:30:00,Qualification,Qualification,Qualification Round 1,FC Flora Tallinn,FLO,FK Suduva Marijampole,SUD,3,5,0-0,1-1,A. Le Coq Arena,15000,Tallinn
+2020-08-19 17:00:00,Qualification,Qualification,Qualification Round 1,FC Dinamo Tbilisi,TBI,KF Tirana,KFT,0,2,0-1,0-2,Boris Paichadze Dinamo Arena,54549,Tbilisi
+2020-08-19 17:00:00,Qualification,Qualification,Qualification Round 1,Ferencvarosi TC,FTC,Djurgardens IF,DJU,2,0,1-0,2-0,Groupama Arena,22000,Budapest
+2020-08-19 17:00:00,Qualification,Qualification,Qualification Round 1,Maccabi Tel Aviv FC,MTA,Riga FC	,RFC,2,0,0-0,2-0,Bloomfield,29150,Tel Aviv
+2020-08-19 17:00:00,Qualification,Qualification,Qualification Round 1,NK Celje,CEL,Dundalk FC,DUN,3,0,1-0,3-0,Megyeri uti,13501,Budapest
+2020-08-19 18:00:00,Qualification,Qualification,Qualification Round 1,ConnahÂ´s Quay Nomads FC,CQN,FK Sarajevo,FKS,0,2,0-1,0-2,Cardiff City Stadium,26828,Cardiff
+2020-08-19 18:00:00,Qualification,Qualification,Qualification Round 1,FC Sheriff Tiraspol,SHF,CS Fola Esch,FES,2,0,1-0,2-0,Sheriff Stadium,14000,Tiraspol
+2020-08-19 18:00:00,Qualification,Qualification,Qualification Round 1,FK Buducnost,BUD,Ludogorets 1945 Razgrad,LUD,1,3,1-2,1-3,Podgorica City Stadium,17000,Podgorica
+2020-08-19 19:00:00,Qualification,Qualification,Qualification Round 1,Floriana FC,FLO,FC CFR 1907 Cluj,CFR,0,2,0-0,0-2,Independence Ground,3000,Floriana
+2020-08-21 16:00:00,Qualification,Qualification,Qualification Round 1,KI Klaksvik,KI,SK Slovan Bratislava,SLB,0,0,,,Vid Djupumyrar,2500,KlaksvÃ­k
+2020-08-25 18:00:00,Qualification,Qualification,Qualification Round 2,PAOK FC,PAOK,Besiktas,BES,3,1,3-1,3-1,Toumba Stadium,28703,Thessaloniki
+2020-08-25 18:00:00,Qualification,Qualification,Qualification Round 2,KF Tirana,KFT,FK Red Star Belgrade,CRZ,0,1,0-0,0-1,Arena KombÃ«tare,22500,Tirana
+2020-08-26 14:30:00,Qualification,Qualification,Qualification Round 2,AZ Alkmaar,AZA,FC Viktoria Plzen,VIK,3,1,0-0,1-1,AFAS Stadion,17023,Alkmaar
+2020-08-26 16:00:00,Qualification,Qualification,Qualification Round 2,FK Suduva Marijampole,SUD,Maccabi Tel Aviv FC,MTA,0,3,0-1,0-3,Arvi arena,6500,Marijampole
+2020-08-26 16:00:00,Qualification,Qualification,Qualification Round 2,NK Celje,CEL,Molde FK,MFK,1,2,1-0,1-2,Arena Zâ€™dezele,13059,Celje
+2020-08-26 16:00:00,Qualification,Qualification,Qualification Round 2,Qarabag FK,QAR,FC Sheriff Tiraspol,SHF,2,1,1-0,2-1,Tofik Bakhramov,31200,Baku
+2020-08-26 17:00:00,Qualification,Qualification,Qualification Round 2,NK Lokomotiva Zagreb,LOK,SK Rapid Wien,SCR,0,1,0-1,0-1,Kranjceviceva,8850,Zagreb
+2020-08-26 17:30:00,Qualification,Qualification,Qualification Round 2,Ludogorets 1945 Razgrad,LUD,FC Midtjylland,MJY,0,1,0-0,0-1,Ludogorets Arena,10422,Razgrad
+2020-08-26 18:00:00,Qualification,Qualification,Qualification Round 2,FC Brest,BRE,FK Sarajevo,FKS,2,1,1-1,2-1,Regional Sport Complex Brestskiy,10169,Brest
+2020-08-26 18:00:00,Qualification,Qualification,Qualification Round 2,FC CFR 1907 Cluj,CFR,GNK Dinamo Zagreb,DIN,7,8,0-1,2-2,Dr. Constantin Radulescu,23500,Cluj Napoca
+2020-08-26 18:00:00,Qualification,Qualification,Qualification Round 2,Legia Warsaw,LEG,AC Omonia Nicosia,OMO,0,2,0-0,0-0,Municipal Stadium of Marshal Jozef Pilsudski,15016,
+2020-08-26 18:15:00,Qualification,Qualification,Qualification Round 2,BSC Young Boys,YB,KI Klaksvik,KI,3,1,0-0,3-1,Stade de Suisse,31789,Bern
+2020-08-26 18:45:00,Qualification,Qualification,Qualification Round 2,Celtic Glasgow,CEL,Ferencvarosi TC,FTC,1,2,0-1,1-2,Celtic Park,60411,Glasgow
+2020-09-15 17:00:00,Qualification,Qualification,Qualification Round 3,FC Dynamo Kiev,DYK,AZ Alkmaar,AZA,2,0,0-0,2-0,Olimpiysky National Sports Complex,70050,Kiev
+2020-09-15 18:00:00,Qualification,Qualification,Qualification Round 3,PAOK FC,PAOK,Sl Benfica,BEN,2,1,0-0,2-1,Toumba Stadium,28703,Thessaloniki
+2020-09-15 18:30:00,Qualification,Qualification,Qualification Round 3,KAA Gent,KAA,SK Rapid Wien,SCR,2,1,1-0,2-1,Ghelamco Arena,20000,Gent
+2020-09-16 15:00:00,Qualification,Qualification,Qualification Round 3,AC Omonia Nicosia,OMO,FK Red Star Belgrade,CRZ,5,3,1-1,1-1,GSP Stadium,22859,Nicosia
+2020-09-16 17:00:00,Qualification,Qualification,Qualification Round 3,Qarabag FK,QAR,Molde FK,MFK,5,6,0-0,0-0,AEK Arena,8000,Larnaca
+2020-09-16 17:00:00,Qualification,Qualification,Qualification Round 3,Ferencvarosi TC,FTC,GNK Dinamo Zagreb,DIN,2,1,1-1,2-1,Groupama Arena,22000,Budapest
+2020-09-16 17:00:00,Qualification,Qualification,Qualification Round 3,Maccabi Tel Aviv FC,MTA,FC Brest,BRE,1,0,0-0,1-0,Bloomfield,29150,Tel Aviv
+2020-09-16 18:30:00,Qualification,Qualification,Qualification Round 3,FC Midtjylland,MJY,BSC Young Boys,YB,3,0,0-0,3-0,MCH Arena,11809,Herning
+2020-09-22 19:00:00,Qualification,Qualification,Qualification Round 4,FC Krasnodar,KRA,PAOK FC,PAOK,2,1,1-1,2-1,Krasnodar Stadium,35074,Krasnodar
+2020-09-22 19:00:00,Qualification,Qualification,Qualification Round 4,Maccabi Tel Aviv FC,MTA,FC Salzburg,SAL,1,2,1-0,1-2,Bloomfield,29150,Tel Aviv
+2020-09-22 19:00:00,Qualification,Qualification,Qualification Round 4,SK Slavia Prague,SLA,FC Midtjylland,MJY,0,0,0-0,0-0,Sinobo Stadium,21000,Prague
+2020-09-23 19:00:00,Qualification,Qualification,Qualification Round 4,KAA Gent,KAA,FC Dynamo Kiev,DYK,1,2,1-1,1-2,Ghelamco Arena,20000,Gent
+2020-09-23 19:00:00,Qualification,Qualification,Qualification Round 4,Molde FK,MFK,Ferencvarosi TC,FTC,3,3,0-1,3-3,Aker Stadion,11249,Molde
+2020-09-23 19:00:00,Qualification,Qualification,Qualification Round 4,Olympiacos FC,OLY,AC Omonia Nicosia,OMO,2,0,0-0,2-0,Georgios Karaiskakis,32115,Piraeus
+2020-09-29 19:00:00,Qualification,Qualification,Qualification Round 4,AC Omonia Nicosia,OMO,Olympiacos FC,OLY,0,0,0-0,0-0,GSP Stadium,22859,Nicosia
+2020-09-29 19:00:00,Qualification,Qualification,Qualification Round 4,Ferencvarosi TC,FTC,Molde FK,MFK,0,0,0-0,0-0,Groupama Arena,22000,Budapest
+2020-09-29 19:00:00,Qualification,Qualification,Qualification Round 4,FC Dynamo Kiev,DYK,KAA Gent,KAA,3,0,2-0,3-0,Olimpiysky National Sports Complex,70050,Kiev
+2020-09-30 19:00:00,Qualification,Qualification,Qualification Round 4,FC Midtjylland,MJY,SK Slavia Prague,SLA,4,1,0-1,4-1,MCH Arena,11809,Herning
+2020-09-30 19:00:00,Qualification,Qualification,Qualification Round 4,FC Salzburg,SAL,Maccabi Tel Aviv FC,MTA,3,1,2-1,3-1,Red Bull Arena,30188,Salzburg
+2020-09-30 19:00:00,Qualification,Qualification,Qualification Round 4,PAOK FC,PAOK,FC Krasnodar,KRA,1,2,0-0,1-2,Toumba Stadium,28703,Thessaloniki
+2020-10-20 19:00:00,Group stage,F,1,SS Lazio Roma,LAZ,Borussia Dortmund,BVB,3,1,2-0,3-1,Stadio Olimpico,70634,Rome
+2020-10-20 16:55:00,Group stage,F,1,FC Zenit St Petersburg,ZEN,Club Brugge,BRU,1,2,0-0,1-2,Gazprom Arena,70000,Saint Petersburg
+2020-10-20 16:55:00,Group stage,G,1,FC Dynamo Kiev,DYK,Juventus Turin,JUV,0,2,0-0,0-2,Olimpiysky National Sports Complex,70050,Kiev
+2020-10-20 19:00:00,Group stage,E,1,Chelsea FC,CFC,FC Sevilla,SEV,0,0,0-0,0-0,Stamford Bridge,41798,London
+2020-10-20 19:00:00,Group stage,G,1,FC Barcelona,FCB,Ferencvarosi TC,FTC,5,1,2-0,5-1,Camp Nou,98787,Barcelona
+2020-10-20 19:00:00,Group stage,H,1,RB Leipzig,RBL,Basaksehir FK,BAS,2,0,2-0,2-0,Red Bull Arena,42558,Leipzig
+2020-10-20 19:00:00,Group stage,E,1,FC Stade Rennes,REN,FC Krasnodar,KRA,1,1,0-0,1-1,Roazhon Park,29778,Rennes
+2020-10-20 19:00:00,Group stage,H,1,Paris Saint-Germain,PSG,Manchester United,MNU,1,2,0-1,1-2,Parc des Princes,47929,Paris
+2020-10-21 16:55:00,Group stage,A,1,FC Salzburg,SAL,FC Lokomotiv Moscow,LOK,2,2,1-1,2-2,Red Bull Arena,30188,Salzburg
+2020-10-21 16:55:00,Group stage,B,1,Real Madrid,RMA,FC Shakhtar Donetsk,SHA,2,3,0-3,2-3,Estadio Alfredo di Stefano,8400,Madrid
+2020-10-21 19:00:00,Group stage,A,1,FC Bayern Munich,FCB,Atletico Madrid,ATM,4,0,2-0,4-0,Allianz Arena,75000,Munich
+2020-10-21 19:00:00,Group stage,B,1,Inter Milano,INT,Borussia Monchengladbach,BMG,2,2,0-0,2-2,Giuseppe Meazza,80018,Milan
+2020-10-21 19:00:00,Group stage,C,1,Manchester City,MNC,FC Porto,FCP,3,1,1-1,3-1,Etihad Stadium,46708,Manchester
+2020-10-21 19:00:00,Group stage,C,1,Olympiacos FC,OLY,Olympique Marseille,OM,1,0,0-0,1-0,Georgios Karaiskakis,32115,Piraeus
+2020-10-21 19:00:00,Group stage,D,1,Ajax Amsterdam,AJA,Liverpool FC,LFC,0,1,0-1,0-1,Johan Cruijff Arena,54990,Amsterdam
+2020-10-21 19:00:00,Group stage,D,1,FC Midtjylland,MJY,Atalanta Bergamasca Calcio,ATA,0,4,0-3,0-4,MCH Arena,11809,Herning
+2020-10-27 17:55:00,Group stage,A,2,FC Lokomotiv Moscow,LOK,FC Bayern Munich,FCB,1,2,0-1,1-2,RZD Arena,28800,Moscow
+2020-10-27 17:55:00,Group stage,B,2,FC Shakhtar Donetsk,SHA,Inter Milano,INT,0,0,0-0,0-0,Olimpiysky National Sports Complex,70050,Kiev
+2020-10-27 20:00:00,Group stage,A,2,Atletico Madrid,ATM,FC Salzburg,SAL,3,2,1-1,3-2,Wanda Metropolitano,67942,Madrid
+2020-10-27 20:00:00,Group stage,B,2,Borussia Monchengladbach,BMG,Real Madrid,RMA,2,2,1-0,2-2,Borussia-Park,54057,Monchengladbach
+2020-10-27 20:00:00,Group stage,C,2,FC Porto,FCP,Olympiacos FC,OLY,2,0,1-0,2-0,Estadio do Dragao,52033,Porto
+2020-10-27 20:00:00,Group stage,C,2,Olympique Marseille,OM,Manchester City,MNC,0,3,0-1,0-3,Orange Velodrome,67000,Marseille
+2020-10-27 20:00:00,Group stage,D,2,Atalanta Bergamasca Calcio,ATA,Ajax Amsterdam,AJA,2,2,0-2,2-2,Gewiss Stadium,26393,Bergamo
+2020-10-27 20:00:00,Group stage,D,2,Liverpool FC,LFC,FC Midtjylland,MJY,2,0,0-0,2-0,Anfield,54074,Liverpool
+2020-10-28 17:55:00,Group stage,E,2,FC Krasnodar,KRA,Chelsea FC,CFC,0,4,0-1,0-4,Krasnodar Stadium,35074,Krasnodar
+2020-10-28 17:55:00,Group stage,H,2,Basaksehir FK,BAS,Paris Saint-Germain,PSG,0,2,0-0,0-2,Basaksehir Fatih Terim Stadium,17156,Istanbul
+2020-10-28 20:00:00,Group stage,E,2,FC Sevilla,SEV,FC Stade Rennes,REN,1,0,0-0,1-0,Ramon Sanchez Pizjuan,45500,Seville
+2020-10-28 20:00:00,Group stage,F,2,Borussia Dortmund,BVB,FC Zenit St Petersburg,ZEN,2,0,0-0,2-0,Signal Iduna Park,81365,Dortmund
+2020-10-28 20:00:00,Group stage,F,2,Club Brugge,BRU,SS Lazio Roma,LAZ,1,1,1-1,1-1,Jan Breydel Stadium,29975,Bruges
+2020-10-28 20:00:00,Group stage,G,2,Ferencvarosi TC,FTC,FC Dynamo Kiev,DYK,2,2,0-2,2-2,Groupama Arena,22000,Budapest
+2020-10-28 20:00:00,Group stage,G,2,Juventus Turin,JUV,FC Barcelona,FCB,0,2,0-1,0-2,Allianz Stadium,41507,Turin
+2020-10-28 20:00:00,Group stage,H,2,Manchester United,MNU,RB Leipzig,RBL,5,0,1-0,5-0,Old Trafford,75635,Manchester
+2020-11-03 17:55:00,Group stage,A,3,FC Lokomotiv Moscow,LOK,Atletico Madrid,ATM,1,1,1-1,1-1,RZD Arena,28800,Moscow
+2020-11-03 17:55:00,Group stage,B,3,FC Shakhtar Donetsk,SHA,Borussia Monchengladbach,BMG,0,6,0-4,0-6,Olimpiysky National Sports Complex,70050,Kiev
+2020-11-03 20:00:00,Group stage,C,3,Manchester City,MNC,Olympiacos FC,OLY,3,0,1-0,3-0,Etihad Stadium,46708,Manchester
+2020-11-03 20:00:00,Group stage,D,3,FC Midtjylland,MJY,Ajax Amsterdam,AJA,1,2,1-2,1-2,MCH Arena,11809,Herning
+2020-11-03 20:00:00,Group stage,D,3,Atalanta Bergamasca Calcio,ATA,Liverpool FC,LFC,0,5,0-2,0-5,Gewiss Stadium,26393,Bergamo
+2020-11-03 20:00:00,Group stage,A,3,FC Salzburg,SAL,FC Bayern Munich,FCB,2,6,1-2,2-6,Red Bull Arena,30188,Salzburg
+2020-11-03 20:00:00,Group stage,B,3,Real Madrid,RMA,Inter Milano,INT,3,2,2-1,3-2,Estadio Alfredo di Stefano,8400,Madrid
+2020-11-03 20:00:00,Group stage,C,3,FC Porto,FCP,Olympique Marseille,OM,3,0,2-0,3-0,Estadio do Dragao,52033,Porto
+2020-11-04 17:55:00,Group stage,H,3,Basaksehir FK,BAS,Manchester United,MNU,2,1,2-1,2-1,Basaksehir Fatih Terim Stadium,17156,Istanbul
+2020-11-04 17:55:00,Group stage,F,3,FC Zenit St Petersburg,ZEN,SS Lazio Roma,LAZ,1,1,1-0,1-1,Gazprom Arena,70000,Saint Petersburg
+2020-11-04 20:00:00,Group stage,F,3,Club Brugge,BRU,Borussia Dortmund,BVB,0,3,0-3,0-3,Jan Breydel Stadium,29975,Bruges
+2020-11-04 20:00:00,Group stage,H,3,RB Leipzig,RBL,Paris Saint-Germain,PSG,2,1,1-1,2-1,Red Bull Arena,42558,Leipzig
+2020-11-04 20:00:00,Group stage,G,3,Ferencvarosi TC,FTC,Juventus Turin,JUV,1,4,0-1,1-4,Groupama Arena,22000,Budapest
+2020-11-04 20:00:00,Group stage,E,3,Chelsea FC,CFC,FC Stade Rennes,REN,3,0,2-0,3-0,Stamford Bridge,41798,London
+2020-11-04 20:00:00,Group stage,G,3,FC Barcelona,FCB,FC Dynamo Kiev,DYK,2,1,1-0,2-1,Camp Nou,98787,Barcelona
+2020-11-04 20:00:00,Group stage,E,3,FC Sevilla,SEV,FC Krasnodar,KRA,3,2,1-2,3-2,Ramon Sanchez Pizjuan,45500,Seville
+2020-11-24 17:55:00,Group stage,E,4,FC Krasnodar,KRA,FC Sevilla,SEV,1,2,0-1,1-2,Krasnodar Stadium,35074,Krasnodar
+2020-11-24 17:55:00,Group stage,E,4,FC Stade Rennes,REN,Chelsea FC,CFC,1,2,0-1,1-2,Roazhon Park,29778,Rennes
+2020-11-24 20:00:00,Group stage,G,4,Juventus Turin,JUV,Ferencvarosi TC,FTC,2,1,1-1,2-1,Allianz Stadium,41507,Turin
+2020-11-24 20:00:00,Group stage,H,4,Manchester United,MNU,Basaksehir FK,BAS,4,1,3-0,4-1,Old Trafford,75635,Manchester
+2020-11-24 20:00:00,Group stage,H,4,Paris Saint-Germain,PSG,RB Leipzig,RBL,1,0,1-0,1-0,Parc des Princes,47929,Paris
+2020-11-24 20:00:00,Group stage,G,4,FC Dynamo Kiev,DYK,FC Barcelona,FCB,0,4,0-0,0-4,Olimpiysky National Sports Complex,70050,Kiev
+2020-11-24 20:00:00,Group stage,F,4,SS Lazio Roma,LAZ,FC Zenit St Petersburg,ZEN,3,1,2-1,3-1,Stadio Olimpico,70634,Rome
+2020-11-24 20:00:00,Group stage,F,4,Borussia Dortmund,BVB,Club Brugge,BRU,3,0,2-0,3-0,Signal Iduna Park,81365,Dortmund
+2020-11-25 17:55:00,Group stage,C,4,Olympiacos FC,OLY,Manchester City,MNC,0,1,0-1,0-1,Georgios Karaiskakis,32115,Piraeus
+2020-11-25 17:55:00,Group stage,B,4,Borussia Monchengladbach,BMG,FC Shakhtar Donetsk,SHA,4,0,3-0,4-0,Borussia-Park,54057,Monchengladbach
+2020-11-25 20:00:00,Group stage,C,4,Olympique Marseille,OM,FC Porto,FCP,0,2,0-1,0-2,Orange Velodrome,67000,Marseille
+2020-11-25 20:00:00,Group stage,A,4,FC Bayern Munich,FCB,FC Salzburg,SAL,3,1,1-0,3-1,Allianz Arena,75000,Munich
+2020-11-25 20:00:00,Group stage,A,4,Atletico Madrid,ATM,FC Lokomotiv Moscow,LOK,0,0,0-0,0-0,Wanda Metropolitano,67942,Madrid
+2020-11-25 20:00:00,Group stage,B,4,Inter Milano,INT,Real Madrid,RMA,0,2,0-1,0-2,Giuseppe Meazza,80018,Milan
+2020-11-25 20:00:00,Group stage,D,4,Ajax Amsterdam,AJA,FC Midtjylland,MJY,3,1,0-0,3-1,Johan Cruijff Arena,54990,Amsterdam
+2020-11-25 20:00:00,Group stage,D,4,Liverpool FC,LFC,Atalanta Bergamasca Calcio,ATA,0,2,0-0,0-2,Anfield,54074,Liverpool
+2020-12-01 17:55:00,Group stage,A,5,FC Lokomotiv Moscow,LOK,FC Salzburg,SAL,1,3,0-2,1-3,RZD Arena,28800,Moscow
+2020-12-01 17:55:00,Group stage,B,5,FC Shakhtar Donetsk,SHA,Real Madrid,RMA,2,0,0-0,2-0,Olimpiysky National Sports Complex,70050,Kiev
+2020-12-01 20:00:00,Group stage,A,5,Atletico Madrid,ATM,FC Bayern Munich,FCB,1,1,1-0,1-1,Wanda Metropolitano,67942,Madrid
+2020-12-01 20:00:00,Group stage,D,5,Atalanta Bergamasca Calcio,ATA,FC Midtjylland,MJY,1,1,0-1,1-1,Gewiss Stadium,26393,Bergamo
+2020-12-01 20:00:00,Group stage,B,5,Borussia Monchengladbach,BMG,Inter Milano,INT,2,3,1-1,2-3,Borussia-Park,54057,Monchengladbach
+2020-12-01 20:00:00,Group stage,C,5,Olympique Marseille,OM,Olympiacos FC,OLY,2,1,0-1,2-1,Orange Velodrome,67000,Marseille
+2020-12-01 20:00:00,Group stage,C,5,FC Porto,FCP,Manchester City,MNC,0,0,0-0,0-0,Estadio do Dragao,52033,Porto
+2020-12-01 20:00:00,Group stage,D,5,Liverpool FC,LFC,Ajax Amsterdam,AJA,1,0,0-0,1-0,Anfield,54074,Liverpool
+2020-12-02 17:55:00,Group stage,E,5,FC Krasnodar,KRA,FC Stade Rennes,REN,1,0,0-0,1-0,Krasnodar Stadium,35074,Krasnodar
+2020-12-02 20:00:00,Group stage,E,5,FC Sevilla,SEV,Chelsea FC,CFC,0,4,0-1,0-4,Ramon Sanchez Pizjuan,45500,Seville
+2020-12-02 20:00:00,Group stage,F,5,Borussia Dortmund,BVB,SS Lazio Roma,LAZ,1,1,1-0,1-1,Signal Iduna Park,81365,Dortmund
+2020-12-02 20:00:00,Group stage,G,5,Juventus Turin,JUV,FC Dynamo Kiev,DYK,3,0,1-0,3-0,Allianz Stadium,41507,Turin
+2020-12-02 20:00:00,Group stage,F,5,Club Brugge,BRU,FC Zenit St Petersburg,ZEN,3,0,1-0,3-0,Jan Breydel Stadium,29975,Bruges
+2020-12-02 20:00:00,Group stage,H,5,Manchester United,MNU,Paris Saint-Germain,PSG,1,3,1-1,1-3,Old Trafford,75635,Manchester
+2020-12-02 17:55:00,Group stage,H,5,Basaksehir FK,BAS,RB Leipzig,RBL,3,4,1-2,3-4,Basaksehir Fatih Terim Stadium,17156,Istanbul
+2020-12-02 20:00:00,Group stage,G,5,Ferencvarosi TC,FTC,FC Barcelona,FCB,0,3,0-3,0-3,Groupama Arena,22000,Budapest
+2020-12-08 17:55:00,Group stage,F,6,FC Zenit St Petersburg,ZEN,Borussia Dortmund,BVB,1,2,1-0,1-2,Gazprom Arena,70000,Saint Petersburg
+2020-12-08 17:55:00,Group stage,F,6,SS Lazio Roma,LAZ,Club Brugge,BRU,2,2,2-1,2-2,Stadio Olimpico,70634,Rome
+2020-12-08 20:00:00,Group stage,H,6,RB Leipzig,RBL,Manchester United,MNU,3,2,2-0,3-2,Red Bull Arena,42558,Leipzig
+2020-12-08 20:00:00,Group stage,G,6,FC Barcelona,FCB,Juventus Turin,JUV,0,3,0-2,0-3,Camp Nou,98787,Barcelona
+2020-12-08 20:00:00,Group stage,H,6,Paris Saint-Germain,PSG,Basaksehir FK,BAS,5,1,3-0,5-1,Parc des Princes,47929,Paris
+2020-12-08 20:00:00,Group stage,E,6,Chelsea FC,CFC,FC Krasnodar,KRA,1,1,1-1,1-1,Stamford Bridge,41798,London
+2020-12-08 20:00:00,Group stage,G,6,FC Dynamo Kiev,DYK,Ferencvarosi TC,FTC,1,0,0-0,1-0,Olimpiysky National Sports Complex,70050,Kiev
+2020-12-08 20:00:00,Group stage,E,6,FC Stade Rennes,REN,FC Sevilla,SEV,1,3,0-2,1-3,Roazhon Park,29778,Rennes
+2020-12-09 17:55:00,Group stage,D,6,FC Midtjylland,MJY,Liverpool FC,LFC,1,1,0-1,1-1,MCH Arena,11809,Herning
+2020-12-09 17:55:00,Group stage,D,6,Ajax Amsterdam,AJA,Atalanta Bergamasca Calcio,ATA,0,1,0-0,0-1,Johan Cruijff Arena,54990,Amsterdam
+2020-12-09 20:00:00,Group stage,C,6,Manchester City,MNC,Olympique Marseille,OM,3,0,0-0,3-0,Etihad Stadium,46708,Manchester
+2020-12-09 20:00:00,Group stage,C,6,Olympiacos FC,OLY,FC Porto,FCP,0,2,0-1,0-2,Georgios Karaiskakis,32115,Piraeus
+2020-12-09 20:00:00,Group stage,B,6,Inter Milano,INT,FC Shakhtar Donetsk,SHA,0,0,0-0,0-0,Giuseppe Meazza,80018,Milan
+2020-12-09 20:00:00,Group stage,A,6,FC Salzburg,SAL,Atletico Madrid,ATM,0,2,0-1,0-2,Red Bull Arena,30188,Salzburg
+2020-12-09 20:00:00,Group stage,B,6,Real Madrid,RMA,Borussia Monchengladbach,BMG,2,0,2-0,2-0,Estadio Alfredo di Stefano,8400,Madrid
+2020-12-09 20:00:00,Group stage,A,6,FC Bayern Munich,FCB,FC Lokomotiv Moscow,LOK,2,0,0-0,2-0,Allianz Arena,75000,Munich
+2020-11-03 20:00:00,Group stage,C,3,FC Porto,FCP,Olympiacos FC,OLY,0,0,,,Estadio do Dragao,52033,Porto
+2021-02-16 20:00:00,Playoffs,Knockout stage,1/8 - finals,FC Barcelona,FCB,Paris Saint-Germain,PSG,1,4,1-1,1-4,Camp Nou,98787,Barcelona
+2021-02-16 20:00:00,Playoffs,Knockout stage,1/8 - finals,RB Leipzig,RBL,Liverpool FC,LFC,0,2,0-0,0-2,Puskas Arena,67,Budapest
+2021-02-17 20:00:00,Playoffs,Knockout stage,1/8 - finals,FC Sevilla,SEV,Borussia Dortmund,BVB,2,3,1-3,2-3,Ramon Sanchez Pizjuan,45500,Seville
+2021-02-17 20:00:00,Playoffs,Knockout stage,1/8 - finals,FC Porto,FCP,Juventus Turin,JUV,2,1,1-0,2-1,Estadio do Dragao,52033,Porto
+2021-02-23 20:00:00,Playoffs,Knockout stage,1/8 - finals,Atletico Madrid,ATM,Chelsea FC,CFC,0,1,0-0,0-1,National Arena,55600,Bucharest
+2021-02-23 20:00:00,Playoffs,Knockout stage,1/8 - finals,SS Lazio Roma,LAZ,FC Bayern Munich,FCB,1,4,0-3,1-4,Stadio Olimpico,70634,Rome
+2021-02-24 20:00:00,Playoffs,Knockout stage,1/8 - finals,Borussia Monchengladbach,BMG,Manchester City,MNC,0,2,0-1,0-2,Puskas Arena,67,Budapest
+2021-02-24 20:00:00,Playoffs,Knockout stage,1/8 - finals,Atalanta Bergamasca Calcio,ATA,Real Madrid,RMA,0,1,0-0,0-1,Gewiss Stadium,26393,Bergamo
+2021-03-09 20:00:00,Playoffs,NaN,1/8 - finals,Juventus Turin,JUV,FC Porto,FCP,3,2,0-1,2-1,Allianz Stadium,41507,Turin
+2021-03-09 20:00:00,Playoffs,NaN,1/8 - finals,Borussia Dortmund,BVB,FC Sevilla,SEV,2,2,1-0,2-2,Signal Iduna Park,81365,Dortmund
+2021-03-10 20:00:00,Playoffs,NaN,1/8 - finals,Liverpool FC,LFC,RB Leipzig,RBL,2,0,0-0,2-0,Puskas Arena,67,Budapest
+2021-03-10 20:00:00,Playoffs,NaN,1/8 - finals,Paris Saint-Germain,PSG,FC Barcelona,FCB,1,1,1-1,1-1,Parc des Princes,47929,Paris
+2021-03-16 20:00:00,Playoffs,NaN,1/8 - finals,Real Madrid,RMA,Atalanta Bergamasca Calcio,ATA,3,1,1-0,3-1,Estadio Alfredo di Stefano,8400,Madrid
+2021-03-16 20:00:00,Playoffs,NaN,1/8 - finals,Manchester City,MNC,Borussia Monchengladbach,BMG,2,0,2-0,2-0,Etihad Stadium,46708,Manchester
+2021-03-17 20:00:00,Playoffs,NaN,1/8 - finals,FC Bayern Munich,FCB,SS Lazio Roma,LAZ,2,1,1-0,2-1,Allianz Arena,75000,Munich
+2021-03-17 20:00:00,Playoffs,NaN,1/8 - finals,Chelsea FC,CFC,Atletico Madrid,ATM,2,0,1-0,2-0,Stamford Bridge,41798,London
+2021-04-06 19:00:00,Playoffs,NaN,Quarter-finals,Real Madrid,RMA,Liverpool FC,LFC,3,1,2-0,3-1,Estadio Alfredo di Stefano,8400,Madrid
+2021-04-06 19:00:00,Playoffs,NaN,Quarter-finals,Manchester City,MNC,Borussia Dortmund,BVB,2,1,1-0,2-1,Etihad Stadium,46708,Manchester
+2021-04-07 19:00:00,Playoffs,Knockout stage,Quarter-finals,FC Bayern Munich,FCB,Paris Saint-Germain,PSG,2,3,1-2,2-3,Allianz Arena,75000,Munich
+2021-04-07 19:00:00,Playoffs,Knockout stage,Quarter-finals,FC Porto,FCP,Chelsea FC,CFC,0,2,0-1,0-2,Ramon Sanchez Pizjuan,45500,Seville
+2021-04-13 19:00:00,Playoffs,Knockout stage,Quarter-finals,Paris Saint-Germain,PSG,FC Bayern Munich,FCB,0,1,0-1,0-1,Parc des Princes,47929,Paris
+2021-04-13 19:00:00,Playoffs,Knockout stage,Quarter-finals,Chelsea FC,CFC,FC Porto,FCP,0,1,0-0,0-1,Ramon Sanchez Pizjuan,45500,Seville
+2021-04-14 19:00:00,Playoffs,Knockout stage,Quarter-finals,Borussia Dortmund,BVB,Manchester City,MNC,1,2,1-0,1-2,Signal Iduna Park,81365,Dortmund
+2021-04-14 19:00:00,Playoffs,Knockout stage,Quarter-finals,Liverpool FC,LFC,Real Madrid,RMA,0,0,0-0,0-0,Anfield,54074,Liverpool
+2021-04-27 19:00:00,Playoffs,Knockout stage,Semi-finals,Real Madrid,RMA,Chelsea FC,CFC,1,1,1-1,1-1,Estadio Alfredo di Stefano,8400,Madrid
+2021-04-28 19:00:00,Playoffs,Knockout stage,Semi-finals,Paris Saint-Germain,PSG,Manchester City,MNC,1,2,1-0,1-2,Parc des Princes,47929,Paris
+2021-05-05 19:00:00,Playoffs,Knockout stage,Semi-finals,Chelsea FC,CFC,Real Madrid,RMA,2,0,1-0,2-0,Stamford Bridge,41798,London
+2021-05-04 19:00:00,Playoffs,Knockout stage,Semi-finals,Manchester City,MNC,Paris Saint-Germain,PSG,2,0,1-0,2-0,Etihad Stadium,46708,Manchester
+2021-05-29 19:00:00,Playoffs,Knockout stage,Final,Manchester City,MNC,Chelsea FC,CFC,0,1,0-1,0-1,Estadio do Dragao,52033,Porto
