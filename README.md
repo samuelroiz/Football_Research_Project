@@ -34,7 +34,8 @@ The data base is formed by several data:
 <p> world_cup_with_coordinates.json </p> 
 
 <b> GeoJSON: </b>
-<p> world_cup_geojson.geojson uefa_geojson.geojson </p> 
+<p> world_cup_geojson.geojson  </p> 
+<p> uefa_geojson.geojson </p> 
 
 ## Website Pages
 
