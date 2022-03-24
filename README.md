@@ -39,21 +39,21 @@ The data base is formed by several data:
 
 ## Website Pages
 
-### Cover of Website
+### <u> Cover of Website </u>
 
 ![Cover of Website](https://github.com/samuelroiz/Football_Research_Project/blob/main/Sven_Football/images/index_html_cover.png)
 
 
-### About
+###  <u> About  </u>
 
 ![About](https://github.com/samuelroiz/Football_Research_Project/blob/main/Sven_Football/images/about_html.png)
 
-### Authors of the Website
+###   <u> Authors of the Website  </u>
 
 ![Authors of Website](https://github.com/samuelroiz/Football_Research_Project/blob/main/Sven_Football/images/authors_html.png)
 
 
-### Map of soccer matches
+###  <u> Map of soccer matches  </u>
 
 ![Map Part 1](https://github.com/samuelroiz/Football_Research_Project/blob/main/Sven_Football/images/map_part_1.png)
 
@@ -63,11 +63,11 @@ The data base is formed by several data:
 
 ![Map Part 4](https://github.com/samuelroiz/Football_Research_Project/blob/main/Sven_Football/images/map_part_4.png)
 
-### Messi vs Ronaldo Chart
+###  <u> Messi vs Ronaldo Chart  </u>
 
 ![Messi vs Ronaldo Chart](https://github.com/samuelroiz/Football_Research_Project/blob/main/Sven_Football/images/messi_ronaldo_chart.png)
 
-### League Page Example
+###  <u> League Page Example  </u>
 
 ![League Page Example](https://github.com/samuelroiz/Football_Research_Project/blob/main/Sven_Football/images/league_example.png)
 
