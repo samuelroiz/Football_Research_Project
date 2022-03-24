@@ -1,6 +1,6 @@
 # Football_Research_Project
 Research on football (soccer) 
-Link to website: https://samuelroiz.github.io/FTB_cover/
+Link to website: [Football Website](https://samuelroiz.github.io/FTB_cover/)
 
 ## About the project...
 
@@ -70,3 +70,35 @@ The data base is formed by several data:
 ### League Page Example
 
 ![League Page Example](https://github.com/samuelroiz/Football_Research_Project/blob/main/Sven_Football/images/league_example.png)
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/samuelroiz/1af49ec9eea365bc845ba04c5071a976) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* **Samuel Roiz** - *Data cleaned, API Keys, Plot, Website Edit* - [GitHub](https://github.com/samuelroiz)
+
+* **LaQuita Williams** - *Website Edit* - [GitHub](https://github.com/laquita44) 
+
+* **Leo Lima** - *Website Edit* - [GitHub](https://github.com/Leolima539) 
+
+* **Kevin Perez** - *Plot* - [GitHub](https://github.com/KevinKVNPR) 
+
+
+See also the list of [contributors](https://github.com/samuelroiz) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/samuelroiz/1af49ec9eea365bc845ba04c5071a976) file for details
+
+## Acknowledgments
+
+* [Sport Data](https://rapidapi.com/api-sports/api/api-football/pricing)
+* [Wolrd Cup](https://www.api-football.com/documentation-v3)
+* USC Data Visualization
+* CSUN Mathematics
