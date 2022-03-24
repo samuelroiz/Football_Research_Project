@@ -12,30 +12,30 @@ Sport Data Api
 The data base is formed by several data:
 
 <b> CSV: </b>
-<p> MessiRonaldo.csv </p>
-<p> cristiano_vs_messi.csv  </p> 
-<p> results.csv </p> 
-<p> shootouts.csv </p> 
+<p> * MessiRonaldo.csv </p>
+<p> * cristiano_vs_messi.csv  </p> 
+<p> * results.csv </p> 
+<p> * shootouts.csv </p> 
 
 <b> JSON: </b>
-<p> messi_assists.json  </p> 
-<p> messi_goals.json </p> 
-<p> sportdataapi_leagues.json </p> 
-<p> sportdataapi_uefa_champions_league_season_id.json </p> 
-<p> sportdataapi_uefa_chapions_league_season_id_1243.json </p> 
-<p> sportdataapi_uefa_chapions_league_season_id_1245.json </p> 
-<p> sportdataapi_uefa_chapions_league_season_id_1247.json </p> 
-<p> sportdataapi_uefa_chapions_league_season_id_1959.json </p> 
-<p> sportdataapi_world_cup_season_id.json </p> 
-<p> sprtsdataapi_world_cup_matches.json </p> 
-<p> test_json.json </p> 
-<p> uefa_MAIN_JSON.json </p> 
-<p> wc_lat_lng.json </p> 
-<p> world_cup_with_coordinates.json </p> 
+<p> * messi_assists.json  </p> 
+<p> * messi_goals.json </p> 
+<p> * sportdataapi_leagues.json </p> 
+<p> * sportdataapi_uefa_champions_league_season_id.json </p> 
+<p> * sportdataapi_uefa_chapions_league_season_id_1243.json </p> 
+<p> * sportdataapi_uefa_chapions_league_season_id_1245.json </p> 
+<p> * sportdataapi_uefa_chapions_league_season_id_1247.json </p> 
+<p> * sportdataapi_uefa_chapions_league_season_id_1959.json </p> 
+<p> * sportdataapi_world_cup_season_id.json </p> 
+<p> * sprtsdataapi_world_cup_matches.json </p> 
+<p> * test_json.json </p> 
+<p> * uefa_MAIN_JSON.json </p> 
+<p> * wc_lat_lng.json </p> 
+<p> * world_cup_with_coordinates.json </p> 
 
 <b> GeoJSON: </b>
-<p> world_cup_geojson.geojson  </p> 
-<p> uefa_geojson.geojson </p> 
+<p> * world_cup_geojson.geojson  </p> 
+<p> * uefa_geojson.geojson </p> 
 
 ## Website Pages
 
